@@ -1,0 +1,28 @@
+<!--[if lt IE 10]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+                                    
+<nav>
+<ul>
+  {% assign sorted_sections = site.sections | sort:"order_no" %}
+  {% for section in sorted_sections %}
+    <li><a href="#{{ section.about }}">{{ section.about }}</a></li>
+  {% endfor %}
+  <li><a href="#participants">Participate?</a></li>
+  <!--
+<li><a>About</a></li>
+<li><a>When and where</a></li>
+<li><a>Participate</a></li>
+<li><a>How to get there</a></li>
+<li><a>Sponsors</a></li>
+-->
+</ul>
+</nav>
+                                                                                                                                                              
+<header class="site-header">
+<h1 class="text-center"><span class="snowflake">&#10052;</span><br>CodeFreeze</h1>
+<h2>4 of February in 2015</h2>
+</header>
+                                                                                                                                                                                                      
+<div class="hero-unit frontpage"></div>
+

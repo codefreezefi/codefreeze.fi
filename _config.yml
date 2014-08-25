@@ -1,0 +1,10 @@
+highlighter: pygments
+permalink: none
+sass:
+    style: :compressed
+sections:
+- about
+- how-to-get-there
+collections:
+- sections
+- participants

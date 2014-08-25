@@ -1,0 +1,212 @@
+---
+#For Jekyll to read this
+---
+
+// bower:scss
+// endbower
+
+*, *:before, *:after 
+{
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+
+body 
+{
+    background: #1c1c1d;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #222222;
+    padding: 0;
+    margin: 0;
+}
+
+a
+{
+    cursor: pointer;
+}
+
+.left
+{
+    float: left;
+}
+
+.right
+{
+    float: right;
+}
+
+.width-30
+{
+    width: 30%;
+}
+
+.width-40
+{
+    width: 40%;
+}
+
+.width-50
+{
+    width: 50%;
+}
+
+.width-60
+{
+    width: 60%;
+}
+
+.width-70
+{
+    width: 70%;
+}
+
+nav
+{
+    z-index: 2000;
+    position: absolute;
+    right: 30px;
+    top: 20px;
+    
+    ul
+    {
+        list-style: none;
+    }
+    
+    li
+    {
+        float: left;
+        margin-left: 20px;
+        
+        a
+        {
+            color: #FFF;
+            font-size: 1.2em;
+            
+            &:hover
+            {
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+.site-header
+{
+    z-index: 1000;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    color: #FFF;
+    margin-bottom: 25px;
+    
+    h1
+    {
+        font-size: 4em;
+        font-weight: normal;
+        margin-bottom: 0;
+        margin-top: 0px;  
+    }
+
+    h2
+    {
+        font-weight: normal;
+        font-size: 1.4em;
+        margin: 5px 0 0;
+    }
+    h3
+    {
+        font-weight: normal;
+        margin: 0;
+    }
+    h4
+    {
+        font-weight: normal;
+    }
+    
+}
+
+.snowflake
+{
+    font-size: 260px;
+    line-height: 1;
+    font-weight: 600;
+    text-shadow: 5px 5px 0px rgba(29, 87, 145, 1);
+}
+
+
+
+
+.vertical-center
+{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.map
+{
+    
+}
+
+.main-content
+{
+    padding: 2em;
+    max-width: 1000px;
+    margin: 0 auto;
+    background: #FFF;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    
+    h2
+    {
+        font-weight: 600;
+        font-size: 3em;
+    }
+}
+
+hr 
+{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+p
+{
+    &.large
+    {
+        font-size: 1.8em;
+    }
+}
+
+.text-center
+{
+    text-align: center;
+}
+
+.text-line-through
+{
+    text-decoration: line-through;
+}
+
+
+.hero-unit
+{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    
+    &.frontpage
+    {
+        height: 1000px;
+        background-image: url(../images/revontulet.jpg);
+        background-size: cover;
+        z-index: -1;
+    }
+}
+
+
+
