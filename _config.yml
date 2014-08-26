@@ -8,3 +8,9 @@ sections:
 collections:
 - sections
 - participants
+defaults:
+ - 
+   scope: 
+     path: "_participants"
+   value:
+     layout: "sub-page"
