@@ -19,9 +19,12 @@ Luckily, nature is at the core of Kiilopää. And not only that, Kiilopää prov
 
 # And what does it cost?
 
+For the event, we have a special prices including stay, breakfast, lunch, dinner and smoke sauna on Tuesday:
+
 * For single bed room: 82€ / day
 * For double 58€ / day
 * For a wilderness cabin 86€-61€ (2-4 persons / cabin)
+
 
 In Kiilopää, Inari, see
 
