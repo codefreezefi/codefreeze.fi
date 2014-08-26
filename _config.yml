@@ -12,5 +12,5 @@ defaults:
  - 
    scope: 
      path: "_participants"
-   value:
+   values:
      layout: "sub-page"
