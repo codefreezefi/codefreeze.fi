@@ -122,6 +122,11 @@ nav
         font-weight: normal;
     }
     
+    a
+    {
+        text-decoration: none;
+        color: inherit;
+    }
 }
 
 .snowflake
@@ -202,7 +207,7 @@ p
     &.frontpage
     {
         height: 1000px;
-        background-image: url(../images/revontulet.jpg);
+        background-image: url(/images/revontulet.jpg);
         background-size: cover;
         z-index: -1;
     }
