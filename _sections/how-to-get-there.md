@@ -1,8 +1,8 @@
 ---
 order_no: 9
-about: "How to get there"
+about: "directions"
 contained: true
-title: "How to get there"
+title: "Directions: How to get there"
 ---
 
 
