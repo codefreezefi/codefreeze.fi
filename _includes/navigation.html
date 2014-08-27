@@ -2,13 +2,14 @@
 <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 <![endif]-->
                                     
-<nav>
+<nav class="site-nav">
 <ul>
   {% assign sorted_sections = site.sections | sort:"order_no" %}
   {% for section in sorted_sections %}
-    <li><a href="#{{ section.about }}">{{ section.about }}</a></li>
+    <li><a href="#section-{{ section.about }}">{{ section.about }}</a></li>
   {% endfor %}
-  <li><a href="#participants">Participate?</a></li>
+  <li><a href="#section-participate">Participate</a></li>
+  <li><a>Sponsors</a></li>
   <!--
 <li><a>About</a></li>
 <li><a>When and where</a></li>
@@ -19,13 +20,4 @@
 </ul>
 </nav>
 
-{{ include site-header.html }}
-<!--
-<header class="site-header">
-<h1 class="text-center"><span class="snowflake">&#10052;</span><br>CodeFreeze</h1>
-<h2>Feb 3rd-4th, 2015</h2>
-</header>
--->
-
-<div class="hero-unit frontpage"></div>
 
