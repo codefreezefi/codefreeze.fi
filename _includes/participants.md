@@ -5,9 +5,7 @@
      </div>
   {% for participant in site.participants  %}	
       <div class="participant">
-      <div class="name">{{ participant.name }}</div> 
-      <p>{{ participant.twitter }}</p> 
-      </div>
+      <div> <span class="name">{{ participant.name }}</span>: @{{ participant.twitter }}</div> 
   {% endfor %}
 </section>
 
