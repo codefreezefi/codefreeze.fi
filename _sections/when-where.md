@@ -10,14 +10,14 @@ title: "When and Where"
   <p>CodeFreeze will take place 4 of February in 2015</p>
 </div>
 <div class="tile image-tile photo-1">
-  <a href="">Image credit: Kiilop&auml;&auml;</a>
+  <a href="http://www.suomenlatu.fi/kiilopaa/en/">Image credit: Suomen Latu</a>
 </div>
 <div class="tile text-tile">
   <h3>Where?</h3> 
   <p>In the beautiful scenes of Kiilopää, Sodankylä, Finland.</p>
 </div>
 <div class="tile image-tile photo-2">
-  <a href="">Image credit: Kiilop&auml;&auml;</a>
+  <a href="http://www.suomenlatu.fi/kiilopaa/en/">Image credit: Suomen Latu</a>
 </div>
 
 
