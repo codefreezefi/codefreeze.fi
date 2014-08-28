@@ -22,9 +22,9 @@ Luckily, nature is at the core of Kiilopää. And not only that, Kiilopää prov
 
 For the event, we have a special prices including stay, breakfast, lunch, dinner and smoke sauna on Tuesday:
 
-* For single bed room: 82€ / day
-* For double 58€ / day
-* For a wilderness cabin 86€-61€ (2-4 persons / cabin)
+* For [single bed room](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/): 82€ / day
+* For [double](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/) 58€ / day
+* For a [wilderness cabin](http://www.suomenlatu.fi/kiilopaa/en/accommodation/cabins/wilderness-cabin-for-2-4-persons/) 86€-61€ (2-4 persons / cabin)
 
 ### Where?
 
