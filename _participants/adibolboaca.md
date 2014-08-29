@@ -1,6 +1,6 @@
 ---
 name: Adi Bolboacă
-image: http://mozaicworks.com/wp-content/uploads/2013/11/Adi.jpg
+image: images/adrianbolboaca.jpg
 twitter: adibolb
 blog: http://blog.adrianbolboaca.ro
 email: adrian.bolboaca@gmail.com
