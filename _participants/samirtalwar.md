@@ -1,6 +1,6 @@
 ---
 name: Samir Talwar
-picture: https://pbs.twimg.com/profile_images/487610514923483136/Aghg24vR.jpeg
+image: https://pbs.twimg.com/profile_images/487610514923483136/Aghg24vR.jpeg
 twitter: SamirTalwar
 blog: http://monospacedmonologues.com/
 email: samir@noodlesandwich.com
