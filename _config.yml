@@ -8,6 +8,7 @@ sections:
 collections:
 - sections
 - participants
+- kiilopaa_sections
 defaults:
  - 
    scope: 
