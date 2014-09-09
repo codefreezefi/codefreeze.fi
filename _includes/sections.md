@@ -10,7 +10,7 @@
 
       <h2>{{ section.title }}</h2> 
       <p>{{ section.output  }}</p>
-      {% if section.contained == "true"  %}
+      {% if section.contained %}
        </div>
       {% endif %}
     </section>
