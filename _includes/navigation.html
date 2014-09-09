@@ -6,7 +6,7 @@
 <ul>
   {% assign sorted_sections = site.sections | sort:"order_no" %}
   {% for section in sorted_sections %}
-    <li><a href="#section-{{ section.about }}">{{ section.about }}</a></li>
+    <li><a href="#{{ section.about }}">{{ section.about }}</a></li>
   {% endfor %}
   <!--
 <li><a>About</a></li>
