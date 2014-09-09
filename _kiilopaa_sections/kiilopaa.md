@@ -22,7 +22,7 @@ the smoke sauna is heated on Tuesday on Wednesday, and on Tuesday we have a priv
 
 For more information about the smoke sauna in Kiilopää, please [visit here](http://www.suomenlatu.fi/kiilopaa/en/smoke-sauna/)
 
-### Ice swimming
+### Winter swimming
 
 Have you ever been winter swimming? It is an experience when the air temperature is aroudn -20C while the water is -1 ºC. 
 You might want to try that first from the smoke sauna. And if feeling really crazy, why not to take a fresh start in the morning?

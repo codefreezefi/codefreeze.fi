@@ -14,7 +14,7 @@ title: "When and Where"
 </div>
 <div class="tile text-tile">
   <h3>Where?</h3> 
-  <p>In the beautiful scenes of Kiilopää, Sodankylä, Finland.</p>
+  <p>In the beautiful scenes of <a href="/kiilopaa">Kiilopää</a>, Sodankylä, Finland.</p>
 </div>
 <div class="tile image-tile photo-2">
   <a href="http://www.suomenlatu.fi/kiilopaa/en/">Image credit: Suomen Latu</a>
