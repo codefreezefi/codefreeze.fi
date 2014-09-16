@@ -15,7 +15,9 @@ title: "<span class='text-line-through'>Speakers</span> Participants"
   <li>
     <img src="{{ participant.image }}" />
     <span class="name">{{ participant.name }}</span>
-    <a href="https://twitter.com/{{ participant.twitter }}">@{{ participant.twitter }}</a>
+    {% if participant.twitter != null  %}
+      <a href="https://twitter.com/{{ participant.twitter }}">@{{ participant.twitter }}</a>
+    {% endif %}
   </li>
 {% endfor %}
 </ol>
