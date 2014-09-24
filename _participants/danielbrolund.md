@@ -2,5 +2,5 @@
 name: Daniel Brolund
 twitter: danielbrolund
 email: daniel.brolund@agical.com
-image: images/danielbrolund.jpg
+image: https://pbs.twimg.com/profile_images/1102355218/Daniel.jpg
 ---
