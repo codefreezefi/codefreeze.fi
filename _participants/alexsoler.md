@@ -7,7 +7,7 @@ email: alexandre@soler-sanandres.net
 room-type: Log cabin for 2+2 persons (Girlfriend, her 9 year old doughter and me)
 ---
 
-Crazy software craftsman enthusiasts hoping for great conversations and codings.
+Crazy software craftsman enthusiasts, hoping for great conversations and codings.
 
 Arrival: January 30. Landing in Ivalo at about 18:05, then bus to Kiilopää.
 Departure: February 5. Aircraft starts at 13:00. 
