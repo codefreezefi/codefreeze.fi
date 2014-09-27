@@ -9,6 +9,8 @@ contained: true
 
 Have you ever been coding under the northern lights? Or in a Lapp daylight? Early-mid February is one of the best times to see northern lights in action. And it also happens, that there's a full moon during the stay. We've done what we can - provide best possible time for some extraordinary experiences.
 
+We know it might be rather cold. Temperatures down to -25 ºC are normal at the time of the year.
+
 ### Smoke sauna?
 
 Being in Lapland in the winter, and one of the most important things is to have a decent sauna. And we do. There's a big enough smoke sauna to have probably up to 30 programmers. And possibility for winter swimming on a relaxing little stream.
@@ -25,6 +27,7 @@ For the event, we have a special prices including stay, breakfast, lunch, dinner
 * For [single bed room](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/): 82€ / day
 * For [double](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/) 58€ / day
 * For a [wilderness cabin](http://www.suomenlatu.fi/kiilopaa/en/accommodation/cabins/wilderness-cabin-for-2-4-persons/) 86€-61€ (2-4 persons / cabin)
+* For a [log cabin](http://www.suomenlatu.fi/kiilopaa/en/accommodation/cabins/log-cabin-for-2-2-person/) (very suitable for families): 125€ / day + 36€ / person / day, children 4-12 in half price. 
 
 ### Where?
 

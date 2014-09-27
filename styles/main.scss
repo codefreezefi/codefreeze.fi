@@ -200,6 +200,13 @@ p
 {
     max-width: 1000px;
     margin: 0 auto;
+
+    .info
+    {
+      max-width: 780px;
+      margin-left: 20px;
+    }
+
 }
 
 .full-width
@@ -411,6 +418,21 @@ p
             color: #195fc7;
         }
     }
+}
+
+.participants
+{
+    img
+    {
+        max-width: 200px;
+        border-radius: 30px;
+        display: block;
+    }
+}
+
+.push-left
+{
+  float: left;
 }
 
 

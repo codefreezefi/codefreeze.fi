@@ -1,5 +1,11 @@
 {% include header.html %}
    {% include site-header.html %}
+   {% if contained %}
+    <div class="container">
+   {% endif %}
    {{ content }}
+   {% if contained %}
+    </div >
+   {% endif %}
 {% include footer.html  %}
 
