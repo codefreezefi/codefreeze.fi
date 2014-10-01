@@ -1,6 +1,6 @@
 ---
 name: "<a href='https://github.com/rinkkasatiainen/codefreeze.fi'>You?</a>"
-picture: 
+image: 
 contact-via: [email or phone number]
 room-type: [single | double (with XYZ) | cabin (with X, Y & Z) ]
 ---
