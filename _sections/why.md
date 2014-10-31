@@ -27,7 +27,9 @@ For the event, we have a special prices including stay, breakfast, lunch, dinner
 * For [single bed room](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/): 82€ / day
 * For [double](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/) 58€ / day
 * For a <span class='text-line-through'>[wilderness cabin](http://www.suomenlatu.fi/kiilopaa/en/accommodation/cabins/wilderness-cabin-for-2-4-persons/) 86€-61€ (2-4 persons / cabin)</span> -> All booked
-* For a [log cabin](http://www.suomenlatu.fi/kiilopaa/en/accommodation/cabins/log-cabin-for-2-2-person/) (very suitable for families): 125€ / day + 36€ / person / day, children 4-12 in half price. 
+* For a <span class='text-line-through'> [log cabin](http://www.suomenlatu.fi/kiilopaa/en/accommodation/cabins/log-cabin-for-2-2-person/) (very suitable for families): 125€ / day + 36€ / person / day, children 4-12 in half price.</span> -> All booked
+
+If you still want to stay in a cabin, please contact Aki for more information - if we are able to do some magic!
 
 ### Where?
 
