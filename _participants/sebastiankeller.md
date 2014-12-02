@@ -1,6 +1,6 @@
 ---
 name: Sebastian Keller
-image: https://members.scrumalliance.org/system/user/photo/0018/5798/200x200/Sebastian.JPG
+image: https://avatars1.githubusercontent.com/u/4139819
 twitter: (@se_keller)[https://twitter.com/se_keller]
 contact-via: [sebastian.keller@it-agile.de]
 room-type: single
