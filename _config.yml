@@ -9,6 +9,7 @@ collections:
 - sections
 - participants
 - kiilopaa
+- faq
 defaults:
  - 
    scope: 
