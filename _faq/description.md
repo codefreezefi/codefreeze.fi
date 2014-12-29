@@ -13,3 +13,6 @@ Anyway, I'll bring most of my gear. I'll be around from Sunday evening until Thu
 
 And, if you'be read this far - please bring swimming suit. I know, we are in Finland and in Finland we go to sauna naked. That's true, except in (most) public saunas, where there can be anyone. And, swimming suit is nice when dipping into the rather refreshing water nearby the sauna.
 
+
+ _#proTip_: To acclimatize ourselves (I do this too, and I've experienced the benefits already) - when we're taking a shower, let's turn the knob to the coldest and enjoy a really refreshing cold shower. For a few seconds (at start) and then few tens of seconds. Doing that, and freezing cold temperatures in Lapland don't feel that cold anymore. 
+
