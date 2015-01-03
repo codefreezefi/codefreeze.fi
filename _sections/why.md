@@ -9,7 +9,7 @@ contained: true
 
 Have you ever been coding under the northern lights? Or in a Lapp daylight? Early-mid February is one of the best times to see northern lights in action. And it also happens, that there's a full moon during the stay. We've done what we can - provide best possible time for some extraordinary experiences.
 
-We know it might be rather cold. Temperatures down to -25 ºC are normal at the time of the year.
+We know it might be rather cold. Temperatures down to -25 ºC are normal at the time of the year. For some clothing tips, visit [here](faq)
 
 ### Smoke sauna?
 
