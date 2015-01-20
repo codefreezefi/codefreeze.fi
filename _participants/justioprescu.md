@@ -1,6 +1,6 @@
 ---
 name: Justinian Oprescu
-image: https://pbs.twimg.com/profile_images/556046337247313920/-KmCQ7HX_400x400.jpeg
+image: https://pbs.twimg.com/profile_images/557444616551530496/S9-prIIT.jpeg 
 email: justinian.oprescu@gmail.com
 twitter: JustiOprescu
 room-type: single
