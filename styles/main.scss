@@ -401,6 +401,8 @@ p
         img
         {
             max-width: 200px;
+            // TODO AkS: This does not really work - it makes it ugly
+            height: 200px;
             border-radius: 30px;
             display: block;
         }
