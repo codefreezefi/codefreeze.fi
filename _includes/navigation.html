@@ -6,7 +6,9 @@
 <ul>
   {% assign sorted_sections = site.sections | sort:"order_no" %}
   {% for section in sorted_sections %}
+    {% if section.about  %}
     <li><a href="#{{ section.about }}">{{ section.about }}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>
 </nav>
