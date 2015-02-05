@@ -8,11 +8,17 @@ sections:
 collections:
 - sections
 - participants
+- participants_2015
 - kiilopaa
 - faq
 defaults:
- - 
-   scope: 
-     path: "_participants"
-   values:
-     layout: "sub-page"
+    -
+        scope:
+            path: "_participants"
+        values:
+            layout: "sub-page"
+    -
+        scope:
+            path: "_participants-2015"
+        values:
+            layout: "sub-page"
