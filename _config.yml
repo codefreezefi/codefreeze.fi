@@ -8,9 +8,11 @@ sections:
 collections:
 - sections
 - participants
-- participants_2015
+- participants-2015
 - kiilopaa
 - faq
+- y2015
+- y2015-_sections
 defaults:
     -
         scope:
@@ -19,6 +21,11 @@ defaults:
             layout: "sub-page"
     -
         scope:
-            path: "_participants-2015"
+            path: "2015/_participants"
         values:
             layout: "sub-page"
+    -
+        scope:
+            path: "2015"
+        values:
+            layout: "index"
