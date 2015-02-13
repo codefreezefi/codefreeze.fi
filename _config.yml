@@ -21,7 +21,7 @@ defaults:
             layout: "sub-page"
     -
         scope:
-            path: "2015/_participants"
+            path: "2015/participants"
         values:
             layout: "sub-page"
     -

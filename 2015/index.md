@@ -20,8 +20,9 @@ layout: sub-page
 
    <h2>{{ section.title }}</h2> 
    <p>{{ section.output  }}</p>
+   <p class="author">{{ section.author }}</p>
    {% if section.contained   %}
-    </div>
+   </div>
    {% endif %}
  </section>
 {% endif %}

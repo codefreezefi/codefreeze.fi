@@ -1,12 +1,4 @@
 
 {% for participant in include.collection %}
-  <li>
-    <img src="{{ participant.image }}" />
-    <span class="name">{{ participant.name }}</span>
-    {% if participant.twitter != null  %}
-      <a href="https://twitter.com/{{ participant.twitter }}">@{{ participant.twitter }}</a>
-    {% else %}
-      &nbsp;
-    {% endif %}
-  </li>
+  {% include participant-list-item.md participant=participant %}
 {% endfor %}

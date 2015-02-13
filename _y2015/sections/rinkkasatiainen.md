@@ -1,14 +1,8 @@
 ---
-
-type_of: section
 order_no: 7
 contained: true
 title: "My thoughts"
-
+author: Aki Salmi
 ---
-
-Lorem ipsum
-
-## HEADER
 
 and some more text

@@ -1,11 +1,6 @@
----
-layout: sub-page
----
+{% assign participant=include.participant %}
 
-{% assign participants = site.participants  %}
-{% for participant in participants %}
-
- <section class="main-content text-center participants">
+ <section class="main-content text-center participant">
  <div class="container">
 
  <div class="image push-left">
@@ -31,4 +26,4 @@ layout: sub-page
  </div>
  </div>
  </section>
-{% endfor %}
+
