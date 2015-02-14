@@ -8,11 +8,9 @@ sections:
 collections:
 - sections
 - participants
-- participants-2015
 - kiilopaa
 - faq
 - y2015
-- y2015-_sections
 defaults:
     -
         scope:
