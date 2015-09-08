@@ -9,4 +9,4 @@ During the stay, there are guided treks in Kiilopää. Attending to the treks is
 For example. On Tuesday Feb 3rd there is Guided Nordic skiing trip ~ 15km during the day, and in the evening there is _Stars and the moon_ guided trip with snowshoes.
 On Wednesday, there is Guided snowshoe trip to nearby fells. 
 
-For more information, please refer to [Kiilopää weekly winter schedule](/kiilopaa/Kiilopaa-winter-program-2015.pdf )
+For more information, please refer to [Kiilopää weekly winter schedule](/kiilopaa/Weekly_Winter_program_2016.pdf )
