@@ -28,8 +28,8 @@ The prices include *stay*, *breakfast*, *lunch*, *dinner* and (most probably) *s
 
 * For [single bed room](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/): 82€ / day
 * For [double](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/) 60€ / day
-* For a [wilderness cabin](http://www.suomenlatu.fi/kiilopaa/en/accommodation/cabins/wilderness-cabin-for-2-4-persons/) 95€ / cabin + 38€ / person / day for the meals
-* For a [log cabin](http://www.suomenlatu.fi/kiilopaa/en/accommodation/cabins/log-cabin-for-2-2-person/) (very suitable for families): 110€ / day + 38€ / person / day
+* For a [wilderness cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) 95€ / cabin + 38€ / person / day for the meals
+* For a [log cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) (very suitable for families): 110€ / day + 38€ / person / day
 
 ### Where?
 
