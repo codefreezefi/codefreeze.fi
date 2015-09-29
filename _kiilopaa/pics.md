@@ -11,7 +11,7 @@ order_no: 3
 <div class="tile image-tile photo-winter-swimming">
 </div>
 <div class="tile text-tile">
-  <h3>Full moon</h3>
+  <h3>New moon</h3>
   <p>On Tuesday, there is 'Moon and Stars' snow shoe trek in the night.</p>
 </div>
 <div class="tile image-tile photo-full-moon">

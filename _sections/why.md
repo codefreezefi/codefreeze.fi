@@ -22,14 +22,14 @@ Luckily, nature is at the core of Kiilopää. And not only that, Kiilopää prov
 
 ### And what does it cost?
 
-<strong>The price for the next CodeFreeze is yet to be determined.</strong>
+The prices are valid for the whole stay during the following duration: **Friday Jan 9th 2016 - Sunday Jan 17th 2016**
 
-In 2015, the prices were as follows, including stay, breakfast, lunch, dinner and smoke sauna on Tuesday:
+The prices include *stay*, *breakfast*, *lunch*, *dinner* and (most probably) *smoke sauna* on Monday or Tuesday:
 
 * For [single bed room](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/): 82€ / day
-* For [double](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/) 58€ / day
-* For a [wilderness cabin](http://www.suomenlatu.fi/kiilopaa/en/accommodation/cabins/wilderness-cabin-for-2-4-persons/) 86€-61€ (2-4 persons / cabin)
-* For a [log cabin](http://www.suomenlatu.fi/kiilopaa/en/accommodation/cabins/log-cabin-for-2-2-person/) (very suitable for families): 125€ / day + 36€ / person / day, children 4-12 half price
+* For [double](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/) 60€ / day
+* For a [wilderness cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) 95€ / cabin + 38€ / person / day for the meals
+* For a [log cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) (very suitable for families): 110€ / day + 38€ / person / day
 
 ### Where?
 
