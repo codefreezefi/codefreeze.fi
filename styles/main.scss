@@ -397,6 +397,8 @@ p
         float: left;
         text-align: center;
         margin: 0 15px 15px 0;
+		//TODO AkS: try something bit different. Maybe just copying stuff from europeantestingconference.eu
+		height: 270px;
         
         img
         {
@@ -410,6 +412,7 @@ p
         .name
         {
             display: block;
+			width: 200px;
             font-size: 18px;
             font-weight: 600;
             margin: 5px 0 0 0;
