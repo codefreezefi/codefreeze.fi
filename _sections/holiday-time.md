@@ -1,6 +1,6 @@
 ---
 order_no: 60
-about: "when-where"
+about: "holiday-time"
 title: "Spending some time at Kiilopää?"
 contained: true
 ---
