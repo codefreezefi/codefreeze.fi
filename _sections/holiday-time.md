@@ -31,4 +31,4 @@ Transfer to and from reindeer farm.*
  * <h3>FISHING EXPERIENCE BY SNOWMOBILE</h3>
  * <h3>SNOWMOBILE SAFARI TO REINDEER FARM</h3>
 
-For more information about the safaris, including prices, see the brochure [here](/kiilopaa/SAFARIS_WINTER_2015-2016.pdf ) or visit the with [more information](/kiilopaa)
+For more information about the safaris, including prices, see the brochure [here](/kiilopaa/SAFARIS_WINTER_2015-2016.pdf ) or visit the [official website](http://www.kiilopaa.fi/en)
