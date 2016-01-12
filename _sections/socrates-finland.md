@@ -14,4 +14,4 @@ Codefreeze is proud to be part of the family of SoCraTes conferences spread all 
  * [SoCraTes UK](http://socratesuk.org/), since 2013
  * [SoCraTes Day Switzerland](http://socrates-day.ch/), the first edition on 2015
  * [I T.A.K.E unconference](http://itakeunconf.com)
- * SoCraTes Italy, first edition on the summer of '16
+ * [SoCraTes Italy](http://socrates-it.github.io/), first edition 12 - 14 May 2016, Rimini, Italy
