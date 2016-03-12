@@ -358,7 +358,9 @@ p
     &.frontpage
     {
         height: 1000px;
-        background-image: url(../images/revontulet.jpg);
+        //background-image: url(../images/revontulet.png);
+        // resized the image: without looking at image quality
+        background-image: url(../images/revontulet.min.jpg);
         background-size: cover;
         z-index: -1;
     }
