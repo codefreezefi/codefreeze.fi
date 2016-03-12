@@ -11,6 +11,7 @@ collections:
 - kiilopaa
 - faq
 - y2015
+- y2016
 defaults:
     -
         scope:
