@@ -1,4 +1,3 @@
-highlighter: pygments
 permalink: none
 sass:
     style: :compressed
