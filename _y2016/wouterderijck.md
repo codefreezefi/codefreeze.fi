@@ -2,7 +2,7 @@
 name: Wouter De Rijck
 image: /images/wouter.jpg
 twitter: ridingwolf
-contact-via: wouter@ichoosr.com
+contact-via: cybercaveman@gmail.com
 
 extra-activities: snowmobile, snowboarding, snowshoe hiking, anything with being near fire, boardgames
 freeride-day: I have my own board with me and I'll climb up the hill with snowshoes and come back by board, if you want to join let me know (having a partner for this has my preference over going solo)
