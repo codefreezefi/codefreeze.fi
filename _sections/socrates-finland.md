@@ -1,6 +1,6 @@
 ---
 order_no: 3
-about: about
+about: SoCraTes Fi?
 contained: true
 title: SoCraTes Finland?
 ---
