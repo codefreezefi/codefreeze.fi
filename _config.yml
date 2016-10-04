@@ -9,7 +9,8 @@ collections:
 - participants
 - kiilopaa
 - faq
-- archive
+- y2015
+- y2016
 
 defaults:
     -
