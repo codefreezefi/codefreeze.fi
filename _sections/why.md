@@ -26,8 +26,8 @@ The prices are valid for the whole stay during the following duration: **Friday 
 
 The prices include *stay*, *breakfast*, *lunch*, *dinner* and (most probably) *smoke sauna* on Monday or Tuesday:
 
-* For [single bed room](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/): 82€ / day
-* For [double](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/) 60€ / day
+* For [single bed room](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/): 85€ / day
+* For [double](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/) 63€ / day
 * For a [wilderness cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) 95€ / cabin + 38€ / person / day for the meals
 * For a [log cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) (very suitable for families): 110€ / day + 38€ / person / day
 
