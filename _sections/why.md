@@ -22,7 +22,7 @@ Luckily, nature is at the core of Kiilopää. And not only that, Kiilopää prov
 
 ### And what does it cost?
 
-The prices are valid for the whole stay during the following duration: **Friday Jan 9th 2016 - Sunday Jan 17th 2016**
+The prices are valid for the whole stay during the following duration 
 
 The prices include *stay*, *breakfast*, *lunch*, *dinner* and (most probably) *smoke sauna* on Monday or Tuesday:
 
