@@ -1,7 +1,7 @@
 ---
 name: Petri Heiramo
 twitter: pheiramo
-image:  https://pbs.twimg.com/profile_images/1167753461/Petri_Heiramo_Square.jpg
+image:  "https://pbs.twimg.com/profile_images/1167753461/Petri_Heiramo_Square.jpg"
 contact-via: [email or phone number]
 room-type: Wilderness cabin with Family: Fri-Tue
 ---
