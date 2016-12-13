@@ -5,7 +5,7 @@ contained: true
 title: Prepare for your last commit
 ---
 
-Codefreeze is a unconference with very little structure.
+Codefreeze is an unconference with very little structure.
 Actually, it's not a conference at all.
 CodeFreeze is a _time_ and _place_ for software craftspeople to meet.
 We would like to have likeminded people to gather in one place and have long conversations about craftsmanship over a beer.
