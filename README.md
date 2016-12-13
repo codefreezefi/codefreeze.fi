@@ -10,7 +10,7 @@ In order to register, all you need to do is to
  * copy the FrontMatter from <code>_participants/_template.md</code>
  * Add your relevant information
  * You could add something about yourself on the newly created page, using markdown syntax, if you so wish. That will be visible in www.codefreeze.fi/participants.
- * create a pull request, and you're name and picture will be shown in the web site.
+ * create a pull request, and your name and picture will be shown in the web site.
 
 Updating the site
 ================
