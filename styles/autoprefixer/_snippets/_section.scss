@@ -1,3 +1,24 @@
+
+.main-content
+{
+  padding: 2em;
+  background: rgba(255,255,255,0.7);
+  margin-bottom: 20px;
+  border-top: 5px solid #557fd0;
+  width: 100%;
+  float: left;
+      
+  h2 {
+    font-weight: 600;
+    font-size: 3em;
+    margin-top: 0;
+  }
+  
+  ul {
+    list-style: none;  
+  }
+}
+
 $main-width: 970px;
 .bullets{
   padding: 85px 50px 50px 50px;
@@ -54,13 +75,13 @@ main{
     text-align: center;
     margin: auto;
     width: $main-width;
-    color: $tusk;
+    color: $main-text-color;
 
     a{
-      color: $tusk;
+      color: $main-text-color;
 
       &:hover {
-        color: $tusk;
+        color: $main-text-color;
       }
     }
     padding: 40px 0;

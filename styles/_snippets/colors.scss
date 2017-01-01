@@ -23,9 +23,11 @@ $tree-poppy: #f9921c;
 //functional colors
 $navbar-background: rgba(0,0,0,0.65);
 $navbar-text-background: #2A2C39;
+$navbar-text: $white;
+
 $h1-color: $tusk;
 
-$main-text-color: $white;  //could be $main-shaft
+$main-text-color: $main-shaft;
 
 $link-color: $main-text-color;
 $link-hover-color: $link-color;
@@ -33,7 +35,6 @@ $link-visited-color: $link-color;
 $link-color-visited: $main-text-color;
 
 $main-border: $link-water;
-$nav-link-color: $tusk;  //#202129 is very close to $shark!
 
 $border-color: $main-text-color;
 $section-border-color: $cool-gray;

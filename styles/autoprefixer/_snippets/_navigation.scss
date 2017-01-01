@@ -15,7 +15,7 @@
   }
 
 .navbar{
-  color: $main-text-color;
+  color: $navbar-text;
   position: fixed;
   top: 0;
   z-index: 100;
@@ -46,6 +46,10 @@
     li {
       background: $navbar-text-background;
     }
+  }
+
+  a{
+    color: inherit;
   }
 
 $navi_hidden: 735px;

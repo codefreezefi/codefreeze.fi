@@ -24,136 +24,6 @@
   @import "_autoprefixed/footer";
 
 
-
-
-
-*, *:before, *:after 
-{
-    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
-}
-
-body 
-{
-    background: #1c1c1d;
-    font-family: 'Source Sans Pro', sans-serif;
-    color: #222222;
-    padding: 0;
-    margin: 0;
-}
-
-a
-{
-    cursor: pointer;
-    text-decoration: none;
-    
-    &:hover
-    {
-        text-decoration: underline;
-    }
-}
-
-p
-{
-    a
-    {
-        color: #1e5dd3;
-    }
-}
-
-.left
-{
-    float: left;
-}
-
-.right
-{
-    float: right;
-}
-
-.width-30
-{
-    width: 30%;
-}
-
-.width-40
-{
-    width: 40%;
-}
-
-.width-50
-{
-    width: 50%;
-}
-
-.width-60
-{
-    width: 60%;
-}
-
-.width-70
-{
-    width: 70%;
-}
-
-.site-nav
-{
-    z-index: 2000;
-    position: fixed;
-    right: 0px;
-    left: 0px;
-    top: 0px;
-    background-color: #FFF;
-    border-bottom: 1px solid #717171;
-    
-    @media all and (max-width: 768px)
-    {
-        position: relative;
-        display: inline-block;
-    }
-    
-}
-
-.site-header
-{
-    z-index: 1000;
-    width: 100%;
-    text-align: center;
-    position: relative;
-    color: #FFF;
-    margin-bottom: 25px;
-    padding-top: 60px;
-    
-    h1
-    {
-        font-size: 4em;
-        font-weight: normal;
-        margin-bottom: 0;
-        margin-top: 0px;  
-    }
-
-    h2
-    {
-        font-weight: normal;
-        font-size: 1.4em;
-        margin: 5px 0 0;
-    }
-    h3
-    {
-        font-weight: normal;
-        margin: 0;
-    }
-    h4
-    {
-        font-weight: normal;
-    }
-
-    a
-    {
-      text-decoration: none;
-      color: inherit;
-    }
-}
-
 .snowflake
 {
     font-size: 200px;
@@ -162,59 +32,8 @@ p
     text-shadow: 5px 5px 0px rgba(29, 87, 145, 1);
 }
 
-.vertical-center
-{
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
-}
 
-.container
-{
-    max-width: 1000px;
-    margin: 0 auto;
 
-    .info
-    {
-      max-width: 780px;
-      margin-left: 20px;
-    }
-
-}
-
-.full-width
-{
-    width: 100%;
-    float: left;
-    margin-bottom: 20px;
-}
-
-.main-content
-{
-    padding: 2em;
-    background: rgba(255,255,255,0.7);
-    margin-bottom: 20px;
-    border-top: 5px solid #557fd0;
-    width: 100%;
-    float: left;
-    
-    h2
-    {
-        font-weight: 600;
-        font-size: 3em;
-        margin-top: 0;
-    }
-    
-    .tile
-    {
-        
-    }
-
-    ul
-    {
-      list-style: none;  
-    }
-}
 
 .tile
 {
@@ -310,15 +129,6 @@ p
     }
 }
 
-.text-center
-{
-    text-align: center;
-}
-
-.text-line-through
-{
-    text-decoration: line-through;
-}
 
 
 .hero-unit
