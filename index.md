@@ -1,4 +1,4 @@
 ---
-layout: index
+layout: front_page
 ---
 
