@@ -14,15 +14,19 @@
     src: url("/fonts/bebas_neue/BebasNeue Bold.otf") format("opentype");
   }
 
+  @font-face {
+    font-family: Bungee;
+    src: url("/fonts/bungee/Bungee-Regular.eot") format("opentype");
+  }
 h1{
-  font-family: 'Montserrat', sans-serif !important;
+  font-family: 'BebasNeueThin', sans-serif !important;
 }
 header#main-header {
 
   h1 {
     text-transform: uppercase;
   }
-  font-family: 'BebasNeueThin', sans-serif !important;
+  font-family: 'Bungee', sans-serif !important;
 }
 // #############################
 // THIS FILE IS GENERATED, PLEASE DO NOT MODIFY

@@ -8,6 +8,7 @@
 
 /* Authored Dependencies */
   @import "font-experiments";
+  @import "_autoprefixed/utils";
 
 /* Patterns */
   @import "responsive";
@@ -110,46 +111,6 @@ p
         display: inline-block;
     }
     
-
-    .logo
-    {
-        float: left;
-        
-        .snowflake
-        {
-            color: #749ddd;
-            font-size: 16px;
-        }
-    }
-    
-    ul
-    {
-        list-style: none;
-        float: left;
-        margin: 0;
-        padding: 0;
-    }
-    
-    li
-    {
-        float: left;
-        
-        a
-        {
-            color: #202129;
-            font-size: 1.2em;
-            padding: 1em 1.35em;
-            display: block;
-            float: left;
-            
-            &:hover
-            {
-                text-decoration: none;
-                background-color: #152c46;
-                color: #FFF;
-            }
-        }
-    }
 }
 
 .site-header

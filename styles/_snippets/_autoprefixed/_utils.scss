@@ -5,15 +5,13 @@
 // , or, 'gulp styles' to generate styles once. See more on gulpfile.js on styles/autoprefixer 
 // #############################
 
-h1{
-  font-family: 'Bungee', 'Montserrat', 'BebasNeueThin', sans-serif !important;
+
+a:hover .underline-on-hover {
+  text-decoration: underline;
 }
 
-header#main-header {
-
-  h1 {
-     font-family: 'Bungee', sans-serif !important;
-  }
+.text-center{
+  text-align: center;
 }
 
 // #############################

@@ -19,49 +19,22 @@
   top: 0;
   z-index: 100;
   width: 100%;
+  padding: 20px  0;
 
   display: flex;
-  background: $footer-overlay;
+  background: $navbar-background;
   flex-direction: column;
   
-  label,input  {
-    flex: 1;
-  }
-
-
-
-  .flex-container-navi{
-    flex: 1;
-    display: flex;
-
+  ul{
     background: none;
     align-items: baseline;
+    list-style: none;
 
-    .flex-item {
-      background: #2A2C39;
-      flex: 3;
-    }
-    .lang-selection {
-      background: none;
-      flex: 1;
+    li {
+      background: $navbar-text-background;
     }
   }
 
- .bullet-img{
-   text-align: center;
-
-   img{
-     display: none;
-   }
-
-   &:hover{
-     img{
-       display: block;
-     }
-
-   }
-
- }
 
 $navi_hidden: 735px;
 $navi_visible: $navi_hidden - 1;

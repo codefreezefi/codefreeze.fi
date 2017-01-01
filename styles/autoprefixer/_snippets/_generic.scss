@@ -5,3 +5,46 @@
   height: 100%;
 //  opacity: 0;
 }
+
+
+a {
+  color: $main-text-color;
+  text-decoration: none;
+}
+
+.on-bw{
+  color: $white;
+
+  a {
+    color: $h1-color;
+
+    .snowflake{
+      color:$link-water;
+    }
+
+    &:hover{
+      text-decoration: none;
+    }
+  }
+}
+
+
+.flex {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  flex: 1;
+
+  &.flex-vertical{
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .flex-item{
+    flex: 3;
+  }
+}
