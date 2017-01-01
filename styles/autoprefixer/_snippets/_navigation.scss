@@ -26,6 +26,18 @@
   background: $navbar-background;
   flex-direction: column;
   
+  &.is-hidden {
+    opacity: 0;
+    transform: translate(0,-60px);
+    transition: opacity .2s,background .3s,color .3s, transform .5s;
+  }
+                                        
+  &.is-visible {
+    opacity: 1;
+    transform: translate(0,0);
+    transition: transform .2s,background .3s,color .3s;
+  }
+
   ul{
     background: none;
     align-items: baseline;

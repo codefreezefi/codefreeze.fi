@@ -40,6 +40,26 @@
       -ms-flex-direction: column;
           flex-direction: column;
   
+  &.is-hidden {
+    opacity: 0;
+    -webkit-transform: translate(0,-60px);
+            transform: translate(0,-60px);
+    -webkit-transition: opacity .2s,background .3s,color .3s, -webkit-transform .5s;
+    transition: opacity .2s,background .3s,color .3s, -webkit-transform .5s;
+    transition: opacity .2s,background .3s,color .3s, transform .5s;
+    transition: opacity .2s,background .3s,color .3s, transform .5s,-webkit-transform .5s;
+  }
+                                        
+  &.is-visible {
+    opacity: 1;
+    -webkit-transform: translate(0,0);
+            transform: translate(0,0);
+    -webkit-transition: background .3s,color .3s,-webkit-transform .2s;
+    transition: background .3s,color .3s,-webkit-transform .2s;
+    transition: transform .2s,background .3s,color .3s;
+    transition: transform .2s,background .3s,color .3s,-webkit-transform .2s;
+  }
+
   ul{
     background: none;
     -webkit-box-align: baseline;
