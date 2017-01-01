@@ -1,0 +1,33 @@
+{% include site-header.html %}
+
+{% include font_experiments.html %}
+
+<main role="main" class="site-sub-page">
+{% include site-navigation.html lang=lang %}
+
+<div id="skrollr-body">
+
+  <header class="hero-unit on-bw">
+
+    <div class="bcg sub-page "
+      data-center="background-position: 50% 0px;"
+      data-top-bottom="background-position: 50% -100px;"
+      data-anchor-target=".snowflake"
+    >
+    <div class="image-container flex flex-vertical"
+        data-start="opacity: 0.9999"
+        data-40-top="opacity: 0"
+        data-anchor-target=".hero-unit h1"
+      >
+      <h1 id="h1-id"> <a href="/"><span class="snowflake">&#10052;</span><br><span class=underline-on-hover>CodeFreeze</span></a> </h1>
+    </div>
+  </header>
+
+
+  {% include sections.md %}
+  {{ content }}
+</div>
+
+</main>
+{% include footer.html lang=lang%}
+
