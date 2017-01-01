@@ -1,6 +1,15 @@
 <!-- build:js scripts/vendor.js -->
 <!-- bower:js -->
-<script src="../bower_components/jquery/dist/jquery.js"></script>
+
+<script type="text/javascript" src="{{ site.baseurl }}/javascripts/rskrollr.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+<script type="text/javascript">
+  jQuery( document ).ready( function () {
+    var s = skrollr.init();
+  });
+</script>
+
 <!-- endbower -->
 <!-- endbuild -->
 

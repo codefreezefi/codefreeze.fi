@@ -1,0 +1,164 @@
+// #############################
+// THIS FILE IS GENERATED, PLEASE DO NOT MODIFY
+// to modify files, modify this in /styles/autoprefixer/_snipeets and run 
+// 'gulp' on folder styles/autoprefixer 
+// , or, 'gulp styles' to generate styles once. See more on gulpfile.js on styles/autoprefixer 
+// #############################
+
+$main-width: 970px;
+.bullets{
+  padding: 85px 50px 50px 50px;
+  background: #2A2C39;
+
+  color: #E9E9EB;
+
+  ul{
+    list-style: none;
+    display: inline-block;
+    padding: 0;
+
+    li {
+      float: left;
+    }
+  }
+
+
+  .bullet-img{
+    
+
+    margin: 10px;
+    display: block;
+//      height: 200px;
+//      width: 300px;
+    padding: 0 45px;
+
+    img {
+      width: 150px;
+      height: 150px;
+      border-radius: 75px;
+      overflow: hidden;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+.flex-container {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+
+  .flex-item{
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
+
+}
+
+main{
+
+  section{
+    text-align: center;
+    margin: auto;
+    width: $main-width;
+    color: $tusk;
+
+    a{
+      color: $tusk;
+
+      &:hover {
+        color: $tusk;
+      }
+    }
+    padding: 40px 0;
+
+    &.full-width {
+      width: 100%;
+    }
+    
+    &.image-container{
+      padding: 0;
+    }
+    
+  }
+
+  .coloured-boxes{
+    padding: 0;
+    position: relative;
+    
+    &.flex-container{
+      width: 100%;
+      height: 60%;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+    }
+    .flex-item{
+      -webkit-box-flex: 1;
+          -ms-flex: 1;
+              flex: 1;
+      -webkit-flex: 1 1 30%;
+      min-height: 100px;
+      background: red;
+      margin: 2px;
+      border-radius: 15px;
+      min-width: calc(50% - 40px);
+      padding: 0 15px;
+    }
+
+  }
+  .bullets{
+    padding: 85px 50px 50px 50px;
+    background: #2A2C39;
+
+    color: #E9E9EB;
+
+    ul{
+      list-style: none;
+      display: inline-block;
+      padding: 0;
+
+      li {
+        float: left;
+      }
+    }
+  
+
+    .bullet-img{
+      
+
+      margin: 10px;
+      display: block;
+//      height: 200px;
+//      width: 300px;
+      padding: 0 45px;
+
+      img {
+        width: 150px;
+        height: 150px;
+        border-radius: 75px;
+        overflow: hidden;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+  }
+  
+}
+
+@media screen and (max-width: 668px){
+  main .coloured-boxes .flex-item{
+    min-width: 98%;
+    -webkit-flex: 1 1 auto;
+  }
+}
+
+
+// #############################
+// THIS FILE IS GENERATED, PLEASE DO NOT MODIFY
+// #############################

@@ -1,0 +1,170 @@
+// #############################
+// THIS FILE IS GENERATED, PLEASE DO NOT MODIFY
+// to modify files, modify this in /styles/autoprefixer/_snipeets and run 
+// 'gulp' on folder styles/autoprefixer 
+// , or, 'gulp styles' to generate styles once. See more on gulpfile.js on styles/autoprefixer 
+// #############################
+
+.skrollr-desktop .navbar:hover{
+
+    .flex-container-navi{
+
+      .flex-item{
+         opacity: 0.4;
+
+         &:hover{
+           opacity: 1;
+           img {
+           }
+         }
+       }
+     }
+  }
+
+.navbar{
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+
+  display: -webkit-box;
+
+  display: -ms-flexbox;
+
+  display: flex;
+  background: $footer-overlay;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  
+  label,input  {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
+
+
+
+  .flex-container-navi{
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+
+    background: none;
+    -webkit-box-align: baseline;
+        -ms-flex-align: baseline;
+            align-items: baseline;
+
+    .flex-item {
+      background: #2A2C39;
+      -webkit-box-flex: 3;
+          -ms-flex: 3;
+              flex: 3;
+    }
+    .lang-selection {
+      background: none;
+      -webkit-box-flex: 1;
+          -ms-flex: 1;
+              flex: 1;
+    }
+  }
+
+ .bullet-img{
+   text-align: center;
+
+   img{
+     display: none;
+   }
+
+   &:hover{
+     img{
+       display: block;
+     }
+
+   }
+
+ }
+
+$navi_hidden: 735px;
+$navi_visible: $navi_hidden - 1;
+
+@media screen and (min-width: $navi_hidden){
+  .nav-trigger{
+    display: none;
+  }
+  label[for="nav-trigger"]{
+    display: none;
+  }
+
+}
+
+@media screen and (max-width: $navi_visible){
+  .flex-container-navi{
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -ms-grid-column-align: center;
+        justify-items: center;
+
+    -webkit-box-align: stretch;
+
+        -ms-flex-align: stretch;
+
+            align-items: stretch;
+    padding: 0px 10px;
+    text-align: center;
+    margin: 0;
+  }
+  .flex-container-navi li {
+  
+    min-width: 50%;
+    
+  }
+
+
+  label[for="nav-trigger"]{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: auto;
+    text-align: center;
+    padding: 0 20px;
+    -webkit-box-align: baseline;
+        -ms-flex-align: baseline;
+            align-items: baseline;
+
+    i {
+      padding: 20px;
+    }
+  }
+  .nav-trigger:not(checked) + ul {
+    display: none;
+  }
+
+  .nav-trigger {
+    position: absolute;
+    clip: rect(0, 0, 0, 0);
+  }
+  label[for="nav-trigger"] {
+    cursor: pointer;
+  }
+
+  .nav-trigger:checked + label {
+    left: 215px;
+  }
+
+  .nav-trigger:checked + ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+              
+}}
+// #############################
+// THIS FILE IS GENERATED, PLEASE DO NOT MODIFY
+// #############################

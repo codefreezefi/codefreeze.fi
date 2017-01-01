@@ -1,6 +1,7 @@
 permalink: none
 sass:
     style: :compressed
+    sass_dir: styles/_snippets
 sections:
 - about
 - how-to-get-there
