@@ -35,80 +35,6 @@
 
 
 
-.tile
-{
-    float: left;
-    height: 230px;
-    text-align: center;
-    width: 25%;
-    position: relative;
-    
-    @media all and (max-width: 768px)
-    {
-        width: 100%;
-    }
-    
-    h3
-    {
-        font-weight: 600;
-        font-size: 30px;
-    }
-    
-    p
-    {
-        font-size: 17px;
-    }
-    
-    &.text-tile
-    {
-        background-color: #092f5f;
-        color: #FFF;
-        padding: 20px;
-    }
-    
-    &.image-tile
-    {
-        &.photo-1
-        {
-            background: url(../images/photo-1.jpg);
-            background-size: cover;
-        }
-        
-        &.photo-2
-        {
-            background: url(../images/photo-2.jpg);
-            background-size: cover;
-        }
-        
-        
-        &.photo-winter-swimming
-        {
-            background: url(../images/photo-winter-swimming.jpg);
-            background-size: cover;
-        }
-
-        &.photo-full-moon
-        {
-            background: url(../images/photo-full-moon.jpg);
-            background-size: cover;
-        }
-        
-        a
-        {
-            position: absolute;
-            bottom: 0px;
-            left: 0px;
-            width: 100%;
-            display: block;
-            background: rgba(0,0,0,0.3);
-            color: #FFF;
-            text-align: center;
-            text-decoration: none;
-            font-size: 13px;
-            padding: 3px 0;
-        }
-    }
-}
 
 hr 
 {
@@ -129,28 +55,6 @@ p
     }
 }
 
-
-
-.hero-unit
-{
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    
-    &.frontpage
-    {
-        height: 1000px;
-        //background-image: url(../images/revontulet.png);
-        // resized the image: without looking at image quality
-        background-image: url(../images/revontulet.min.jpg);
-        background-size: cover;
-        z-index: -1;
-    }
-    
-    
-}
-
 .credit-link
 {
     position: absolute;
@@ -169,68 +73,6 @@ p
         left: 10px;
     }
 }
-
-.participants-list
-{
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    
-    li
-    {
-        display: block;
-        float: left;
-        text-align: center;
-        margin: 0 15px 15px 0;
-		//TODO AkS: try something bit different. Maybe just copying stuff from europeantestingconference.eu
-		height: 270px;
-        
-        img
-        {
-            max-width: 200px;
-            // TODO AkS: This does not really work - it makes it ugly
-            height: 200px;
-            border-radius: 30px;
-            display: block;
-        }
-        
-        .name
-        {
-            display: block;
-			width: 200px;
-            font-size: 18px;
-            font-weight: 600;
-            margin: 5px 0 0 0;
-        }
-        
-        a
-        {
-            color: #195fc7;
-        }
-    }
-}
-
-.participant
-{
-    img
-    {
-        max-width: 200px;
-        border-radius: 30px;
-        display: block;
-    }
-}
-
-.push-left
-{
-  float: left;
-}
-
-
-
-
-
-
-
 
 
 

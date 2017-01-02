@@ -55,7 +55,7 @@ a {
   margin: 0;
   display: flex;
   justify-content: center;
-  align-items: baseline;
+  align-items: flex-start;
   flex: 1;
 
   &.flex-vertical{

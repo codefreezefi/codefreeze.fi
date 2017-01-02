@@ -6,6 +6,138 @@
 // #############################
 
 
+.tile{
+    float: left;
+    height: 230px;
+    text-align: center;
+    position: relative;
+    
+    @media all and (max-width: 768px)
+    {
+        width: 100%;
+    }
+    
+    h3
+    {
+        font-weight: 600;
+        font-size: 30px;
+    }
+    
+    p
+    {
+        font-size: 17px;
+    }
+    
+    &.text-tile
+    {
+        background-color: #092f5f;
+        color: #FFF;
+        padding: 0 20px;
+    }
+    
+    &.image-tile
+    {
+      &.photo-1
+      {
+        background: url(/images/photo-1.jpg);
+        background-size: cover;
+      }
+              
+      &.photo-2
+      {
+        background: url(/images/photo-2.jpg);
+        background-size: cover;
+      }
+        
+        &.photo-winter-swimming
+        {
+            background: url(/images/photo-winter-swimming.jpg);
+            background-size: cover;
+            background-position: bottom ;
+        }
+
+        &.photo-full-moon
+        {
+            background: url(/images/photo-full-moon.jpg);
+            background-size: cover;
+            background-position: top right;
+        }
+        
+        a
+        {
+            position: absolute;
+            bottom: 0px;
+            left: 0px;
+            width: 100%;
+            display: block;
+            background: rgba(0,0,0,0.3);
+            color: #FFF;
+            text-align: center;
+            text-decoration: none;
+            font-size: 13px;
+            padding: 3px 0;
+        }
+    }
+}
+
+.participant
+{
+    img
+    {
+        max-width: 200px;
+        border-radius: 30px;
+        display: block;
+    }
+}
+
+.participants-list
+{
+
+    display: -webkit-box;
+
+    display: -ms-flexbox;
+
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+    li
+    {
+        display: block;
+        float: left;
+        text-align: center;
+        margin: 0 15px 15px 0;
+		    height: 270px;
+        
+        img
+        {
+            max-width: 200px;
+            height: 200px;
+            border-radius: 30px;
+            display: block;
+        }
+        
+        .name
+        {
+            display: block;
+			width: 200px;
+            font-size: 18px;
+            font-weight: 600;
+            margin: 5px 0 0 0;
+        }
+        
+        a
+        {
+            color: #195fc7;
+        }
+    }
+}
+
+
 .main-content
 {
   padding: 2em;
