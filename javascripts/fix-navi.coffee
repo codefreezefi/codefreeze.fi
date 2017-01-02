@@ -1,6 +1,3 @@
----
----
-
 
 currentScroll = 0
 didScroll = false

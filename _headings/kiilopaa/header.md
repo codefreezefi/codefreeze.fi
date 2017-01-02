@@ -1,18 +1,19 @@
 ---
+page: kiilopaa
 lang: en
 order_no: 1
 title: 'Kiilopää'
 ---
-<header id="{{page.class}}-id" 
-   class="hero-unit header-title-on-bw {% if class != "" %} {{page.class}} {% endif %}"
+<header id="image-{{ page.page }}" 
+   class="hero-unit on-bw "
    >
-  <div class="bcg sub-page "
-     data-center="background-position: 50% 0px;"
-     data-top-bottom="background-position: 50% -100px;"
+  <div class="bcg "
+     data-center="background-position: 90% -100px;"
+     data-top-bottom="background-position: 50% -150px;"
      data-anchor-target="#h1-id"
   >
-    <div class="container"
-        data-start="opacity: 1"
+    <div class="flex flex-vertical"
+        data-start="opacity: 0.999"
         data-40-top="opacity: 0"
         data-anchor-target="h1"
     >

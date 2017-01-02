@@ -2,6 +2,10 @@
 {
   width: 100%;
 }
+#image-kiilopaa.hero-unit .bcg
+{
+  background-image: url('/images/hero-unit-kiilopaa.jpg');
+}
 .hero-unit .bcg
 {
   background-image: url('/images/hero-unit.jpg');
@@ -20,6 +24,10 @@ all and (min--moz-device-pixel-ratio: 1.5),
 all and (min-device-pixel-ratio: 1.5),
 all and (min-width: 1024px)
 {
+  #image-kiilopaa.hero-unit .bcg
+  {
+    background-image: url('/images/hero-unit-kiilopaa.jpg');
+  }
   .hero-unit .bcg
   {
     background-image: url('/images/hero-unit.jpg');
