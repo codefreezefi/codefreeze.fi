@@ -30,3 +30,14 @@ Color Scheme
 #DDECF7
 #F4F4C4
 #64C4B2
+
+
+Using Autoprefixer
+=================
+
+to use autoprefixer to update styles, run `gulp' on styles/autoprefixer
+
+###install Autoprefixer
+npm install gulp --save-dev
+npm install gulp-autoprefixer --save-dev
+npm install gulp-insert --save-dev

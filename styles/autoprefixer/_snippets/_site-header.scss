@@ -29,18 +29,6 @@ header.hero-unit
 //  background: -moz-linear-gradient(red, yellow); /* For Firefox 3.6 to 15 */
 //  background: linear-gradient($header-overlay, $header-transparent-gradient-stop ); /* Standard syntax */
 
-  .lang-selection {
-    width: calc(100vw - 40px);
-    text-align: right;
-    padding: 20px;
-  }
-
-  .header {
-    padding: 25vh 0 0 0 ; 
-    position: absolute;
-    //  top: 0;
-    width: 100vw;
-  }
 }
 
 .as-relative
