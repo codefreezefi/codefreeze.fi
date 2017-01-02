@@ -6,6 +6,8 @@ sections:
 - about
 - how-to-get-there
 collections:
+- headings
+- pages
 - sections
 - participants
 - kiilopaa

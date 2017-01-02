@@ -20,6 +20,15 @@
 }
 
 $main-width: 970px;
+.container {
+  max-width: $main-width;
+  margin: 0 auto;
+  text-align: center;
+}
+  
+
+
+
 .bullets{
   padding: 85px 50px 50px 50px;
   background: #2A2C39;

@@ -1,4 +1,5 @@
 ---
+permalink: /kiilopaa_old/old
 layout: sub-page
 ---
 
