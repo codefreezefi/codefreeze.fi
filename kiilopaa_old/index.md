@@ -3,9 +3,9 @@ permalink: /kiilopaa_old/old
 layout: sub-page
 ---
 
-{% assign sorted_pages = site.kiilopaa | sort:"order_no" %}
+{% assign sorted_pages = site.kiilopaa | sort:order_no %}
 
-{% for section in sorted_pages | sort:order_no %}	
+{% for section in sorted_pages %}	
  <section class="main-content text-center">
    {% if section.contained %}
     <div class="container">
