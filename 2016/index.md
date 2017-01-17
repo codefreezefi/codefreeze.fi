@@ -2,10 +2,10 @@
 layout: sub-page
 ---
 
-{% assign sorted_pages = site.y2016 | sort:"order_no" %}
+{% assign sorted_pages = site.y2016 | sort:order_no %}
 
 
-{% for section in sorted_pages | sort:order_no %}
+{% for section in sorted_pages %}
 
 {% capture section_path  %}{{ site.collections.y2016.relative_directory }}/sections{% endcapture %}
 
