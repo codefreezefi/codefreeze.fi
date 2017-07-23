@@ -5,7 +5,7 @@
 <main role="main" class="">
 {% include site-navigation.html lang=lang %}
 
-<div id="skrollr-body" class="container">
+<div id="skrollr-body" >
 
   <header class="hero-unit on-bw">
 
@@ -22,10 +22,12 @@
       <h1 id="h1-id"> <a href="/"><span class="snowflake">&#10052;</span><br><span class=underline-on-hover>CodeFreeze</span></a> </h1>
     </div>
   </header>
-
+  <div class="container">
 
   {% include sections.md %}
   {{ content }}
+
+  </div>
 </div>
 
 </main>
