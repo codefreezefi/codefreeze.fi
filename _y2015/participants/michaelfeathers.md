@@ -1,6 +1,6 @@
 ---
 name: Michael Feathers
-image: /images/michaelfeathers.jpg
+image: /images/participants/michaelfeathers.jpg
 twitter: mfeathers
 contact-via: michael.feathers@r7krecon.com
 blog: https://michaelfeathers.silvrback.com/
