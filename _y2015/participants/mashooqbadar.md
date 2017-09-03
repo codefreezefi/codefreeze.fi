@@ -1,6 +1,7 @@
 ---
 name: Mashooq Badar
-image: https://pbs.twimg.com/profile_images/510447049007853570/K51zJRQs.jpeg 
+image: /images/participants/user-add.jpg
+_image: https://pbs.twimg.com/profile_images/510447049007853570/K51zJRQs.jpeg 
 contact-via: mash@codurance.com
 room-type: cabin with other Codurance folk
 ---
