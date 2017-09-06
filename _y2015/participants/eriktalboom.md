@@ -1,6 +1,6 @@
 ---
 name: Erik Talboom
-image: /images/eriktalboom.jpg
+image: /images/participants/eriktalboom.jpg
 twitter: talboomerik
 contact-via: talboomerik@gmail.com
 room-type: single

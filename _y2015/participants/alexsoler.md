@@ -1,6 +1,6 @@
 ---
 name: Alexandre Soler Sanandres
-image: /images/alexsoler.jpeg
+image: /images/participants/alexsoler.jpeg
 twitter: xelamrelos
 blog: http://blog.soler-sanandres.net
 email: alexandre@soler-sanandres.net

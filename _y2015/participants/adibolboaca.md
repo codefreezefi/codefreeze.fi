@@ -1,6 +1,6 @@
 ---
 name: Adi Bolboacă
-image: /images/adrianbolboaca.jpg 
+image: /images/participants/adrianbolboaca.jpg 
 twitter: adibolb
 blog: http://blog.adrianbolboaca.ro
 email: adrian.bolboaca@gmail.com

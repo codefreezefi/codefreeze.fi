@@ -8,7 +8,10 @@ title: "When and Where"
 <div class="tiles flex">
   <div class="tile text-tile flex-item">
     <h3>When?</h3>
-    <p>CodeFreeze dates will be defined by looking the moon calendar</p>
+    <p>
+      <!--CodeFreeze dates will be defined by looking the moon calendar-->
+      Mon Jan 15th - Wed Jan 17th 2018      
+    </p>
   </div>
   <div class="tile image-tile photo-1 flex-item">
     <a href="http://www.kiilopaa.fi/en/home.html">Image credit: Suomen Latu Kiiloää</a>
