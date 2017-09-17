@@ -12,9 +12,7 @@ footer {
 
   font-size: 0.75em;
   padding: 30px 20px;
-  background: $footer-overlay;
-  background: -webkit-linear-gradient($footer-transparent-gradient-stop, $footer-overlay); /* For Safari 5.1 to 6.0 */ /* For Opera 11.1 to 12.0 */ /* For Firefox 3.6 to 15 */
-  background: -webkit-linear-gradient( $footer-transparent-gradient-stop, $footer-overlay);
+  background: $footer-overlay; /* For Safari 5.1 to 6.0 */ /* For Opera 11.1 to 12.0 */ /* For Firefox 3.6 to 15 */
   background: linear-gradient( $footer-transparent-gradient-stop, $footer-overlay); /* Standard syntax */
   width: 100%;
   float: left;

@@ -99,9 +99,7 @@ header.hero-unit
 .hero-unit-cover{
   height:100vh;
 
-  background: $header-overlay;
-  background: -webkit-linear-gradient($header-transparent-gradient-stop, $header-overlay); /* For Safari 5.1 to 6.0 */ /* For Opera 11.1 to 12.0 */ /* For Firefox 3.6 to 15 */
-  background: -webkit-linear-gradient($header-overlay, $header-transparent-gradient-stop );
+  background: $header-overlay; /* For Safari 5.1 to 6.0 */ /* For Opera 11.1 to 12.0 */ /* For Firefox 3.6 to 15 */
   background: linear-gradient($header-overlay, $header-transparent-gradient-stop ); /* Standard syntax */
 }
 

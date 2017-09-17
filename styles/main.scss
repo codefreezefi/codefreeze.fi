@@ -3,25 +3,11 @@
   @import "colors";
   @import "fonts";
 /* generic dependencies */
-  @import "_autoprefixed/html5boilerplate";
-  @import "_autoprefixed/normalize";
-
-/* Authored Dependencies */
-  @import "font-experiments";
-  @import "_autoprefixed/utils";
-
 /* Patterns */
-  @import "responsive";
+@import "retina";
 
-/* Sections */
-  @import "_autoprefixed/generic";
-  @import "_autoprefixed/media";
-  @import "retina";
-  @import "_autoprefixed/site-header";
-  @import "_autoprefixed/navigation";
-  @import "_autoprefixed/section";
-  @import "_autoprefixed/flag-icon";
-  @import "_autoprefixed/footer";
+
+  @import "autoprefixed";
 
 
 .snowflake

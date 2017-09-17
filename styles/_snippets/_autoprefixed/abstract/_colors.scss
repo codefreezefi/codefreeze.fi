@@ -1,3 +1,10 @@
+// #############################
+// THIS FILE IS GENERATED, PLEASE DO NOT MODIFY
+// to modify files, modify this in /styles/autoprefixer/_snipeets and run 
+// 'gulp' on folder styles/autoprefixer 
+// , or, 'gulp styles' to generate styles once. See more on gulpfile.js on styles/autoprefixer 
+// #############################
+
 
 //main colors
 $pickled-bluewood: #2B4651;
@@ -15,9 +22,6 @@ $cool-gray: #888b8d;
 $main-shaft: #222222;
 $darkgray: rgba($black, 0.1);
 
-//color names from
-// http://chir.ag/projects/name-that-color/
-
 $tree-poppy: #f9921c;
 
 //functional colors
@@ -26,13 +30,14 @@ $navbar-text-background: #2A2C39;
 $navbar-text: $white;
 
 $snowflake-color: $link-water;
-$title-color: $link-water;
-$h1-color: $tusk;
+$title-color: $tusk;
+$h1-color: $pickled-bluewood;
 
 $main-text-color: $main-shaft;
 
 $link-color: $main-text-color;
 $link-hover-color: $link-color;
+$hover-link-color: $link-hover-color;
 $link-visited-color: $link-color;
 $link-color-visited: $main-text-color;
 
@@ -41,6 +46,7 @@ $main-border: $link-water;
 $border-color: $main-text-color;
 $section-border-color: $cool-gray;
 $section-bg-color: rgba( $white, 0.3);
+$background-color: rgba( $white, 0.3);
 
 $hero-unit-overlay: rgba(0,0,0,0.25);
 $hero-unit-overlay-on-bw: rgba(0,0,0,0.45);
@@ -50,3 +56,6 @@ $header-transparent-gradient-stop: rgba(0,0,0,0);
 $footer-overlay: rgba(0,0,0,0.65);
 $footer-transparent-gradient-stop: rgba(0,0,0,0);
 
+// #############################
+// THIS FILE IS GENERATED, PLEASE DO NOT MODIFY
+// #############################

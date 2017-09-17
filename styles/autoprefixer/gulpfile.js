@@ -3,7 +3,7 @@ var autoprefixer = require('gulp-autoprefixer');
 var insert = require('gulp-insert'); 
 
 gulp.task('styles', function() {
-  gulp.src('_snippets/*.scss').
+  gulp.src('_snippets/**/*.scss').
     pipe( autoprefixer() ).
     pipe( insert.prepend( "\n")).
     pipe( insert.prepend( "// #############################\n")).
