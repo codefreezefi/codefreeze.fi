@@ -8,4 +8,4 @@ Departure: 20.01.2017
 ---
 
 embedded systems crafter | agile and lean | model driven development
-nature | hiking | skiing | norhtern winter
+nature | hiking | skiing | northern winter
