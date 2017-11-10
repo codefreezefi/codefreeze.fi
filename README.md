@@ -16,6 +16,16 @@ Updating the site
 ================
 
 I highly encourage to install Jekyll on your computer, if doing any (major) changes to the site. [here](https://help.github.com/articles/using-jekyll-with-pages) is good tutorial for using Jekyll with GH pages.
+
+Install Bundler:  
+`gem install bundler`
+
+Install the gems from the Gemfile:   
+`bundle install`
+
+Run the site locally using jekyll:   
+`bundle exec jekyll s`
+
 =======
 Welcome to CodeFreeze?
 
