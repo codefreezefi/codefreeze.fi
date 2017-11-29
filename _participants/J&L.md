@@ -1,7 +1,7 @@
 ---
-name: "Jen & Lukas"
+name: "Lukas"
 image: 
-contact-via: [jlkk@mailbox.org]
+contact-via: [286@mailbox.org]
 room-type: [cabin (with Jen, Markus & Tanja T.) ]
 ---
 
