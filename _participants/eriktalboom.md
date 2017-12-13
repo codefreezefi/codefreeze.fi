@@ -1,7 +1,6 @@
 ---
----
-name: "<a href='https://github.com/rinkkasatiainen/codefreeze.fi'>Erik Talboom</a>"
-twitter: @talboomerik
+name: Erik Talboom
+twitter: talboomerik
 image: /images/participants/eriktalboom.jpg
 contact-via: erik@co-learning.be
 room-type: cabin (with Aki)
