@@ -23,8 +23,10 @@ room-type: [single | double (with XYZ) | cabin (with X, Y & Z) ]
 ## What to wear 
  * That's the most important part. Second most important is what to wear (clothes) in winter Lapland. Temperatures might get down to -30C (which is quite cold), but -15C is surprisingly warm - or at least not-so-cold up north.  I have written a faq, that basically is not visible in the site (yet): http://www.codefreeze.fi/faq/ . Also notice the sections are in wrong order, apparently.
 
-Reading that, you might notice a trend: I mostly wear merino wool when I'm in Lapland. 
+Reading that, you might notice a trend: I mostly wear merino wool when I'm in Lapland. Also, from the first year, we found out that jeans are not really warm for the outmost layer.
 
+## boots
+There is 60-100cm snow on the ground. I highly encourage to wear boots which cover your ankles. Especially important if you plan to take a snowshoe trek.
 
 ## and a bit longer version:
 
