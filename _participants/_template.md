@@ -7,7 +7,7 @@ room-type: [single | double (with XYZ) | cabin (with X, Y & Z) ]
 
 ## in brief: 
  * dates: Jan 15th - Jan 17th 2018
- * book rooms by: email to “kiilopaa@suomenlatu.fi”, mention 'codefreeze' for the discount
+ * book rooms by: email to “kiilopaa@suomenlatu.fi”, or directly to "irina.salomaa@suomenlatu.fi", mention 'codefreeze' for the discount
  * accommodation price:
     *  Twin room: Price 64 e/ person/ night. Incl. full board ( breakfast, lunch, dinner)
     *  Single room: Price 86 e/person/ nights. Incl. full board ( breakfast, lunch, dinner)
@@ -27,6 +27,18 @@ Reading that, you might notice a trend: I mostly wear merino wool when I'm in La
 
 ## boots
 There is 60-100cm snow on the ground. I highly encourage to wear boots which cover your ankles. Especially important if you plan to take a snowshoe trek.
+
+## What to bring with you:
+ * swimming suit / trunk (for the smoke sauna). And if you prefer the german/swiss way to be in Sauna, own towel might be handy 
+ * a nice and handy backpack, 20-40l (this is very handy for day treks organised by Kiilopää)
+ * a bottle of 1l - a thermos would be nice if you have one. Again, for the day treks. For the warm juice to drink.
+ * warm clothes, spare gloves, etc.
+ * a camera might be good, if we have a chance to see the auroras (Tripod, extra batteries, etc.)
+ * cash: not so much - you can use credit card basically for everything in Finland.
+
+## WIFI:
+ * There is wifi at the main hall. It might work at the single/double rooms, but not in the cabins.
+ * Since we’re in Finland, a land with proper cellular coverage, there is a 4G base station at the main hall. Own SIM cards for local operator (DNA) can be organised
 
 ## and a bit longer version:
 
