@@ -6,3 +6,13 @@ mapFrame.height = Math.min((width / 800 * 600), 450);
 mapFrame.frameborder = 0;
 
 const map = document.getElementById('map').appendChild(mapFrame);
+
+// Tweets
+const tweets = document.getElementById('tweets');
+if (width > 1000) {
+    const tweetLinks = [];
+    for(let i = 0; i < tweets.children.length; i++) {
+        tweetLinks.push(tweets.children[i].href);
+    }
+    tweets.innerHTML = '';
+}
