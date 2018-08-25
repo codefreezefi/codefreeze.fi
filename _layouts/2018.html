@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>{{page.title}} &mdash; {{page.tagline}} ({{page.when}})</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="{{page.description}}"/>
+    <link href="https://fonts.googleapis.com/css?family=Assistant:300,800" rel="stylesheet">
+    <link rel="stylesheet" href="{{ site.baseurl }}/styles/2018.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.4/js/brands.js"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.4/js/solid.js"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.4/js/fontawesome.js"></script>
+</head>
+<body>
+<header>
+    <section>
+        <span class="snowflake"></span>
+        <h1>
+            {{page.title}}<br>
+        </h1>
+        <p>
+            <time>{{page.when}}</time>
+            <span class="location">{{page.where}}</span>
+        </p>
+    </section>
+</header>
+<main>
+    {{content}}
+</main>
+<footer>
+    <section>
+        <h1>About this page</h1>
+
+        <p>
+            Images courtesy of <a href="http://www.visitfinland.com/" target="_blank" rel="noopener noreferrer">Visit Finland</a> and <a href="http://www.kiilopaa.fi/en" target="_blank" rel="noopener noreferrer">Suomen Latu</a>.
+        </p>
+
+        <p>
+            If you have any questions regarding to this event don't hesitate to drop a line for Mr. Aki Salmi <a href="mailto:aki.salmi@iki.fi">aki.salmi@iki.fi</a>.
+        </p>
+    </section>
+</footer>
+
+
+<script type="text/javascript" src="{{ site.baseurl }}/scripts/2018.js" defer></script>
+<script type="text/javascript" async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</body>
+</html>
