@@ -179,7 +179,7 @@ For more information about the safaris, including prices, see the brochure here 
   </li>
 
 <!-- {% assign image_host = site.url | append:site.baseurl %} -->
-{% for participant in site.participants-2019 %}
+{% for participant in site.participants %}
   {% assign image_url = "/images/avatar.jpg" | prepend:site.baseurl  %}
   {% if participant.image != null %}
   {% assign escaped_image = participant.image | uri_escape %}
