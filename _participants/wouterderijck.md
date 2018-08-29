@@ -1,6 +1,6 @@
 ---
 name: Wouter De Rijck
-image: /images/participants/wouter.jpg
+image: 
 contact-via: cybercaveman@gmail.com
 room-type: TBD possible cabin
 twitter: ridingwolf

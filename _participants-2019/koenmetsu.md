@@ -1,7 +1,7 @@
 ---
 name: Koen Metsu
 twitter: koenmetsu
-image: 
+image: https://raw.githubusercontent.com/rinkkasatiainen/codefreeze.fi/gh-pages/images/participants/koenmetsu.jpg
 contact-via: koen@kometsoft.be
 room-type: cabin (with Erik, Aki)
 ---

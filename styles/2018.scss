@@ -1,0 +1,304 @@
+---
+---
+
+// Variables
+$desktop-width: 720px;
+$bold-weight: 800;
+$thin-weight: 300;
+$blue: #1d5791;
+$dark-blue: #092F5F;
+$aurora-green: #7EED68;
+$aurora-purple: #591c6c;
+
+a {
+  color: $aurora-purple;
+}
+
+html {
+  font-family: 'Assistant', sans-serif;
+  font-weight: $thin-weight;
+}
+
+html, body, section, main, aside {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, strong {
+  font-weight: $bold-weight;
+}
+
+body > header {
+  background: $dark-blue url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Faurinko_kiilopaalla.jpg");
+  @media (min-width: $desktop-width) {
+    background-image: url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1000&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Faurinko_kiilopaalla.jpg");
+  }
+  background-size: cover;
+  height: 100%;
+  text-align: center;
+  border-bottom: 5px solid $blue;
+  section {
+    padding: 2rem 0 5rem 0;
+  }
+  span.snowflake {
+    &:before {
+      content: "❄";
+      color: #DDECF7;
+      text-shadow: 5px 5px 5px $blue;
+      font-size: 10rem;
+      @media (min-width: $desktop-width) {
+        font-size: 17rem;
+      }
+      font-weight: bold;
+      opacity: 0.75;
+    }
+  }
+  h1 {
+    color: $aurora-purple;
+    text-shadow: 0 0 15px $aurora-green;
+    @media (min-width: $desktop-width) {
+      font-size: 60px;
+    }
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0;
+  }
+  p {
+    font-weight: $bold-weight;
+    color: $aurora-green;
+    margin: 0;
+    > * {
+      &:after {
+        content: "·";
+        margin-left: 0.25rem;
+      }
+      &:last-child {
+        &:after {
+          content: "";
+          margin-left: 0;
+        }
+      }
+    }
+  }
+}
+
+body > main {
+  padding: 0;
+  margin: 0;
+  > h1 {
+    display: none;
+  }
+  hr {
+    border: 0;
+    border-bottom: 5px solid $blue;
+  }
+  h1, h2, h3, h4, h5, h5, p, ul, ol {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    @media (min-width: $desktop-width) {
+      max-width: $desktop-width;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+  .infoBox {
+    background: $dark-blue url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
+    @media (min-width: $desktop-width) {
+      background-image: url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1000&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
+    }
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    div {
+      @media (min-width: $desktop-width) {
+        width: (720px / 3);
+        height: (720px / 3);
+        overflow: hidden;
+      }
+      position: relative;
+      &.text {
+        padding: 0 0.5rem;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        h3, p {
+          color: rgba(255, 255, 255, 0.85);
+        }
+      }
+      &.photo {
+        display: none;
+        @media (min-width: $desktop-width) {
+          display: flex;
+          justify-content: center;
+          img {
+            height: 100%;
+          }
+        }
+      }
+      small {
+        display: block;
+        width: (720px / 3);
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        background-color: rgba(0, 0, 0, 0.5);
+        color: rgba(255, 255, 255, 0.85);
+        font-size: 10px;
+        padding: 0.25rem 0.5rem;
+        a {
+          color: rgba(255, 255, 255, 0.85);
+        }
+      }
+    }
+  }
+}
+
+#map {
+  iframe {
+    border: 0;
+  }
+}
+
+section.tweets {
+  display: none;
+  overflow: hidden;
+  background: $dark-blue url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
+  @media (min-width: $desktop-width) {
+    background-image: url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1000&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
+  }
+  background-size: cover;
+  background-position: bottom;
+
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0;
+  iframe + iframe {
+    margin-left: 1rem;
+  }
+}
+
+#participants {
+  background: #000 url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
+  @media (min-width: $desktop-width) {
+    background-image: url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1000&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
+  }
+  background-size: cover;
+  color: rgba(255, 255, 255, 0.85);
+  margin: 2rem 0;
+  padding: 2rem;
+  @media (min-width: $desktop-width) {
+    padding: 4rem;
+  }
+
+  a {
+    color: mix($blue, #fff);
+  }
+
+  ul.participants {
+    list-style: none;
+    padding: 0;
+    margin: 4rem 0 0 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 9999px;
+
+    li {
+      width: 100%;
+      overflow: hidden;
+      position: relative;
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
+      align-items: center;
+      > * {
+        margin-left: 0.5rem;
+      }
+      margin-top: 1rem;
+
+      @media (min-width: $desktop-width) {
+        width: (720px / 3);
+        height: (720px / 3);
+        flex-direction: column;
+        margin-top: 0;
+        margin-left: 0;
+      }
+      .photo {
+        width: 50px;
+        height: 50px;
+        @media (min-width: $desktop-width) {
+          height: (720px / 5);
+          width: (720px / 5);
+        }
+        border-radius: 100%;
+        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.25);
+        border-top: 2px solid rgba(255, 255, 255, 0.75);
+        border-bottom: 2px solid rgba(0, 0, 0, 0.25);
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        img {
+          width: 100%;
+        }
+      }
+
+      h3 {
+        font-size: 18px;
+        font-weight: $thin-weight;
+        margin: 0 0 0 0.5rem;
+        @media (min-width: $desktop-width) {
+          margin: 0;
+        }
+      }
+
+      .description {
+        display: none;
+      }
+
+      nav a {
+        text-decoration: none;
+        font-size: 150%;
+        &+a {
+          padding-left: 0.25rem;
+        }
+        @media (min-width: $desktop-width) {
+          padding: 0 0.5rem;
+        }
+      }
+    }
+  }
+}
+
+body > footer {
+  background: $dark-blue url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Faurinko_kiilopaalla.jpg");
+  @media (min-width: $desktop-width) {
+    background-image: url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1000&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Faurinko_kiilopaalla.jpg");
+  }
+  background-size: cover;
+  background-position: bottom;
+  padding: 0 2rem 2rem 2rem;
+  @media (min-width: $desktop-width) {
+    margin-top: 4rem;
+    padding: 4rem 0;
+  }
+  color: rgba(255, 255, 255, 0.85);
+  a {
+    color: rgba(255, 255, 255, 0.85);
+  }
+
+  border-top: 5px solid $blue;
+  section {
+    max-width: $desktop-width;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h1 {
+    font-weight: $thin-weight;
+  }
+}
