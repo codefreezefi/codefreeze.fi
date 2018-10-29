@@ -9,10 +9,29 @@ const map = document.getElementById('map').appendChild(mapFrame);
 
 // Tweets
 const tweets = document.getElementById('tweets');
-if (width > 1000) {
+if (width > 250) {
     const tweetLinks = [];
     for(let i = 0; i < tweets.children.length; i++) {
         tweetLinks.push(tweets.children[i].href);
     }
     tweets.innerHTML = '';
+    twttr.ready(
+        function (twttr) {
+            tweetLinks
+                .sort(() => Math.random() - Math.random())
+                .slice(0, Math.floor(width/250))
+                .forEach(function (link) {
+                twttr.widgets.createTweet(
+                    link.split('/').pop(),
+                    tweets,
+                    {
+                        theme: 'dark',
+                        width: 250
+                    }
+                );
+            })
+        }
+    );
+
+
 }
