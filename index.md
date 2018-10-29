@@ -88,6 +88,27 @@ The prices include *stay*, *breakfast*, *lunch*, *dinner* and (most probably) *s
 * For a [wilderness cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) 97€ / cabin + 38€ / person / day for the meals
 * For a [log cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) (very suitable for families): 112€ / day + 38€ / person / day
 
+<section id="sponsors">
+
+    <header>
+
+        CodeFreeze is proudly supported by these fantastic sponsors:
+
+    </header>
+
+    <div>
+
+        <a href="https://www.nitor.com/" rel="friend met" target="_blank" rel="noopener noreferrer">
+            <img src="{{ site.baseurl }}/images/sponsors/nitor.png" alt="Nitor">
+        </a>
+
+        <a href="https://www.tespack.com/" rel="friend met" target="_blank" rel="noopener noreferrer">
+            <img src="{{ site.baseurl }}/images/sponsors/tespack/Tespack_TOP_transparent_White.png" alt="Tespack">
+        </a>
+
+    </div>
+
+</section>
 
 ## Kiilopää: a magical place in Lapland
 
