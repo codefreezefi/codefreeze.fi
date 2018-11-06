@@ -6,7 +6,7 @@ room-type: [single | double (with XYZ) | cabin (with X, Y & Z) ]
 ---
 
 ## in brief: 
- * dates: Jan 15th - Jan 17th 2018
+ * dates: Jan 5th - Jan 12th 2019
  * book rooms by: email to “kiilopaa@suomenlatu.fi”, or directly to "irina.salomaa@suomenlatu.fi", mention 'codefreeze' for the discount
  * accommodation price:
     *  Twin room: Price 64 e/ person/ night. Incl. full board ( breakfast, lunch, dinner)

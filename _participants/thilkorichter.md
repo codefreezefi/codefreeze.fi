@@ -2,7 +2,7 @@
 name: "<a href='https://thilko.com'>Thilko Richter</a>"
 image: https://thilko.com/images/bio-photo.jpg
 contact-via: me@thilko.com
-twitter: @thilko
+twitter: thilko
 room-type: double (with my 9y son)
 ---
 I am a software craftsman with a passion for clean code and continuous learning.

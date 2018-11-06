@@ -1,7 +1,7 @@
 ---
 name: Wouter De Rijck
-image: 
-contact-via: cybercaveman@gmail.com
-room-type: TBD possible cabin
+image: https://wolfcraft.io/avatars/codefreeze.jpg
+contact-via: codefreeze@wolfcaft.io
+room-type: single
 twitter: ridingwolf
 ---
