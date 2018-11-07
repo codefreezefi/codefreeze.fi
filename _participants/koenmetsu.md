@@ -1,7 +1,7 @@
 ---
 name: Koen Metsu
 twitter: koenmetsu
-image: 
+image: https://pbs.twimg.com/profile_images/744953823945498625/bPzMTx7H_400x400.jpg
 contact-via: koen@kometsoft.be
 room-type: cabin (with Erik, Aki)
 ---
