@@ -234,6 +234,8 @@ For more information about the safaris, including prices, see the brochure here 
 
 </section>
 
+{% include faq.md %}
+
 ## SoCraTes Finland?
 
 Codefreeze is proud to be part of the family of SoCraTes conferences spread all over the Europe. The family of SoCraTes conferences include
