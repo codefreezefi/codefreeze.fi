@@ -1,5 +1,17 @@
 ### FAQ 
 
+#### SoCraTes Finland?
+
+Codefreeze is proud to be part of the family of SoCraTes conferences spread all over the Europe. The family of SoCraTes conferences include
+
+- SoCraTes Germany, the original - since 2011
+- SoCraTes France, the first edition on 2015
+- SoCraTes BE, the first edition on 2015
+- SoCraTes Canaries, the first edition on 2015- SoCraTes UK, since 2013
+- SoCraTes Day Switzerland, the first edition on 2015
+- I T.A.K.E unconference
+- SoCraTes Italy, first edition 12 - 14 May 2016, Rimini, Italy
+
 #### Picking the right clothes for the Lapp winter
 
 Basically, the most important thing in Lapp winter is to wear clothes in layers.
