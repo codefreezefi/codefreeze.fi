@@ -72,3 +72,56 @@ And, if you'be read this far - please bring swimming suit. I know, we are in Fin
 
  _#proTip_: To acclimatize ourselves (I do this too, and I've experienced the benefits already) - when we're taking a shower, let's turn the knob to the coldest and enjoy a really refreshing cold shower. For a few seconds (at start) and then few tens of seconds. Doing that, and freezing cold temperatures in Lapland don't feel that cold anymore. 
 
+#### Attending Codefreeze with Children
+
+##### Are children welcome at Codefreeze?
+In short, yes. We’d love for you to bring your kids.
+
+##### Will there be other kids?
+Usually yes. It helps to connect with other parents so you can arrange sessions for children that need preparation.
+
+##### What kinds of things might my children enjoy at Codefreeze?
+The snow (it might be clean enough to eat). Slayrides, going downhill on the slope with the totem pole - it gives you a sense of accomplishment. Making friends with the other kids. The quiet outside. The sauna (on lower temperatures or with a little bathtub). Some children have even enjoyed the dip - maybe you can make some badges for their accomplishments?
+
+##### What kinds of things might be frustrating for my kids?
+Adults will mainly speak English to each other which they might not understand. The marketplace takes quite long so it is good to find something to do nearby.
+Children usually need structure and Codefreeze can become quite loud and unorganised - you might need someone to tell them what to focus on.
+Some sessions might not be suitable for kids.
+
+##### Is there someone who can provide childcare for my kids?
+Not officially, but you can connect with other parents to maybe arrange something.
+
+##### Do all children speak [my language]? What age are they?
+Children of all kind of native languages will join and they don’t all speak English. Young kids sometimes become friends even if they can’t verbally communicate.
+They have been of varying ages from 2 years upwards.
+
+##### I can’t bring my kids because of the school holiday - can you move the dates?
+Sorry, we can’t move the dates at the moment but you can look into participating part of the time. In some countries/schools it might be possible to arrange an exception for a few days and have children do homework during the time. Children can learn a lot about Sami culture and possibly bring that back into their schools. Depending on the weather you could do some science experiments like throwing boiling water into the air and have it frozen or making popsicles in the snow. Other ideas: blow frozen soap bubbles, popcorn on the fire and watching a movie
+
+##### Is the food child compatible?
+The food provided by the venue is very greasy and you might struggle if you have food intolerances. Lunch is usually quite salty soup & salad. Children usually enjoy the dinner. It’s possible to self cater in the accommodations - there is a small shop in a town nearby or you could bring your own ingredients. The tap water is very good but you need a bottle or thermos to bring water on hikes.
+
+##### What should I know about accomodation?
+Cabins might be 15m walk away but could be easier with sleds. However the number of sleds is currently limited, you might ask about increasing them with reception in advance.
+Wilderness cabins only have one room with bunk beds which might not work for you.
+There are some bigger cabins (for 10 people) that are more expensive (pohiamm ukku?) which have extra rooms that can provide more privacy if your children are fuzzy sleepers. These are not part of the Codefreeze packages
+
+##### Which of the activities are good for kids?
+- Reindeer excursion (expensive but you can go and feed them and learn about them.) You get some tea and cake. Some children might fall asleep or be bored.
+- Cross country skiing (if the weather permits). This is currently not very kid oriented.
+- Angry bird playground might be fun (we haven’t tested this)
+- Husky Safari (very very expensive so we haven’t tested this!)
+- Santa is not available all the time, sorry. He needs a holiday too.
+- Walking up the Kiloppa or on a scenic leveled path
+- You might try snowshoe walks
+- There’s a slide in a snow castle - you need a small sled to sit onn
+
+##### What should I pack in addition to the official packing list?
+- homework/schoolwork materials (if applicable)
+- Warm clothes - boots with good soles and high shafts. You can get a lot of stuff second hand if you look in advance
+- activities/games/books (including bedtime stories)
+- Screens with games & chargers
+
+##### Where can I get more information regarding attending Codefreeze with children?
+
+If you have further questions, ask them in the `#parents` channel in the Software Crafters Slack or ask Aki.
