@@ -12,7 +12,7 @@ description: Codefreeze is an unconference with very little structure. Actually,
 
 ## {{page.tagline}}
 
-Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. CodeFreeze is a *time* and *place* for software craftspeople to meet. We would like to have likeminded people to gather in one place and have long conversations about craftsmanship over a beer. And to practice our coding skills.
+Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. CodeFreeze is a *time* and *place* for software craftspeople to meet. We would like to have likeminded people to gather in one place and have long conversations about our craft over a drink. And to practice our coding skills.
 
 While the core conference days are from Monday to Wednesday, participants typically spend a full week in Kiilopää to enjoy the amazing winter nature and amazing activities.
 
