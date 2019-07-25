@@ -63,6 +63,7 @@ To get an idea of what happened you can find the conference schedule from [2017]
     <a href="https://twitter.com/AnnNat/status/1084015310469021696"></a>
     <a href="https://twitter.com/coderbyheart/status/1082264438823157760"></a>
     <a href="https://twitter.com/Singsalad/status/1083797504678858757"></a>
+    <a href="https://twitter.com/coderbyheart/status/1154520572073775104"></a>
 </section>
 
 ## Why?
