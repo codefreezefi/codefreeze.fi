@@ -1,7 +1,8 @@
 ---
-name: "<a href='https://coderbyheart.com'>Markus Tacker</a>"
+name: Markus Tacker
+link: https://coderbyheart.com
 twitter: coderbyheart
-image: https://pbs.twimg.com/profile_images/913543038575742976/t0MXJWcF_400x400.jpg
+image: https://images.contentful.com/bncv3c2gt878/6CWMgqeZdCmkk6KkIUksgQ/50922090bc6566c6624c12b82a4bf78c/36671282034_427eace68d_o.jpg?w=400
 contact-via: m@coderbyheart.com
 room-type: cabin with Tanja, Lukas, and Jen
 ---
