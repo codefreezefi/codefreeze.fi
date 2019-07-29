@@ -1,4 +1,4 @@
-##### Code of Conduct
+### Code of Conduct
 
 > All attendees of Codefreeze are required to agree with the following Code of Conduct.
 
