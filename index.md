@@ -240,3 +240,5 @@ For more information about the safaris, including prices, see the brochure here 
 </section>
 
 {% include faq.md %}
+
+{% include code-of-conduct.md %}
