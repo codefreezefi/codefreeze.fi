@@ -96,7 +96,7 @@ Children of all kind of native languages will join and they don’t all speak En
 They have been of varying ages from 2 years upwards.
 
 ##### I can’t bring my kids because of the school holiday - can you move the dates?
-Sorry, we can’t move the dates at the moment but you can look into participating part of the time. In some countries/schools it might be possible to arrange an exception for a few days and have children do homework during the time. Children can learn a lot about Sami culture and possibly bring that back into their schools. Depending on the weather you could do some science experiments like throwing boiling water into the air and have it frozen or making popsicles in the snow. Other ideas: blow frozen soap bubbles, popcorn on the fire and watching a movie
+Sorry, we can’t move the dates at the moment but you can look into participating part of the time. In some countries/schools it might be possible to arrange an exception for a few days and have children do homework during the time. Children can learn a lot about Sami culture and possibly bring that back into their schools. Depending on the weather you could do some science experiments like throwing boiling water into the air and have it frozen or making popsicles in the snow. Other ideas: blow frozen soap bubbles, popcorn on the fire and watching a movie.
 
 ##### Is the food child compatible?
 The food provided by the venue is very greasy and you might struggle if you have food intolerances. Lunch is usually quite salty soup & salad. Children usually enjoy the dinner. It’s possible to self cater in the accommodations - there is a small shop in a town nearby or you could bring your own ingredients. The tap water is very good but you need a bottle or thermos to bring water on hikes.
@@ -107,14 +107,15 @@ Wilderness cabins only have one room with bunk beds which might not work for you
 There are some bigger cabins (for 10 people) that are more expensive (pohiamm ukku?) which have extra rooms that can provide more privacy if your children are fuzzy sleepers. These are not part of the Codefreeze packages
 
 ##### Which of the activities are good for kids?
-- Reindeer excursion (expensive but you can go and feed them and learn about them.) You get some tea and cake. Some children might fall asleep or be bored.
+- Reindeer excursion (expensive but you can go and feed them and learn about them). You get some tea and cake. Sleigh ride takes about an hour of sitting still in very warm clothing.
 - Cross country skiing (if the weather permits). This is currently not very kid oriented.
-- Angry bird playground might be fun (we haven’t tested this)
-- Husky Safari (very very expensive so we haven’t tested this!)
+- Angry bird playground might be fun (we haven’t tested this).
+- Husky Safari (very very expensive so we haven’t tested this).
 - Santa is not available all the time, sorry. He needs a holiday too.
-- Walking up the Kiloppa or on a scenic leveled path
-- You might try snowshoe walks
-- There’s a slide in a snow castle - you need a small sled to sit onn
+- Walking up the Kiloppa or on a scenic leveled path.
+- Sleigh walks and sleighing down the Kiloppa.
+- You might try snowshoe walks.
+- There’s a slide in a snow castle - you need a small sled to sit on.
 
 ##### What should I pack in addition to the official packing list?
 - homework/schoolwork materials (if applicable)
