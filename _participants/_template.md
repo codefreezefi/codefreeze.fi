@@ -8,17 +8,19 @@ room-type: [single | double (with XYZ) | cabin (with X, Y & Z) ]
 
 ## in brief: 
  * dates: Sat Jan 11th - Sat 18th 2020
- * book rooms by: email to “kiilopaa@suomenlatu.fi”, or directly to "irina.salomaa@suomenlatu.fi", mention 'codefreeze' for the discount
+ * book rooms by: email to “kiilopaa@suomenlatu.fi”, mention 'codefreeze' for the discount and to get room/cabin from the reserved slot!
  * accommodation price:
-    *  Twin room: Price 64 e/ person/ night. Incl. full board ( breakfast, lunch, dinner)
-    *  Single room: Price 86 e/person/ nights. Incl. full board ( breakfast, lunch, dinner)
+    *  Twin room: Price 70 e/ person/ night. Incl. full board ( breakfast, lunch, dinner)
+    *  Single room: Price 92 e/person/ nights. Incl. full board ( breakfast, lunch, dinner)
     * CABINS   
-      Wilderness cabin for 2-4 persons: Price 97 e/cabin/night.  + 38e / person for full board
-      Log cabin for 2+2 : Price 112 e/cabin/night.  + 38e / person for full board
+      Wilderness cabin for 2-4 persons: Price 105 e/cabin/night.  + 39e / person for full board
+      Log cabin for 2+2 : Price 120 e/cabin/night.  + 39e / person for full board
 
 
 ## About food:
- * hopefully everyone has booked the full board! Note this especially if you have booked a cabin. 
+ * folks have 2 good options: either 
+   * book full board that includes breakfast, lunch and dinner, or 
+   * prepare own meals at the cottages. Aki will be at the venue by car, so he can bring some food on the way, and folks can get to local supermarket daily.
  * normally lunch and dinner is not vegetarian - if you eat vegetarian food, or have any other food allergies, please contact the hotel manager and tell your preferences:  irina.salomaa@suomenlatu.fi
 
 ## What to wear 
