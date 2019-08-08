@@ -15,7 +15,12 @@ In order to register, all you need to do is to
 Updating the site (for more advanced changes)
 ================
 
-I highly encourage to install Jekyll on your computer, if doing any (major) changes to the site. [here](https://help.github.com/articles/using-jekyll-with-pages) is good tutorial for using Jekyll with GH pages.
+I highly encourage to test the site with Jekyll on your computer, if doing any (major) changes. GitHub has good instructions for [using Jekyll with GitHub Pages](https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages).
+
+If you already have [Docker](https://www.docker.com/) on your computer, you may use this shell script for running Jekyll in Docker:  
+`./serve.sh`
+
+Alternatively, you may install Jekyll directly on your computer:
 
 Install Bundler:  
 `gem install bundler`
