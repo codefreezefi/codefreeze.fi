@@ -59,6 +59,8 @@ I have, surprise again, merino wool inner gloves with warm outer gloves. Actuall
 Socks?
 Could you guess? I wear only merino wool socks. Nothing else. Matters. 
 
+Boots? There is 60-100cm snow on the ground. I highly encourage to wear boots which cover your ankles. Especially important if you plan to take a snowshoe trek. You can rent proper boots from the ski rental shop in the basement of the main building.
+
 ##### Few more words
 
 That's what I wear. Mostly merino wool. Except of some inner layer mesh clothes and the outermost layer, which has to be windproof. Easy, isn't it. I wear using the same principles year around, if hiking / cycling in non-summer temperatures -> I wear merino wool 1-N layers with wind proof (or GoreTex) outer layer. Easy. 
@@ -71,6 +73,11 @@ Anyway, I'll bring most of my gear. I'll be around from Sunday evening until Thu
 And, if you'be read this far - please bring swimming suit. I know, we are in Finland and in Finland we go to sauna naked. That's true, except in (most) public saunas, where there can be anyone. And, swimming suit is nice when dipping into the rather refreshing water nearby the sauna.
 
  _#proTip_: To acclimatize ourselves (I do this too, and I've experienced the benefits already) - when we're taking a shower, let's turn the knob to the coldest and enjoy a really refreshing cold shower. For a few seconds (at start) and then few tens of seconds. Doing that, and freezing cold temperatures in Lapland don't feel that cold anymore. 
+
+#### Wifi
+
+ * There is wifi at the main hall. It might work at the single/double rooms, but not in the cabins.
+ * Since we’re in Finland, a land with proper cellular coverage, there is good coverage everywhere around the site. Own SIM cards for local operator (DNA) can be organised.
 
 #### Attending Codefreeze with Children
 
@@ -101,7 +108,7 @@ Sorry, we can’t move the dates at the moment but you can look into participati
 ##### Is the food child compatible?
 The food provided by the venue is very greasy and you might struggle if you have food intolerances. Lunch is usually quite salty soup & salad. Children usually enjoy the dinner. It’s possible to self cater in the accommodations - there is a small shop in a town nearby or you could bring your own ingredients. The tap water is very good but you need a bottle or thermos to bring water on hikes.
 
-##### What should I know about accomodation?
+##### What should I know about accommodation?
 Cabins might be 15m walk away but could be easier with sleds. However the number of sleds is currently limited, you might ask about increasing them with reception in advance.
 Wilderness cabins only have one room with bunk beds which might not work for you.
 There are some bigger cabins (for 10 people) that are more expensive (pohiamm ukku?) which have extra rooms that can provide more privacy if your children are fuzzy sleepers. These are not part of the Codefreeze packages

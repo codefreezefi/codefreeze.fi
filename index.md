@@ -84,14 +84,43 @@ Luckily, nature is at the core of Kiilopää. And not only that, Kiilopää prov
 
 ### And what does it cost?
 
-The prices are valid for the whole stay during the following duration 
-
 The prices include *stay*, *breakfast*, *lunch*, *dinner* and (most probably) *smoke sauna* on Monday or Tuesday:
 
-* For [single bed room](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/): 86€ / day
-* For [double](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/) 64€ / day
-* For a [wilderness cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) 97€ / cabin + 38€ / person / day for the meals
-* For a [log cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) (very suitable for families): 112€ / day + 38€ / person / day
+* For [single bed room](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/): 92 € / person / night
+* For [double](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/) 70 € / person / night
+* For a [wilderness cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) 105 € / cabin / night + 39€ / person / day for the meals
+* For a [log cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) (very suitable for families): 120 € / cabin / night + 39€ / person / day
+
+### About the cabins
+
+All cabins are non-smoking; pets are allowed.
+
+#### Wilderness cabin
+
+Our small but cosy (30 square meters) log cabins are well suited for 2-4 persons. Each cabin has one large room with two bunk beds and a tv-set, kitchen area (fridge, electric stove, microwave oven, coffee maker, set of dishes), sauna/shower, bathroom and a drying cabinet for clothes.
+
+#### Log cabin
+
+The log cabins are a bit bigger than the wilderness cabins (44 square meters each). A log cabin accommodates max. 2+2 persons. Each cabin has a bedroom (2 x 80 cm beds), living room (with a sofa bed for two, fireplace, tv-set) and an open kitchen area (with coffee maker, electric stove, microwave oven, fridge), electric sauna/shower and a bathroom. The dining table seats four. There is also a drying cabinet for clothes and small outdoor storage in the cabin.
+
+### About Food
+
+ * folks have 2 good options: either 
+   * book full board that includes breakfast, lunch and dinner, or 
+   * prepare own meals at the cottages. Aki will be at the venue by car, so he can bring some food on the way, and folks can get to local supermarket daily.
+
+## What to bring with you:
+
+ * swimming suit / trunk (for the smoke sauna). And if you prefer the german/swiss way to be in Sauna, own towel might be handy 
+ * a nice and handy backpack, 20-40l (this is very handy for day treks organised by Kiilopää)
+ * a bottle of 1l - a thermos would be nice if you have one. Again, for the day treks. For the warm juice to drink.
+ * warm clothes, spare gloves, etc.
+ * a camera might be good, if we have a chance to see the auroras (Tripod, extra batteries, etc.)
+ * cash: not so much - you can use credit card basically for everything in Finland.
+ 
+For more detailed information on clothes see the FAQ below.
+
+#### 
 
 <section id="sponsors">
 
