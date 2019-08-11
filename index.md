@@ -42,10 +42,20 @@ Since 2015 codefreeze has happened every year around January. 2018 we hade more 
 
 To get an idea of what happened you can find the conference schedule from [2017](https://trello.com/b/zIYeI0me/codefreeze-2017) and [2018](https://trello.com/b/WtOxnkMU/codefreeze-2018) on Trello. Most *codefreeze* topics (green) have additional information in links in the cards.
 
+### Sessions
+
+We organize the conference using Trello:
+
+- [2017](https://trello.com/b/zIYeI0me/codefreeze-2017)
+- [2018](https://trello.com/b/WtOxnkMU/codefreeze-2018)
+- [2019](https://trello.com/b/RO5wOXI0/codefreeze-2019)
+- [2020](https://trello.com/b/SsjzVKGZ/codefreeze-2020)
+
 ### Photos
 
  - from 2017: [Markus](https://www.flickr.com/photos/tacker/albums/72157677944796900), [Andreas](https://www.dropbox.com/sh/bkxdfumi56fvy92/AAAUjLSXvlUkS-t-FuFK1kUSa?dl=0) *with Aurora!*
  - from 2018: [Markus](https://www.flickr.com/photos/tacker/sets/72157662836528657), [Steffie](https://photos.google.com/share/AF1QipN6I2ZjNFiVjzyVggQV8lgdU_u7__pDq2RQ0DhWAaYqRI1iD_P6SnxRLAFBpyyHbg?key=MTNnd3gxZkNNOVphb2ZyS0luN3RJd3B3aUYzTEhn), [Franzi](https://photos.google.com/share/AF1QipMg-kfDKMsVwdrPbPsKj-lOMLnQEB42lqIArQv6LbDeY307Mv7iN2uyh0QD0jIp-w?key=M2V4Mk5VYUZWVWJ5WHR4UDdCbFNVRjhFNmVSQ0N3)
+ - from 2019: [Markus](https://www.flickr.com/photos/tacker/albums/72157675567232707)
  
 ### Blog Posts
 
