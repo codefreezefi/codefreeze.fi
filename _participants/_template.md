@@ -10,12 +10,24 @@ room-type: [single | double (with XYZ) | cabin (with X, Y & Z) ]
  * dates: Sat Jan 11th - Sat 18th 2020
  * book rooms by: email to “kiilopaa@suomenlatu.fi”, mention 'codefreeze' for the discount and to get room/cabin from the reserved slot!
  * accommodation price:
-    *  Twin room: Price 70 e/ person/ night. Incl. full board ( breakfast, lunch, dinner)
-    *  Single room: Price 92 e/person/ nights. Incl. full board ( breakfast, lunch, dinner)
-    * CABINS   
-      Wilderness cabin for 2-4 persons: Price 105 e/cabin/night.  + 39e / person for full board
-      Log cabin for 2+2 : Price 120 e/cabin/night.  + 39e / person for full board
+    * ROOMS (price includes full board)
+      * Twin room: Price 70 €/person/night. 
+      * Single room: Price 92 €/person/night. Incl. full board (breakfast, lunch, dinner)
+    * CABINS (add +39€/person/night if you want full board)
+      * Wilderness cabin for 2-4 persons: Price 105 €/cabin/night. 
+      * Log cabin for 2+2 : Price 120 €/cabin/night.
 
+## About cabins:
+
+All cabins are non-smoking; pets are allowed.
+
+### Wilderness cabin
+
+Our small but cosy (30 square meters) log cabins are well suited for 2-4 persons. Each cabin has one large room with two bunk beds and a tv-set, kitchen area (fridge, electric stove, microwave oven, coffee maker, set of dishes), sauna/shower, bathroom and a drying cabinet for clothes.
+
+### Log cabin
+
+The log cabins are a bit bigger than the wilderness cabins (44 square meters each). A log cabin accommodates max. 2+2 persons. Each cabin has a bedroom (2 x 80 cm beds), living room (with a sofa bed for two, fireplace, tv-set) and an open kitchen area (with coffee maker, electric stove, microwave oven, fridge), electric sauna/shower and a bathroom. The dining table seats four. There is also a drying cabinet for clothes and small outdoor storage in the cabin.
 
 ## About food:
  * folks have 2 good options: either 
