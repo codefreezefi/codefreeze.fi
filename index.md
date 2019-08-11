@@ -120,8 +120,6 @@ The log cabins are a bit bigger than the wilderness cabins (44 square meters eac
  
 For more detailed information on clothes see the FAQ below.
 
-#### 
-
 <section id="sponsors">
 
     <header>
