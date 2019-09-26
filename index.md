@@ -4,7 +4,7 @@ title: codefreeze
 tagline: Prepare for your last commit
 when: Sat Jan 11th - Sat 18th 2020
 where: Kiilopää, Finland
-where_link: http://www.kiilopaa.fi/
+where_link: https://www.kiilopaa.fi/en/
 description: Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. CodeFreeze is a time and place for software craftspeople to meet.
 ---
 
@@ -23,7 +23,7 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
 <section class="infoBox">
     <div class="photo">
         <img src="{{ site.baseurl }}/images/photo-1.jpg" alt="Suomen Latu Kiilopää">
-        <small>Image credit: <a href="http://www.kiilopaa.fi/en/home.html" target="_blank" rel="noopener noreferrer">Suomen Latu Kiiloää</a></small>
+        <small>Image credit: <a href="https://www.kiilopaa.fi/en/" target="_blank" rel="noopener noreferrer">Suomen Latu Kiiloää</a></small>
     </div>
     <div class="text">
         <p><strong>When</strong><br>{{page.when}}</p>
@@ -32,7 +32,7 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
     </div>
     <div class="photo">
         <img src="{{ site.baseurl }}/images/photo-2.jpg" alt="Suomen Latu Kiilopää">
-        <small>Image credit: <a href="http://www.kiilopaa.fi/en/home.html" target="_blank" rel="noopener noreferrer">Suomen Latu Kiiloää</a></small>
+        <small>Image credit: <a href="https://www.kiilopaa.fi/en/" target="_blank" rel="noopener noreferrer">Suomen Latu Kiiloää</a></small>
     </div>
 </section>
 
@@ -96,10 +96,10 @@ Luckily, nature is at the core of Kiilopää. And not only that, Kiilopää prov
 
 The prices include *stay*, *breakfast*, *lunch*, *dinner* and (most probably) *smoke sauna* on Monday or Tuesday:
 
-* For [single bed room](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/): 92 € / person / night
-* For [double](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/) 70 € / person / night
-* For a [wilderness cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) 105 € / cabin / night + 39€ / person / day for the meals
-* For a [log cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) (very suitable for families): 120 € / cabin / night + 39€ / person / day
+* For [single bed room](https://www.kiilopaa.fi/en/accommodation/hotel-niilanpaa.html): 92 € / person / night
+* For [double](https://www.kiilopaa.fi/en/accommodation/hotel-niilanpaa.html) 70 € / person / night
+* For a [wilderness cabin](https://www.kiilopaa.fi/en/accommodation/cabins.html) 105 € / cabin / night + 39€ / person / day for the meals
+* For a [log cabin](https://www.kiilopaa.fi/en/accommodation/cabins.html) (very suitable for families): 120 € / cabin / night + 39€ / person / day
 
 ### About the cabins
 
@@ -158,7 +158,7 @@ Kiilopää Fell Center in Lapland is an ideal place to get in touch with the Nor
 
 Kiilopää is owned by Suomen Latu, the Outdoor Association of Finland. Suomen Latu is a promoter of outdoor activities, an expert in hiking and an organisation which is open to all. The main objective of Suomen Latu has always been to increase Finnish people’s interest in exercise as well as developing possibilities for outdoor, conditioning and recreational exercise. Nowadays guarding everyman’s right has become more and more important.
 
-*For more information about Kiilopää [please visit here](http://www.kiilopaa.fi/en).*
+*For more information about Kiilopää [please visit here](https://www.kiilopaa.fi/en).*
 
 <div id="map"></div>
 
@@ -195,7 +195,7 @@ Have you ever been winter swimming? It is an experience when the air temperature
 
 During Codefreeze, the smoke sauna is heated on Tuesday on Wednesday, and on Tuesday we have a private sauna from 3pm-6pm.
 
-*For more information about the smoke sauna in Kiilopää, [please visit here](http://www.suomenlatu.fi/kiilopaa/en/smoke-sauna/).*
+*More information about [the smoke sauna in Kiilopää](https://www.kiilopaa.fi/en/outdoor-activities/smoke-sauna.html).*
 
 ### Spending some time at Kiilopää?
 
@@ -221,7 +221,7 @@ Reindeer caravan will take you in to the woods. Moon and stars will guide your w
 - Fishing Experience by Snowmobile
 - Snowmobile Safari to Reindeer Farm
 
-For more information about the safaris, including prices, see the brochure here or visit [the official website](http://www.kiilopaa.fi/en).
+For more information about the safaris, including prices, see the brochure here or visit [the official website](https://www.kiilopaa.fi/en).
 
 <section id="participants">
 
