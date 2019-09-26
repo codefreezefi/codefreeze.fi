@@ -195,7 +195,7 @@ Have you ever been winter swimming? It is an experience when the air temperature
 
 During Codefreeze, the smoke sauna is heated on Tuesday on Wednesday, and on Tuesday we have a private sauna from 3pm-6pm.
 
-*For more information about the smoke sauna in Kiilopää, [please visit here](http://www.suomenlatu.fi/kiilopaa/en/smoke-sauna/).*
+*More information about [the smoke sauna in Kiilopää](https://www.kiilopaa.fi/en/outdoor-activities/smoke-sauna.html).*
 
 ### Spending some time at Kiilopää?
 
