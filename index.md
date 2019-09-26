@@ -96,8 +96,8 @@ Luckily, nature is at the core of Kiilopää. And not only that, Kiilopää prov
 
 The prices include *stay*, *breakfast*, *lunch*, *dinner* and (most probably) *smoke sauna* on Monday or Tuesday:
 
-* For [single bed room](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/): 92 € / person / night
-* For [double](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/) 70 € / person / night
+* For [single bed room](https://www.kiilopaa.fi/en/accommodation/hotel-niilanpaa.html): 92 € / person / night
+* For [double](https://www.kiilopaa.fi/en/accommodation/hotel-niilanpaa.html) 70 € / person / night
 * For a [wilderness cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) 105 € / cabin / night + 39€ / person / day for the meals
 * For a [log cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) (very suitable for families): 120 € / cabin / night + 39€ / person / day
 
