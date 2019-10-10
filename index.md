@@ -55,7 +55,7 @@ We organize the conference using Trello:
 
  - from 2017: [Markus](https://www.flickr.com/photos/tacker/albums/72157677944796900), [Andreas](https://www.dropbox.com/sh/bkxdfumi56fvy92/AAAUjLSXvlUkS-t-FuFK1kUSa?dl=0) *with Aurora!*
  - from 2018: [Markus](https://www.flickr.com/photos/tacker/sets/72157662836528657), [Steffie](https://photos.google.com/share/AF1QipN6I2ZjNFiVjzyVggQV8lgdU_u7__pDq2RQ0DhWAaYqRI1iD_P6SnxRLAFBpyyHbg?key=MTNnd3gxZkNNOVphb2ZyS0luN3RJd3B3aUYzTEhn), [Franzi](https://photos.google.com/share/AF1QipMg-kfDKMsVwdrPbPsKj-lOMLnQEB42lqIArQv6LbDeY307Mv7iN2uyh0QD0jIp-w?key=M2V4Mk5VYUZWVWJ5WHR4UDdCbFNVRjhFNmVSQ0N3)
- - from 2019: [Markus](https://www.flickr.com/photos/tacker/albums/72157675567232707)
+ - from 2019: [Markus](https://www.flickr.com/photos/tacker/albums/72157675567232707), [Esko](https://photos.google.com/share/AF1QipP3pUnV_56LLrB2HTUb9SK5PoLACixJANaNwiXybiG6pPQYfEpjtQXcENJjqftlUA?key=R0hieG92Y1hHbmNBWVEydWhUNUp1UnZLWlRWTlVR)
  
 ### Blog Posts
 
