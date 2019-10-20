@@ -163,7 +163,6 @@ body > main {
 }
 
 section.tweets {
-  display: none;
   overflow: hidden;
   background: $dark-blue url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
   @media (min-width: $desktop-width) {
@@ -175,7 +174,7 @@ section.tweets {
   display: flex;
   justify-content: center;
   padding: 2rem 0;
-  iframe + iframe {
+  iframe + iframe, twitterwidget + twitterwidget {
     margin-left: 1rem;
   }
 }
@@ -271,6 +270,41 @@ section.tweets {
         }
       }
     }
+  }
+}
+
+#sponsors {
+  background: #000 url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
+  @media (min-width: $desktop-width) {
+    background-image: url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1000&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
+  }
+  background-size: cover;
+  color: rgba(255, 255, 255, 0.85);
+  margin: 2rem 0;
+  padding: 2rem;
+  @media (min-width: $desktop-width) {
+    padding: 4rem;
+  }
+
+  display: flex;
+  flex-direction: column;
+
+  header, div {
+    margin: auto;
+    max-width: 720px;
+    width: 100%;
+  }
+
+  div {
+    margin-top: 1rem;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  img {
+    width: 100%;
+    max-width: 250px;
   }
 }
 

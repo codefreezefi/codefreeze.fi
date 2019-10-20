@@ -2,9 +2,9 @@
 layout: 2018
 title: codefreeze
 tagline: Prepare for your last commit
-when: Sat Jan 5th - Sat 12th 2019
+when: Sat Jan 11th - Sat 18th 2020
 where: Kiilopää, Finland
-where_link: http://www.kiilopaa.fi/
+where_link: https://www.kiilopaa.fi/en/
 description: Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. CodeFreeze is a time and place for software craftspeople to meet.
 ---
 
@@ -12,7 +12,7 @@ description: Codefreeze is an unconference with very little structure. Actually,
 
 ## {{page.tagline}}
 
-Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. CodeFreeze is a *time* and *place* for software craftspeople to meet. We would like to have likeminded people to gather in one place and have long conversations about craftsmanship over a beer. And to practice our coding skills.
+Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. CodeFreeze is a *time* and *place* for software craftspeople to meet. We would like to have likeminded people to gather in one place and have long conversations about our craft over a drink. And to practice our coding skills.
 
 While the core conference days are from Monday to Wednesday, participants typically spend a full week in Kiilopää to enjoy the amazing winter nature and amazing activities.
 
@@ -23,7 +23,7 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
 <section class="infoBox">
     <div class="photo">
         <img src="{{ site.baseurl }}/images/photo-1.jpg" alt="Suomen Latu Kiilopää">
-        <small>Image credit: <a href="http://www.kiilopaa.fi/en/home.html" target="_blank" rel="noopener noreferrer">Suomen Latu Kiiloää</a></small>
+        <small>Image credit: <a href="https://www.kiilopaa.fi/en/" target="_blank" rel="noopener noreferrer">Suomen Latu Kiiloää</a></small>
     </div>
     <div class="text">
         <p><strong>When</strong><br>{{page.when}}</p>
@@ -32,7 +32,7 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
     </div>
     <div class="photo">
         <img src="{{ site.baseurl }}/images/photo-2.jpg" alt="Suomen Latu Kiilopää">
-        <small>Image credit: <a href="http://www.kiilopaa.fi/en/home.html" target="_blank" rel="noopener noreferrer">Suomen Latu Kiiloää</a></small>
+        <small>Image credit: <a href="https://www.kiilopaa.fi/en/" target="_blank" rel="noopener noreferrer">Suomen Latu Kiiloää</a></small>
     </div>
 </section>
 
@@ -42,10 +42,20 @@ Since 2015 codefreeze has happened every year around January. 2018 we hade more 
 
 To get an idea of what happened you can find the conference schedule from [2017](https://trello.com/b/zIYeI0me/codefreeze-2017) and [2018](https://trello.com/b/WtOxnkMU/codefreeze-2018) on Trello. Most *codefreeze* topics (green) have additional information in links in the cards.
 
+### Sessions
+
+We organize the conference using Trello:
+
+- [2017](https://trello.com/b/zIYeI0me/codefreeze-2017)
+- [2018](https://trello.com/b/WtOxnkMU/codefreeze-2018)
+- [2019](https://trello.com/b/RO5wOXI0/codefreeze-2019)
+- [2020](https://trello.com/b/SsjzVKGZ/codefreeze-2020)
+
 ### Photos
 
  - from 2017: [Markus](https://www.flickr.com/photos/tacker/albums/72157677944796900), [Andreas](https://www.dropbox.com/sh/bkxdfumi56fvy92/AAAUjLSXvlUkS-t-FuFK1kUSa?dl=0) *with Aurora!*
  - from 2018: [Markus](https://www.flickr.com/photos/tacker/sets/72157662836528657), [Steffie](https://photos.google.com/share/AF1QipN6I2ZjNFiVjzyVggQV8lgdU_u7__pDq2RQ0DhWAaYqRI1iD_P6SnxRLAFBpyyHbg?key=MTNnd3gxZkNNOVphb2ZyS0luN3RJd3B3aUYzTEhn), [Franzi](https://photos.google.com/share/AF1QipMg-kfDKMsVwdrPbPsKj-lOMLnQEB42lqIArQv6LbDeY307Mv7iN2uyh0QD0jIp-w?key=M2V4Mk5VYUZWVWJ5WHR4UDdCbFNVRjhFNmVSQ0N3)
+ - from 2019: [Markus](https://www.flickr.com/photos/tacker/albums/72157675567232707), [Esko](https://photos.google.com/share/AF1QipP3pUnV_56LLrB2HTUb9SK5PoLACixJANaNwiXybiG6pPQYfEpjtQXcENJjqftlUA?key=R0hieG92Y1hHbmNBWVEydWhUNUp1UnZLWlRWTlVR)
  
 ### Blog Posts
 
@@ -59,6 +69,11 @@ To get an idea of what happened you can find the conference schedule from [2017]
     <a href="https://twitter.com/coderbyheart/status/952801902785384448"></a>
     <a href="https://twitter.com/coderbyheart/status/953674372576956416"></a>
     <a href="https://twitter.com/AnnNat/status/822083697511907328"></a>
+    <a href="https://twitter.com/coderbyheart/status/1084446608253730817"></a>
+    <a href="https://twitter.com/AnnNat/status/1084015310469021696"></a>
+    <a href="https://twitter.com/coderbyheart/status/1082264438823157760"></a>
+    <a href="https://twitter.com/Singsalad/status/1083797504678858757"></a>
+    <a href="https://twitter.com/coderbyheart/status/1154522616620695552"></a>
 </section>
 
 ## Why?
@@ -79,15 +94,63 @@ Luckily, nature is at the core of Kiilopää. And not only that, Kiilopää prov
 
 ### And what does it cost?
 
-The prices are valid for the whole stay during the following duration 
-
 The prices include *stay*, *breakfast*, *lunch*, *dinner* and (most probably) *smoke sauna* on Monday or Tuesday:
 
-* For [single bed room](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/): 86€ / day
-* For [double](http://www.suomenlatu.fi/kiilopaa/en/accommodation/hotel-niilanpaa/) 64€ / day
-* For a [wilderness cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) 97€ / cabin + 38€ / person / day for the meals
-* For a [log cabin](http://www.kiilopaa.fi/en/accommodation/cabins.html) (very suitable for families): 112€ / day + 38€ / person / day
+* For [single bed room](https://www.kiilopaa.fi/en/accommodation/hotel-niilanpaa.html): 92 € / person / night
+* For [double](https://www.kiilopaa.fi/en/accommodation/hotel-niilanpaa.html) 70 € / person / night
+* For a [wilderness cabin](https://www.kiilopaa.fi/en/accommodation/cabins.html) 105 € / cabin / night + 39€ / person / day for the meals
+* For a [log cabin](https://www.kiilopaa.fi/en/accommodation/cabins.html) (very suitable for families): 120 € / cabin / night + 39€ / person / day
 
+### About the cabins
+
+All cabins are non-smoking; pets are allowed.
+
+#### Wilderness cabin
+
+Our small but cosy (30 square meters) log cabins are well suited for 2-4 persons. Each cabin has one large room with two bunk beds and a tv-set, kitchen area (fridge, electric stove, microwave oven, coffee maker, set of dishes), sauna/shower, bathroom and a drying cabinet for clothes.
+
+#### Log cabin
+
+The log cabins are a bit bigger than the wilderness cabins (44 square meters each). A log cabin accommodates max. 2+2 persons. Each cabin has a bedroom (2 x 80 cm beds), living room (with a sofa bed for two, fireplace, tv-set) and an open kitchen area (with coffee maker, electric stove, microwave oven, fridge), electric sauna/shower and a bathroom. The dining table seats four. There is also a drying cabinet for clothes and small outdoor storage in the cabin.
+
+### About Food
+
+ * folks have 2 good options: either 
+   * book full board that includes breakfast, lunch and dinner, or 
+   * prepare own meals at the cottages. Aki will be at the venue by car, so he can bring some food on the way, and folks can get to local supermarket daily.
+
+## What to bring with you:
+
+ * swimming suit / trunk (for the smoke sauna). And if you prefer the german/swiss way to be in Sauna, own towel might be handy 
+ * a nice and handy backpack, 20-40l (this is very handy for day treks organised by Kiilopää)
+ * a bottle of 1l - a thermos would be nice if you have one. Again, for the day treks. For the warm juice to drink.
+ * warm clothes, spare gloves, etc.
+ * a camera might be good, if we have a chance to see the auroras (Tripod, extra batteries, etc.)
+ * cash: not so much - you can use credit card basically for everything in Finland.
+ 
+For more detailed information on clothes see the FAQ below.
+
+<section id="sponsors">
+
+    <header>
+
+        CodeFreeze is proudly supported by these fantastic sponsors:
+
+    </header>
+
+    <div>
+
+        <a href="https://www.nitor.com/" rel="friend met" target="_blank" rel="noopener noreferrer">
+            <img src="{{ site.baseurl }}/images/sponsors/nitor.png" alt="Nitor">
+        </a>
+
+        <a href="https://www.tespack.com/" rel="friend met" target="_blank" rel="noopener noreferrer">
+            <img src="{{ site.baseurl }}/images/sponsors/tespack/Tespack_TOP_transparent_White.png" alt="Tespack">
+        </a>
+
+    </div>
+
+</section>
 
 ## Kiilopää: a magical place in Lapland
 
@@ -95,7 +158,7 @@ Kiilopää Fell Center in Lapland is an ideal place to get in touch with the Nor
 
 Kiilopää is owned by Suomen Latu, the Outdoor Association of Finland. Suomen Latu is a promoter of outdoor activities, an expert in hiking and an organisation which is open to all. The main objective of Suomen Latu has always been to increase Finnish people’s interest in exercise as well as developing possibilities for outdoor, conditioning and recreational exercise. Nowadays guarding everyman’s right has become more and more important.
 
-*For more information about Kiilopää [please visit here](http://www.kiilopaa.fi/en).*
+*For more information about Kiilopää [please visit here](https://www.kiilopaa.fi/en).*
 
 <div id="map"></div>
 
@@ -132,7 +195,7 @@ Have you ever been winter swimming? It is an experience when the air temperature
 
 During Codefreeze, the smoke sauna is heated on Tuesday on Wednesday, and on Tuesday we have a private sauna from 3pm-6pm.
 
-*For more information about the smoke sauna in Kiilopää, [please visit here](http://www.suomenlatu.fi/kiilopaa/en/smoke-sauna/).*
+*More information about [the smoke sauna in Kiilopää](https://www.kiilopaa.fi/en/outdoor-activities/smoke-sauna.html).*
 
 ### Spending some time at Kiilopää?
 
@@ -158,7 +221,7 @@ Reindeer caravan will take you in to the woods. Moon and stars will guide your w
 - Fishing Experience by Snowmobile
 - Snowmobile Safari to Reindeer Farm
 
-For more information about the safaris, including prices, see the brochure here or visit [the official website](http://www.kiilopaa.fi/en).
+For more information about the safaris, including prices, see the brochure here or visit [the official website](https://www.kiilopaa.fi/en).
 
 <section id="participants">
 
@@ -213,14 +276,6 @@ For more information about the safaris, including prices, see the brochure here 
 
 </section>
 
-## SoCraTes Finland?
+{% include faq.md %}
 
-Codefreeze is proud to be part of the family of SoCraTes conferences spread all over the Europe. The family of SoCraTes conferences include
-
-- SoCraTes Germany, the original - since 2011
-- SoCraTes France, the first edition on 2015
-- SoCraTes BE, the first edition on 2015
-- SoCraTes Canaries, the first edition on 2015- SoCraTes UK, since 2013
-- SoCraTes Day Switzerland, the first edition on 2015
-- I T.A.K.E unconference
-- SoCraTes Italy, first edition 12 - 14 May 2016, Rimini, Italy
+{% include code-of-conduct.md %}
