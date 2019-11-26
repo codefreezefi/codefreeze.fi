@@ -1,6 +1,6 @@
 ---
 layout: 2018
-title: codefreeze
+title: Codefreeze
 tagline: Prepare for your last commit
 when: Sat Jan 11th - Sat 18th 2020
 where: Kiilopää, Finland
@@ -14,7 +14,7 @@ description: Codefreeze is an unconference with very little structure. Actually,
 
 Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. CodeFreeze is a *time* and *place* for software craftspeople to meet. We would like to have likeminded people to gather in one place and have long conversations about our craft over a drink. And to practice our coding skills.
 
-While the core conference days are from Monday to Wednesday, participants typically spend a full week in Kiilopää to enjoy the amazing winter nature and amazing activities.
+While most sessions happen from Monday to Friday, participants typically spend a full week in Kiilopää to enjoy the amazing winter nature and amazing activities.
 
 This year, we’ll experience new moon - time when the moon does not *enlighten us*, but hopefully gives more room for Aurora Borealis to do that.
 
@@ -36,15 +36,16 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
     </div>
 </section>
 
-## History
 
-Since 2015 codefreeze has happened every year around January. 2018 we hade more than 25 participants plus their family and friends. 
 
-To get an idea of what happened you can find the conference schedule from [2017](https://trello.com/b/zIYeI0me/codefreeze-2017) and [2018](https://trello.com/b/WtOxnkMU/codefreeze-2018) on Trello. Most *codefreeze* topics (green) have additional information in links in the cards.
+
+## Past Events
+
+Since 2015, Codefreeze has happened every year around January. In 2019 we had about 30 participants plus their family and friends.
 
 ### Sessions
 
-We organize the conference using Trello:
+To get an idea of what happens in Codefreeze, you can find the conference schedules on Trello. Most *Codefreeze* topics (green) have additional information in links in the cards.
 
 - [2017](https://trello.com/b/zIYeI0me/codefreeze-2017)
 - [2018](https://trello.com/b/WtOxnkMU/codefreeze-2018)
@@ -53,9 +54,9 @@ We organize the conference using Trello:
 
 ### Photos
 
- - from 2017: [Markus](https://www.flickr.com/photos/tacker/albums/72157677944796900), [Andreas](https://www.dropbox.com/sh/bkxdfumi56fvy92/AAAUjLSXvlUkS-t-FuFK1kUSa?dl=0) *with Aurora!*
- - from 2018: [Markus](https://www.flickr.com/photos/tacker/sets/72157662836528657), [Steffie](https://photos.google.com/share/AF1QipN6I2ZjNFiVjzyVggQV8lgdU_u7__pDq2RQ0DhWAaYqRI1iD_P6SnxRLAFBpyyHbg?key=MTNnd3gxZkNNOVphb2ZyS0luN3RJd3B3aUYzTEhn), [Franzi](https://photos.google.com/share/AF1QipMg-kfDKMsVwdrPbPsKj-lOMLnQEB42lqIArQv6LbDeY307Mv7iN2uyh0QD0jIp-w?key=M2V4Mk5VYUZWVWJ5WHR4UDdCbFNVRjhFNmVSQ0N3)
- - from 2019: [Markus](https://www.flickr.com/photos/tacker/albums/72157675567232707), [Esko](https://photos.google.com/share/AF1QipP3pUnV_56LLrB2HTUb9SK5PoLACixJANaNwiXybiG6pPQYfEpjtQXcENJjqftlUA?key=R0hieG92Y1hHbmNBWVEydWhUNUp1UnZLWlRWTlVR)
+ - 2017: [Markus](https://www.flickr.com/photos/tacker/albums/72157677944796900), [Andreas](https://www.dropbox.com/sh/bkxdfumi56fvy92/AAAUjLSXvlUkS-t-FuFK1kUSa?dl=0) *with Aurora!*
+ - 2018: [Markus](https://www.flickr.com/photos/tacker/sets/72157662836528657), [Steffie](https://photos.google.com/share/AF1QipN6I2ZjNFiVjzyVggQV8lgdU_u7__pDq2RQ0DhWAaYqRI1iD_P6SnxRLAFBpyyHbg?key=MTNnd3gxZkNNOVphb2ZyS0luN3RJd3B3aUYzTEhn), [Franzi](https://photos.google.com/share/AF1QipMg-kfDKMsVwdrPbPsKj-lOMLnQEB42lqIArQv6LbDeY307Mv7iN2uyh0QD0jIp-w?key=M2V4Mk5VYUZWVWJ5WHR4UDdCbFNVRjhFNmVSQ0N3)
+ - 2019: [Markus](https://www.flickr.com/photos/tacker/albums/72157675567232707), [Esko](https://photos.google.com/share/AF1QipP3pUnV_56LLrB2HTUb9SK5PoLACixJANaNwiXybiG6pPQYfEpjtQXcENJjqftlUA?key=R0hieG92Y1hHbmNBWVEydWhUNUp1UnZLWlRWTlVR)
  
 ### Blog Posts
 
@@ -82,7 +83,7 @@ We organize the conference using Trello:
 
 Have you ever been coding under the northern lights? Or in a Lapp daylight? Early-mid February is one of the best times to see northern lights in action. And it also happens, that there's a full moon during the stay. We've done what we can - provide best possible time for some extraordinary experiences.
 
-We know it might be rather cold. Temperatures down to -25 ºC are normal at the time of the year. For some clothing tips, visit [here](faq).
+We know it might be rather cold. Temperatures down to -25 ºC are normal at the time of the year. For some clothing tips, see the [FAQ](#faq).
 
 ### Smoke sauna?
 
@@ -130,7 +131,7 @@ The log cabins are a bit bigger than the wilderness cabins (44 square meters eac
  * a camera might be good, if we have a chance to see the auroras (Tripod, extra batteries, etc.)
  * cash: not so much - you can use credit card basically for everything in Finland.
  
-For more detailed information on clothes see the FAQ below.
+For more detailed information on clothes see the [FAQ](#faq).
 
 <section id="sponsors">
 
@@ -203,7 +204,7 @@ During Codefreeze, the smoke sauna is heated on Tuesday on Wednesday, and on Tue
 
 ### Spending some time at Kiilopää?
 
-As folks found out on codefreeze 2015, the scenery is beautiful and there would be tons of interesting things to do, outside the realms of talking software. Suomen Latu Kiilopää organizes quite interesting set of safaris for all people. The possible safaris include, for example
+As folks found out on Codefreeze 2015, the scenery is beautiful and there would be tons of interesting things to do, outside the realms of talking software. Suomen Latu Kiilopää organizes quite interesting set of safaris for all people. The possible safaris include, for example
 
 #### Searching for Northern Lights
 
