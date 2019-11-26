@@ -92,6 +92,8 @@ Being in Lapland in the winter, and one of the most important things is to have 
 
 Luckily, nature is at the core of Kiilopää. And not only that, Kiilopää provides daily trips to nearby fells guided by experienced nature guides. For example, there's a snow shoe trip on Wednesday morning.
 
+## Accommodation
+
 ### And what does it cost?
 
 The prices include *stay*, *breakfast*, *lunch*, *dinner* and (most probably) *smoke sauna* on Monday or Tuesday:
@@ -162,15 +164,15 @@ Kiilopää is owned by Suomen Latu, the Outdoor Association of Finland. Suomen L
 
 <div id="map"></div>
 
-### Directions: How to get there
+## Directions
 
-#### By plane
+### By plane
 
 The nearest airport is in Ivalo (IVL). Both Finnair and Norwegian flies from Helsinki to Ivalo, if not daily, then almost. There are also some direct flights to Frankfurt, London and other places. Find out about the flight schedule.
 
 From every single flight arriving at Ivalo, there is a bus connection from the airport to Kiilopää.
 
-#### By train
+### By train
 
 Take the earlier night train from south Finland to Rovaniemi. From Rovaniemi, there is a bus connection, leaving from the railway station.
 
@@ -186,6 +188,8 @@ Take the earlier night train from south Finland to Rovaniemi. From Rovaniemi, th
         <img src="{{ site.baseurl }}/images/photo-full-moon.jpg" alt="Full Moon">
     </div>
 </section>
+
+## Activities
 
 ### Have you done *The Dip*?
 

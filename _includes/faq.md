@@ -1,10 +1,10 @@
-### FAQ
+## FAQ
 
-#### Where can I get more information?
+### Where can I get more information?
 
 If you have further questions, ask them in the `#codefreeze_fi` channel in the [Software Crafters Slack](http://slack.softwarecrafters.org/) or [ask Aki](mailto:aki.salmi@iki.fi).
 
-#### SoCraTes Finland?
+### SoCraTes Finland?
 
 Codefreeze is proud to be part of the family of SoCraTes conferences spread all over the Europe. The family of SoCraTes conferences include
 
@@ -16,13 +16,13 @@ Codefreeze is proud to be part of the family of SoCraTes conferences spread all 
 - I T.A.K.E unconference
 - SoCraTes Italy, first edition 12 - 14 May 2016, Rimini, Italy
 
-#### Picking the right clothes for the Lapp winter
+### Picking the right clothes for the Lapp winter
 
 Basically, the most important thing in Lapp winter is to wear clothes in layers.
 
 Here I'll describe what I often wear, when in Lapland, whether snowboarding, skiing, or hiking (in winter).
 
-##### Inner layer
+#### Inner layer
 
 For me, clothing always starts from the innermost layer. For me, it is the most important, that this particular layer insulates well and does not get/feel wet.
 Merino wool underwear is my choice - nowadays I typically wear 100% merino wool from [smartwool](http://www.scandinavianoutdoorstore.com/en/miesten-vaatteet/tekniset-alusasut/lightweight-bottom/)
@@ -31,13 +31,13 @@ If it is cold, say more than -10, I typically wear [strechmesh underpants](http:
 
 Similarly I wear on my body - [merino wool t-shirt](http://www.smartwool.com/clothing/baselayers/mens-nts-micro-150-tee.html), another layer of [merino wool](http://www.smartwool.com/clothing/baselayers/mens-nts-mid-250-crew-1.html), with some [mesh shirts](http://www.scandinavianoutdoorstore.com/en/miesten-vaatteet/tekniset-alusasut/stretchmesh-tee-shirt/). Typically I wear, like this. 2-3 layers of very thin merino wool / mesh shirts. On very cold days, I might add one more merino wool shirt.
 
-##### Middle layer
+#### Middle layer
 
 Middle layer is something I typically wear only when I'm not doing anything physical. Or, when in Codefreeze, probably all the time. Especially in the [Stars and the Moon night trek](http://www.kiilopaa.fi/en/outdoor-activities/weekly-program.html) - it's not going to be much of an exericse - cold it might be.
 
 In middle layer I wear, for the biggest suprise, either more merino wool, or something totally different, either something made of [PolarTec](http://www.scandinavianoutdoorstore.com/en/naisten-vaatteet/naisten-valiasut/womens-flux-power-stretch-jacket/) or [Fleece](http://www.scandinavianoutdoorstore.com/en/miesten-vaatteet/valiasut/isogon-hood/).
 
-##### Outer layer
+#### Outer layer
 
 For outer layer, it's enough that it is wind resistant. And maybe cozy enough to wear. I typically don't wear anything super expensive GoreTex jackets/trousers. In winter, I myself have both [soft shell jacket, like](http://www.scandinavianoutdoorstore.com/en/miesten-vaatteet/softshell-takit/gecko-hood/) and [an anorak, like](http://www.scandinavianoutdoorstore.com/en/miesten-vaatteet/retkeilytakit/gutulia-anorak/). I use an anorak when skiing, and a soft shell jacket when snowboarding. Why - I don't really know. 
 
@@ -45,7 +45,7 @@ For trousers, something comfy and windproof, like these [Fjällraven trousers](h
 
 Anyway, the most important thing is, that it should be wind resistant. At least if planning to do any physical exercise above the tree level. 
 
-##### Other garments
+#### Other garments
 
 Others then? 
 
@@ -61,7 +61,7 @@ Could you guess? I wear only merino wool socks. Nothing else. Matters.
 
 Boots? There is 60-100cm snow on the ground. I highly encourage to wear boots which cover your ankles. Especially important if you plan to take a snowshoe trek. You can rent proper boots from the ski rental shop in the basement of the main building.
 
-##### Few more words
+#### Few more words
 
 That's what I wear. Mostly merino wool. Except of some inner layer mesh clothes and the outermost layer, which has to be windproof. Easy, isn't it. I wear using the same principles year around, if hiking / cycling in non-summer temperatures -> I wear merino wool 1-N layers with wind proof (or GoreTex) outer layer. Easy. 
 
@@ -74,46 +74,46 @@ And, if you'be read this far - please bring swimming suit. I know, we are in Fin
 
  _#proTip_: To acclimatize ourselves (I do this too, and I've experienced the benefits already) - when we're taking a shower, let's turn the knob to the coldest and enjoy a really refreshing cold shower. For a few seconds (at start) and then few tens of seconds. Doing that, and freezing cold temperatures in Lapland don't feel that cold anymore. 
 
-#### Wifi
+### Wifi
 
  * There is wifi at the main hall. It might work at the single/double rooms, but not in the cabins.
  * Since we’re in Finland, a land with proper cellular coverage, there is good coverage everywhere around the site. Own SIM cards for local operator (DNA) can be organised.
 
-#### Attending Codefreeze with Children
+### Attending Codefreeze with Children
 
-##### Are children welcome at Codefreeze?
+#### Are children welcome at Codefreeze?
 In short, yes. We’d love for you to bring your kids.
 
-##### Will there be other kids?
+#### Will there be other kids?
 Usually yes. It helps to connect with other parents so you can arrange sessions for children that need preparation.
 
-##### What kinds of things might my children enjoy at Codefreeze?
+#### What kinds of things might my children enjoy at Codefreeze?
 The snow (it might be clean enough to eat). Slayrides, going downhill on the slope with the totem pole - it gives you a sense of accomplishment. Making friends with the other kids. The quiet outside. The sauna (on lower temperatures or with a little bathtub). Some children have even enjoyed the dip - maybe you can make some badges for their accomplishments?
 
-##### What kinds of things might be frustrating for my kids?
+#### What kinds of things might be frustrating for my kids?
 Adults will mainly speak English to each other which they might not understand. The marketplace takes quite long so it is good to find something to do nearby.
 Children usually need structure and Codefreeze can become quite loud and unorganised - you might need someone to tell them what to focus on.
 Some sessions might not be suitable for kids.
 
-##### Is there someone who can provide childcare for my kids?
+#### Is there someone who can provide childcare for my kids?
 Not officially, but you can connect with other parents to maybe arrange something.
 
-##### Do all children speak [my language]? What age are they?
+#### Do all children speak [my language]? What age are they?
 Children of all kind of native languages will join and they don’t all speak English. Young kids sometimes become friends even if they can’t verbally communicate.
 They have been of varying ages from 2 years upwards.
 
-##### I can’t bring my kids because of the school holiday - can you move the dates?
+#### I can’t bring my kids because of the school holiday - can you move the dates?
 Sorry, we can’t move the dates at the moment but you can look into participating part of the time. In some countries/schools it might be possible to arrange an exception for a few days and have children do homework during the time. Children can learn a lot about Sami culture and possibly bring that back into their schools. Depending on the weather you could do some science experiments like throwing boiling water into the air and have it frozen or making popsicles in the snow. Other ideas: blow frozen soap bubbles, popcorn on the fire and watching a movie.
 
-##### Is the food child compatible?
+#### Is the food child compatible?
 The food provided by the venue is very greasy and you might struggle if you have food intolerances. Lunch is usually quite salty soup & salad. Children usually enjoy the dinner. It’s possible to self cater in the accommodations - there is a small shop in a town nearby or you could bring your own ingredients. The tap water is very good but you need a bottle or thermos to bring water on hikes.
 
-##### What should I know about accommodation?
+#### What should I know about accommodation?
 Cabins might be 15m walk away but could be easier with sleds. However the number of sleds is currently limited, you might ask about increasing them with reception in advance.
 Wilderness cabins only have one room with bunk beds which might not work for you.
 There are some bigger cabins (for 10 people) that are more expensive (pohiamm ukku?) which have extra rooms that can provide more privacy if your children are fuzzy sleepers. These are not part of the Codefreeze packages
 
-##### Which of the activities are good for kids?
+#### Which of the activities are good for kids?
 - Reindeer excursion (expensive but you can go and feed them and learn about them). You get some tea and cake. Sleigh ride takes about an hour of sitting still in very warm clothing.
 - Cross country skiing (if the weather permits). This is currently not very kid oriented.
 - Angry bird playground might be fun (we haven’t tested this).
@@ -124,12 +124,12 @@ There are some bigger cabins (for 10 people) that are more expensive (pohiamm uk
 - You might try snowshoe walks.
 - There’s a slide in a snow castle - you need a small sled to sit on.
 
-##### What should I pack in addition to the official packing list?
+#### What should I pack in addition to the official packing list?
 - homework/schoolwork materials (if applicable)
 - Warm clothes - boots with good soles and high shafts. You can get a lot of stuff second hand if you look in advance
 - activities/games/books (including bedtime stories)
 - Screens with games & chargers
 
-##### Where can I get more information regarding attending Codefreeze with children?
+#### Where can I get more information regarding attending Codefreeze with children?
 
 If you have further questions, ask them in the `#parents` channel in the Software Crafters Slack or ask Aki.
