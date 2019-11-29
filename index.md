@@ -182,11 +182,11 @@ Kiilopää is owned by Suomen Latu, the Outdoor Association of Finland. Suomen L
 
 The nearest airport is in Ivalo (IVL). Both Finnair and Norwegian flies from Helsinki to Ivalo, if not daily, then almost. There are also some direct flights to Frankfurt, London and other places. Find out about the flight schedule.
 
-From every single flight arriving at Ivalo, there is a bus connection from the airport to Kiilopää.
+For every single flight arriving at Ivalo, there is a [bus connection from the Ivalo airport to Kiilopää](https://saariselka.com/en/travelling/by-car/airport-bus/).
 
 ### By train
 
-Take the earlier night train from south Finland to Rovaniemi. From Rovaniemi, there is a bus connection, leaving from the railway station.
+Take the earlier night train from south Finland to Rovaniemi. From Rovaniemi there is a [bus connection from the Rovaniemi railway station to Kiilopää](https://www.matkahuolto.fi/).
 
 <section class="infoBox">
     <div class="photo">
