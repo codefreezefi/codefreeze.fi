@@ -14,7 +14,7 @@ description: Codefreeze is an unconference with very little structure. Actually,
 
 Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. CodeFreeze is a *time* and *place* for software craftspeople to meet. We would like to have likeminded people to gather in one place and have long conversations about our craft over a drink. And to practice our coding skills.
 
-While most sessions happen from Monday to Friday, participants typically spend a full week in Kiilopää to enjoy the amazing winter nature and amazing activities.
+While most sessions happen from Monday to Friday, participants typically spend a full week in Kiilopää to enjoy the amazing winter nature and activities.
 
 This year, we’ll experience new moon - time when the moon does not *enlighten us*, but hopefully gives more room for Aurora Borealis to do that.
 
@@ -46,11 +46,11 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
 
 ## Past Events
 
-Since 2015, Codefreeze has happened every year around January. In 2019 we had about 30 participants plus their family and friends.
+Since 2015, Codefreeze has happened every year around January. In 2019 we had about 35 participants plus their family and friends.
 
 ### Sessions
 
-To get an idea of what happens in Codefreeze, you can find the conference schedules on Trello. Most *Codefreeze* topics (green) have additional information in links in the cards.
+To get an idea of what happens at Codefreeze, you can find the conference schedules on Trello. Most *Codefreeze* topics (green) have additional information in links in the cards.
 
 - [2017](https://trello.com/b/zIYeI0me/codefreeze-2017)
 - [2018](https://trello.com/b/WtOxnkMU/codefreeze-2018)
@@ -88,7 +88,7 @@ To get an idea of what happens in Codefreeze, you can find the conference schedu
 
 Have you ever been coding under the northern lights? Or in a Lapp daylight? Early-mid February is one of the best times to see northern lights in action. And it also happens, that there's a full moon during the stay. We've done what we can - provide best possible time for some extraordinary experiences.
 
-We know it might be rather cold. Temperatures down to -25 ºC are normal at the time of the year. For some clothing tips, see the [FAQ](#faq).
+We know it might be rather cold. Temperatures down to -25°C are normal at the time of the year. For some clothing tips, see the [FAQ](#faq).
 
 ### Smoke sauna?
 
@@ -131,7 +131,7 @@ The log cabins are a bit bigger than the wilderness cabins (44 square meters eac
    * book full board that includes breakfast, lunch and dinner, or 
    * prepare own meals at the cottages. Aki will be at the venue by car, so he can bring some food on the way, and folks can get to local supermarket daily.
 
-Normally lunch and dinner is not vegetarian. If you eat vegetarian food, or have any other food allergies, please contact the hotel and tell your preferences.
+Normally lunch and dinner is not vegetarian. If you prefer vegetarian food, or have food allergies, please contact the hotel and tell your preferences.
 
 ## What to bring with you:
 
@@ -168,7 +168,7 @@ For more detailed information on clothes see the [FAQ](#faq).
 
 ## <a name="kiilopaa"></a>Kiilopää: a magical place in Lapland
 
-[Kiilopää Fell Center](https://www.kiilopaa.fi/en) in Lapland is an ideal place to get in touch with the Nordic wilderness. At Kiilopää you can conquer a fell, dip into an ice-cold lake, and ski under the Northern Lights. Or you can just sick back and enjoy the surrounding natural beauty, sense the arctic peace and quiet, and listen to exotic Lapland stories by the fireplace.
+[Kiilopää Fell Center](https://www.kiilopaa.fi/en) in Lapland is an ideal place to get in touch with the Nordic wilderness. At Kiilopää you can conquer a fell, dip into an ice-cold lake, and ski under the Northern Lights. Or you can just sit back and enjoy the surrounding natural beauty, sense the arctic peace and quiet, and listen to exotic Lapland stories by the fireplace.
 
 Kiilopää is owned by Suomen Latu, the Outdoor Association of Finland. Suomen Latu is a promoter of outdoor activities, an expert in hiking and an organisation which is open to all. The main objective of Suomen Latu has always been to increase Finnish people’s interest in exercise as well as developing possibilities for outdoor, conditioning and recreational exercise. Nowadays guarding everyman’s right has become more and more important.
 
@@ -186,7 +186,7 @@ For every single flight arriving at Ivalo, there is a [bus connection from the I
 
 ### By train
 
-Take the earlier night train from south Finland to Rovaniemi. From Rovaniemi there is a [bus connection from the Rovaniemi railway station to Kiilopää](https://www.matkahuolto.fi/).
+Take the earlier night train from southern Finland to Rovaniemi. From Rovaniemi there is a [bus connection from the Rovaniemi railway station to Kiilopää](https://www.matkahuolto.fi/).
 
 <section class="infoBox">
     <div class="photo">
@@ -215,7 +215,7 @@ During Codefreeze, the smoke sauna is heated on Tuesday on Wednesday, and on Tue
 
 ### Spending some time at Kiilopää?
 
-As folks found out on Codefreeze 2015, the scenery is beautiful and there would be tons of interesting things to do, outside the realms of talking software. Suomen Latu Kiilopää organizes quite interesting set of safaris for all people. The possible safaris include, for example
+As folks found out on Codefreeze 2015, the scenery is beautiful and there are a lot of interesting things to do, outside the realms of talking software. Suomen Latu Kiilopää organizes amazing safaris for all guests, for example
 
 #### Searching for Northern Lights
 
