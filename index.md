@@ -166,13 +166,13 @@ For more detailed information on clothes see the [FAQ](#faq).
 
 </section>
 
-## Kiilopää: a magical place in Lapland
+## <a name="kiilopaa"></a>Kiilopää: a magical place in Lapland
 
-Kiilopää Fell Center in Lapland is an ideal place to get in touch with the Nordic wilderness. At Kiilopää you can conquer a fell, dip into an ice-cold lake, and ski under the Northern Lights. Or you can just sick back and enjoy the surrounding natural beauty, sense the arctic peace and quiet, and listen to exotic Lapland stories by the fireplace.
+[Kiilopää Fell Center](https://www.kiilopaa.fi/en) in Lapland is an ideal place to get in touch with the Nordic wilderness. At Kiilopää you can conquer a fell, dip into an ice-cold lake, and ski under the Northern Lights. Or you can just sick back and enjoy the surrounding natural beauty, sense the arctic peace and quiet, and listen to exotic Lapland stories by the fireplace.
 
 Kiilopää is owned by Suomen Latu, the Outdoor Association of Finland. Suomen Latu is a promoter of outdoor activities, an expert in hiking and an organisation which is open to all. The main objective of Suomen Latu has always been to increase Finnish people’s interest in exercise as well as developing possibilities for outdoor, conditioning and recreational exercise. Nowadays guarding everyman’s right has become more and more important.
 
-*For more information about Kiilopää [please visit here](https://www.kiilopaa.fi/en).*
+*For more information see the [official Kiilopää web site](https://www.kiilopaa.fi/en).*
 
 <div id="map"></div>
 

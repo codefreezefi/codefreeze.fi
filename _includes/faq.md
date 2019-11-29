@@ -132,4 +132,4 @@ There are some bigger cabins (for 10 people) that are more expensive (pohiamm uk
 
 #### Where can I get more information regarding attending Codefreeze with children?
 
-If you have further questions, ask them in the `#parents` channel in the Software Crafters Slack or ask Aki.
+If you have further questions, ask them in the `#parents` channel in the [Software Crafters Slack](http://slack.softwarecrafters.org/) or [ask Aki](mailto:aki.salmi@iki.fi).
