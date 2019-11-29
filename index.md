@@ -280,7 +280,7 @@ For more information about the safaris, including prices, see the brochure here 
         <i class="fab fa-twitter"></i></a>
     {% endif %}
     {% if participant.linkedin != null %}
-      <a href="https://www.linkedin.com/in/{{ participant.linkedin }}" rel="noopener noreferrer">
+      <a href="{{ participant.linkedin }}" rel="noopener noreferrer">
         <i class="fab fa-linkedin"></i></a>
     {% endif %}
     </nav>
