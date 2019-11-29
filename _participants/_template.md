@@ -1,9 +1,11 @@
 ---
 name: You?
-link: https://github.com/rinkkasatiainen/codefreeze.fi
 image: 
 contact-via: [email or phone number]
 room-type: [single | double (with XYZ) | cabin (with X, Y & Z) ]
+link: 
+twitter: 
+linkedin: 
 ---
 
 ## In brief:
