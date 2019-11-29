@@ -1,6 +1,6 @@
 ## FAQ
 
-### Where can I get more information?
+### <a name="slack"></a>Where can I get more information?
 
 If you have further questions, ask them in the `#codefreeze_fi` channel in the [Software Crafters Slack](http://slack.softwarecrafters.org/) or [ask Aki](mailto:aki.salmi@iki.fi).
 

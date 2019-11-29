@@ -36,7 +36,12 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
     </div>
 </section>
 
+## Registration
 
+- Read and accept the [Code of Conduct](#code-of-conduct).
+- Book a room or cabin by email (see [Accommodation](#accommodation)), or ask for a roommate from our [Slack channel](#slack).
+- Make travel arrangements to Kiilopää (see [Directions](#directions)).
+- You may add yourself as a [participant](#participants) to the Codefreze website by creating a [pull request](https://github.com/rinkkasatiainen/codefreeze.fi#readme).
 
 
 ## Past Events
@@ -95,6 +100,10 @@ Luckily, nature is at the core of Kiilopää. And not only that, Kiilopää prov
 
 ## Accommodation
 
+### How to make the reservation?
+
+Book your stay in Kiilopää yourself by email to [kiilopaa@suomenlatu.fi](mailto:kiilopaa@suomenlatu.fi) and mention “Codefreeze” for the discount and to get a room/cabin from the reserved slots.
+
 ### And what does it cost?
 
 The prices include *stay*, *breakfast*, *lunch*, *dinner* and (most probably) *smoke sauna* on Monday or Tuesday:
@@ -121,6 +130,8 @@ The log cabins are a bit bigger than the wilderness cabins (44 square meters eac
  * folks have 2 good options: either 
    * book full board that includes breakfast, lunch and dinner, or 
    * prepare own meals at the cottages. Aki will be at the venue by car, so he can bring some food on the way, and folks can get to local supermarket daily.
+
+Normally lunch and dinner is not vegetarian. If you eat vegetarian food, or have any other food allergies, please contact the hotel and tell your preferences.
 
 ## What to bring with you:
 
@@ -165,7 +176,7 @@ Kiilopää is owned by Suomen Latu, the Outdoor Association of Finland. Suomen L
 
 <div id="map"></div>
 
-## Directions
+## <a name="directions"></a>Directions: How to get there
 
 ### By plane
 
