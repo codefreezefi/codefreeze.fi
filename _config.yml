@@ -2,48 +2,5 @@ permalink: none
 sass:
     style: :compressed
     sass_dir: styles/_snippets
-sections:
-- about
-- how-to-get-here
 collections:
-- headings
-- pages
-- sections
 - participants
-- kiilopaa
-- y2015
-- y2016
-- y2017
-- y2018
-
-defaults:
-    -
-        scope:
-            path: "_participants"
-        values:
-            layout: "sub-page"
-    -
-        scope:
-            path: "2015/participants"
-        values:
-            layout: "sub-page"
-    -
-        scope:
-            path: "2016/participants"
-        values:
-            layout: "sub-page"
-    -
-        scope:
-            path: "2015"
-        values:
-            layout: "index"
-    -
-        scope:
-            path: "2016"
-        values:
-            layout: "index"
-    -
-        scope:
-            path: "2017"
-        values:
-            layout: "index"
