@@ -158,10 +158,6 @@ For more detailed information on clothes see the [FAQ](#faq).
             <img src="{{ site.baseurl }}/images/sponsors/nitor.png" alt="Nitor">
         </a>
 
-        <a href="https://www.tespack.com/" rel="friend met" target="_blank" rel="noopener noreferrer">
-            <img src="{{ site.baseurl }}/images/sponsors/tespack/Tespack_TOP_transparent_White.png" alt="Tespack">
-        </a>
-
     </div>
 
 </section>
