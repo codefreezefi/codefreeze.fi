@@ -42,15 +42,18 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
 - Book a room or cabin by email (see [Accommodation](#accommodation)), or ask for a roommate from our [Slack channel](#slack).
 - Make travel arrangements to Kiilopää (see [Directions](#directions)).
 - You may add yourself as a [participant](#participants) to the Codefreze website by creating a [pull request](https://github.com/rinkkasatiainen/codefreeze.fi#readme).
+- You may also add your arrival and reparture times to [Trello](#trello).
 
 
 ## Past Events
 
 Since 2015, Codefreeze has happened every year around January. In 2019 we had about 35 participants plus their family and friends.
 
-### Sessions
+### <a name="trello"></a>Sessions
 
 To get an idea of what happens at Codefreeze, you can find the conference schedules on Trello. Most *Codefreeze* topics (green) have additional information in links in the cards.
+
+The Trello board is also used for coordinating travel arrangements and planning the next Codefreeze, so it's good to check it out in advance.
 
 - [2017](https://trello.com/b/zIYeI0me/codefreeze-2017)
 - [2018](https://trello.com/b/WtOxnkMU/codefreeze-2018)
