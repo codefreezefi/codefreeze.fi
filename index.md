@@ -39,7 +39,7 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
 ## Registration
 
 - Read and accept the [Code of Conduct](#code-of-conduct).
-- Book a room or cabin by email (see [Accommodation](#accommodation)), or ask for a roommate from our [Slack channel](#slack).
+- Book a room or cabin by email (remember to mention Codefreeze; see [Accommodation](#accommodation)), or ask for a roommate from our [Slack channel](#slack).
 - Make travel arrangements to Kiilopää (see [Directions](#directions)).
 - You may add yourself as a [participant](#participants) to the Codefreze website by creating a [pull request](https://github.com/rinkkasatiainen/codefreeze.fi#readme).
 - You may also add your arrival and reparture times to [Trello](#trello).
