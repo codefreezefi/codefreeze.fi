@@ -5,14 +5,14 @@ tagline: Prepare for your last commit
 when: Sat Jan 11th - Sat 18th 2020
 where: Kiilopää, Finland
 where_link: https://www.kiilopaa.fi/en/
-description: Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. CodeFreeze is a time and place for software craftspeople to meet.
+description: Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a time and place for software craftspeople to meet.
 ---
 
 # {{page.title}}
 
 ## {{page.tagline}}
 
-Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. CodeFreeze is a *time* and *place* for software craftspeople to meet. We would like to have likeminded people to gather in one place and have long conversations about our craft over a drink. And to practice our coding skills.
+Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a *time* and *place* for software craftspeople to meet. We would like to have likeminded people to gather in one place and have long conversations about our craft over a drink. And to practice our coding skills.
 
 While most sessions happen from Monday to Friday, participants typically spend a full week in Kiilopää to enjoy the amazing winter nature and activities.
 
@@ -39,18 +39,21 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
 ## Registration
 
 - Read and accept the [Code of Conduct](#code-of-conduct).
-- Book a room or cabin by email (see [Accommodation](#accommodation)), or ask for a roommate from our [Slack channel](#slack).
+- Book a room or cabin by email (remember to mention *Codefreeze*; see [Accommodation](#accommodation)), or ask for a roommate from our [Slack channel](#slack).
 - Make travel arrangements to Kiilopää (see [Directions](#directions)).
-- You may add yourself as a [participant](#participants) to the Codefreze website by creating a [pull request](https://github.com/rinkkasatiainen/codefreeze.fi#readme).
+- You may add yourself as a [participant](#participants) to the Codefreeze website by creating a [pull request](https://github.com/rinkkasatiainen/codefreeze.fi#readme).
+- You may also add your arrival and reparture times to [Trello](#trello).
 
 
 ## Past Events
 
 Since 2015, Codefreeze has happened every year around January. In 2019 we had about 35 participants plus their family and friends.
 
-### Sessions
+### <a name="trello"></a>Sessions
 
 To get an idea of what happens at Codefreeze, you can find the conference schedules on Trello. Most *Codefreeze* topics (green) have additional information in links in the cards.
+
+The Trello board is also used for coordinating travel arrangements and planning the next Codefreeze, so it's good to check it out in advance.
 
 - [2017](https://trello.com/b/zIYeI0me/codefreeze-2017)
 - [2018](https://trello.com/b/WtOxnkMU/codefreeze-2018)
@@ -148,7 +151,7 @@ For more detailed information on clothes see the [FAQ](#faq).
 
     <header>
 
-        CodeFreeze is proudly supported by these fantastic sponsors:
+        Codefreeze is proudly supported by these fantastic sponsors:
 
     </header>
 
