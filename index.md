@@ -147,23 +147,6 @@ Normally lunch and dinner is not vegetarian. If you prefer vegetarian food, or h
  
 For more detailed information on clothes see the [FAQ](#faq).
 
-<section id="sponsors">
-
-    <header>
-
-        Codefreeze is proudly supported by these fantastic sponsors:
-
-    </header>
-
-    <div>
-
-        <a href="https://www.nitor.com/" rel="friend met" target="_blank" rel="noopener noreferrer">
-            <img src="{{ site.baseurl }}/images/sponsors/nitor.png" alt="Nitor">
-        </a>
-
-    </div>
-
-</section>
 
 ## <a name="kiilopaa"></a>Kiilopää: a magical place in Lapland
 
