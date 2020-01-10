@@ -1,20 +1,20 @@
 ---
 layout: 2018
-title: codefreeze
+title: Codefreeze
 tagline: Prepare for your last commit
 when: Sat Jan 11th - Sat 18th 2020
 where: Kiilopää, Finland
 where_link: https://www.kiilopaa.fi/en/
-description: Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. CodeFreeze is a time and place for software craftspeople to meet.
+description: Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a time and place for software craftspeople to meet.
 ---
 
 # {{page.title}}
 
 ## {{page.tagline}}
 
-Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. CodeFreeze is a *time* and *place* for software craftspeople to meet. We would like to have likeminded people to gather in one place and have long conversations about our craft over a drink. And to practice our coding skills.
+Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a *time* and *place* for software craftspeople to meet. We would like to have likeminded people to gather in one place and have long conversations about our craft over a drink. And to practice our coding skills.
 
-While the core conference days are from Monday to Wednesday, participants typically spend a full week in Kiilopää to enjoy the amazing winter nature and amazing activities.
+While most sessions happen from Monday to Friday, participants typically spend a full week in Kiilopää to enjoy the amazing winter nature and activities.
 
 This year, we’ll experience new moon - time when the moon does not *enlighten us*, but hopefully gives more room for Aurora Borealis to do that.
 
@@ -36,15 +36,24 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
     </div>
 </section>
 
-## History
+## Registration
 
-Since 2015 codefreeze has happened every year around January. 2018 we hade more than 25 participants plus their family and friends. 
+- Read and accept the [Code of Conduct](#code-of-conduct).
+- Book a room or cabin by email (remember to mention *Codefreeze*; see [Accommodation](#accommodation)), or ask for a roommate from our [Slack channel](#slack).
+- Make travel arrangements to Kiilopää (see [Directions](#directions)).
+- You may add yourself as a [participant](#participants) to the Codefreeze website by creating a [pull request](https://github.com/rinkkasatiainen/codefreeze.fi#readme).
+- You may also add your arrival and reparture times to [Trello](#trello).
 
-To get an idea of what happened you can find the conference schedule from [2017](https://trello.com/b/zIYeI0me/codefreeze-2017) and [2018](https://trello.com/b/WtOxnkMU/codefreeze-2018) on Trello. Most *codefreeze* topics (green) have additional information in links in the cards.
 
-### Sessions
+## Past Events
 
-We organize the conference using Trello:
+Since 2015, Codefreeze has happened every year around January. In 2019 we had about 35 participants plus their family and friends.
+
+### <a name="trello"></a>Sessions
+
+To get an idea of what happens at Codefreeze, you can find the conference schedules on Trello. Most *Codefreeze* topics (green) have additional information in links in the cards.
+
+The Trello board is also used for coordinating travel arrangements and planning the next Codefreeze, so it's good to check it out in advance.
 
 - [2017](https://trello.com/b/zIYeI0me/codefreeze-2017)
 - [2018](https://trello.com/b/WtOxnkMU/codefreeze-2018)
@@ -53,9 +62,9 @@ We organize the conference using Trello:
 
 ### Photos
 
- - from 2017: [Markus](https://www.flickr.com/photos/tacker/albums/72157677944796900), [Andreas](https://www.dropbox.com/sh/bkxdfumi56fvy92/AAAUjLSXvlUkS-t-FuFK1kUSa?dl=0) *with Aurora!*
- - from 2018: [Markus](https://www.flickr.com/photos/tacker/sets/72157662836528657), [Steffie](https://photos.google.com/share/AF1QipN6I2ZjNFiVjzyVggQV8lgdU_u7__pDq2RQ0DhWAaYqRI1iD_P6SnxRLAFBpyyHbg?key=MTNnd3gxZkNNOVphb2ZyS0luN3RJd3B3aUYzTEhn), [Franzi](https://photos.google.com/share/AF1QipMg-kfDKMsVwdrPbPsKj-lOMLnQEB42lqIArQv6LbDeY307Mv7iN2uyh0QD0jIp-w?key=M2V4Mk5VYUZWVWJ5WHR4UDdCbFNVRjhFNmVSQ0N3)
- - from 2019: [Markus](https://www.flickr.com/photos/tacker/albums/72157675567232707), [Esko](https://photos.google.com/share/AF1QipP3pUnV_56LLrB2HTUb9SK5PoLACixJANaNwiXybiG6pPQYfEpjtQXcENJjqftlUA?key=R0hieG92Y1hHbmNBWVEydWhUNUp1UnZLWlRWTlVR)
+ - 2017: [Markus](https://www.flickr.com/photos/tacker/albums/72157677944796900), [Andreas](https://www.dropbox.com/sh/bkxdfumi56fvy92/AAAUjLSXvlUkS-t-FuFK1kUSa?dl=0) *with Aurora!*
+ - 2018: [Markus](https://www.flickr.com/photos/tacker/sets/72157662836528657), [Steffie](https://photos.google.com/share/AF1QipN6I2ZjNFiVjzyVggQV8lgdU_u7__pDq2RQ0DhWAaYqRI1iD_P6SnxRLAFBpyyHbg?key=MTNnd3gxZkNNOVphb2ZyS0luN3RJd3B3aUYzTEhn), [Franzi](https://photos.google.com/share/AF1QipMg-kfDKMsVwdrPbPsKj-lOMLnQEB42lqIArQv6LbDeY307Mv7iN2uyh0QD0jIp-w?key=M2V4Mk5VYUZWVWJ5WHR4UDdCbFNVRjhFNmVSQ0N3)
+ - 2019: [Markus](https://www.flickr.com/photos/tacker/albums/72157675567232707), [Esko](https://photos.google.com/share/AF1QipP3pUnV_56LLrB2HTUb9SK5PoLACixJANaNwiXybiG6pPQYfEpjtQXcENJjqftlUA?key=R0hieG92Y1hHbmNBWVEydWhUNUp1UnZLWlRWTlVR)
  
 ### Blog Posts
 
@@ -82,7 +91,7 @@ We organize the conference using Trello:
 
 Have you ever been coding under the northern lights? Or in a Lapp daylight? Early-mid February is one of the best times to see northern lights in action. And it also happens, that there's a full moon during the stay. We've done what we can - provide best possible time for some extraordinary experiences.
 
-We know it might be rather cold. Temperatures down to -25 ºC are normal at the time of the year. For some clothing tips, visit [here](faq).
+We know it might be rather cold. Temperatures down to -25°C are normal at the time of the year. For some clothing tips, see the [FAQ](#faq).
 
 ### Smoke sauna?
 
@@ -91,6 +100,12 @@ Being in Lapland in the winter, and one of the most important things is to have 
 ### Want to relax a bit while coding?
 
 Luckily, nature is at the core of Kiilopää. And not only that, Kiilopää provides daily trips to nearby fells guided by experienced nature guides. For example, there's a snow shoe trip on Wednesday morning.
+
+## Accommodation
+
+### How to make the reservation?
+
+Book your stay in Kiilopää yourself by email to [kiilopaa@suomenlatu.fi](mailto:kiilopaa@suomenlatu.fi) and mention “Codefreeze” for the discount and to get a room/cabin from the reserved slots.
 
 ### And what does it cost?
 
@@ -119,6 +134,8 @@ The log cabins are a bit bigger than the wilderness cabins (44 square meters eac
    * book full board that includes breakfast, lunch and dinner, or 
    * prepare own meals at the cottages. Aki will be at the venue by car, so he can bring some food on the way, and folks can get to local supermarket daily.
 
+Normally lunch and dinner is not vegetarian. If you prefer vegetarian food, or have food allergies, please contact the hotel and tell your preferences.
+
 ## What to bring with you:
 
  * swimming suit / trunk (for the smoke sauna). And if you prefer the german/swiss way to be in Sauna, own towel might be handy 
@@ -128,51 +145,30 @@ The log cabins are a bit bigger than the wilderness cabins (44 square meters eac
  * a camera might be good, if we have a chance to see the auroras (Tripod, extra batteries, etc.)
  * cash: not so much - you can use credit card basically for everything in Finland.
  
-For more detailed information on clothes see the FAQ below.
+For more detailed information on clothes see the [FAQ](#faq).
 
-<section id="sponsors">
 
-    <header>
+## <a name="kiilopaa"></a>Kiilopää: a magical place in Lapland
 
-        CodeFreeze is proudly supported by these fantastic sponsors:
-
-    </header>
-
-    <div>
-
-        <a href="https://www.nitor.com/" rel="friend met" target="_blank" rel="noopener noreferrer">
-            <img src="{{ site.baseurl }}/images/sponsors/nitor.png" alt="Nitor">
-        </a>
-
-        <a href="https://www.tespack.com/" rel="friend met" target="_blank" rel="noopener noreferrer">
-            <img src="{{ site.baseurl }}/images/sponsors/tespack/Tespack_TOP_transparent_White.png" alt="Tespack">
-        </a>
-
-    </div>
-
-</section>
-
-## Kiilopää: a magical place in Lapland
-
-Kiilopää Fell Center in Lapland is an ideal place to get in touch with the Nordic wilderness. At Kiilopää you can conquer a fell, dip into an ice-cold lake, and ski under the Northern Lights. Or you can just sick back and enjoy the surrounding natural beauty, sense the arctic peace and quiet, and listen to exotic Lapland stories by the fireplace.
+[Kiilopää Fell Center](https://www.kiilopaa.fi/en) in Lapland is an ideal place to get in touch with the Nordic wilderness. At Kiilopää you can conquer a fell, dip into an ice-cold lake, and ski under the Northern Lights. Or you can just sit back and enjoy the surrounding natural beauty, sense the arctic peace and quiet, and listen to exotic Lapland stories by the fireplace.
 
 Kiilopää is owned by Suomen Latu, the Outdoor Association of Finland. Suomen Latu is a promoter of outdoor activities, an expert in hiking and an organisation which is open to all. The main objective of Suomen Latu has always been to increase Finnish people’s interest in exercise as well as developing possibilities for outdoor, conditioning and recreational exercise. Nowadays guarding everyman’s right has become more and more important.
 
-*For more information about Kiilopää [please visit here](https://www.kiilopaa.fi/en).*
+*For more information see the [official Kiilopää web site](https://www.kiilopaa.fi/en).*
 
 <div id="map"></div>
 
-### Directions: How to get there
+## <a name="directions"></a>Directions: How to get there
 
-#### By plane
+### By plane
 
 The nearest airport is in Ivalo (IVL). Both Finnair and Norwegian flies from Helsinki to Ivalo, if not daily, then almost. There are also some direct flights to Frankfurt, London and other places. Find out about the flight schedule.
 
-From every single flight arriving at Ivalo, there is a bus connection from the airport to Kiilopää.
+For every single flight arriving at Ivalo, there is a [bus connection from the Ivalo airport to Kiilopää](https://saariselka.com/en/travelling/by-car/airport-bus/).
 
-#### By train
+### By train
 
-Take the earlier night train from south Finland to Rovaniemi. From Rovaniemi, there is a bus connection, leaving from the railway station.
+Take the earlier night train from southern Finland to Rovaniemi. From Rovaniemi there is a [bus connection from the Rovaniemi railway station to Kiilopää](https://www.matkahuolto.fi/).
 
 <section class="infoBox">
     <div class="photo">
@@ -187,6 +183,8 @@ Take the earlier night train from south Finland to Rovaniemi. From Rovaniemi, th
     </div>
 </section>
 
+## Activities
+
 ### Have you done *The Dip*?
 
 The Sauna World of Kiilopää is called Kuurakaltio. There are two electric saunas with dressing rooms and showers, as well as a traditional Finnish smoke sauna. There are separate sauna facilities for men and women.
@@ -199,7 +197,7 @@ During Codefreeze, the smoke sauna is heated on Tuesday on Wednesday, and on Tue
 
 ### Spending some time at Kiilopää?
 
-As folks found out on codefreeze 2015, the scenery is beautiful and there would be tons of interesting things to do, outside the realms of talking software. Suomen Latu Kiilopää organizes quite interesting set of safaris for all people. The possible safaris include, for example
+As folks found out on Codefreeze 2015, the scenery is beautiful and there are a lot of interesting things to do, outside the realms of talking software. Suomen Latu Kiilopää organizes amazing safaris for all guests, for example
 
 #### Searching for Northern Lights
 
