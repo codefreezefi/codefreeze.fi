@@ -7,7 +7,6 @@ $bold-weight: 800;
 $thin-weight: 300;
 $blue: #1d5791;
 $dark-blue: #092F5F;
-$aurora-green: #7EED68;
 $aurora-purple: #591c6c;
 // Sticker colors
 $night-green: #2b404d;
@@ -59,8 +58,9 @@ body > header {
   font-family: 'Supermercado One', cursive;
   p {
     font-weight: $bold-weight;
-    color: $fireplace-yellow;
+    color: $aurora-green;
     margin: 0;
+    text-shadow: 2px 2px 3px #2b404d66, -2px 2px 3px #2b404d66, -2px -2px 3px #2b404d66, 2px -2px 3px #2b404d66;
     > * {
       &:after {
         content: "·";
