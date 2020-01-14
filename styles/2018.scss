@@ -37,6 +37,9 @@ h1, h2, strong {
 
 h2 {
     margin-top: 2em;
+    @media (min-width: $desktop-width) {
+      padding-top: 70px;
+    }
 }
 
 body > header {
