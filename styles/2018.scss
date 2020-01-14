@@ -9,6 +9,13 @@ $blue: #1d5791;
 $dark-blue: #092F5F;
 $aurora-green: #7EED68;
 $aurora-purple: #591c6c;
+// Sticker colors
+$night-green: #2b404d;
+$aurora-green:  #6accad;
+$moonlit-snow: #d4f1fc;
+$headlamp-white: #effafe;
+$fireplace-yellow: #f3f7b8;
+
 
 a {
   color: $aurora-purple;
@@ -338,5 +345,54 @@ body > footer {
 
   h1 {
     font-weight: $thin-weight;
+  }
+}
+
+// Main navigation
+
+nav#main-nav {
+  background-color: $night-green;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  a {
+    color: $fireplace-yellow;
+    opacity: 0.8;
+    text-decoration: none;
+    display: block;
+    margin: 1rem;
+  }
+  display: none;
+  &.visible {
+    display: block;
+  }
+  font-size: 150%;
+  z-index: 900;
+  @media (min-width: $desktop-width) {
+    position: relative;
+    font-size: 120%;
+    display: flex !important;
+    justify-content: space-between;
+    width: auto;
+    a {
+      display: inline-block;
+    }
+    &.scrolling {
+      position: fixed;
+      top: 0;
+      width: 100%;
+    }
+  }
+}
+#toggle-nav {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  font-size: 200%;
+  width: 50px;
+  height: 50px;
+  z-index: 901;
+  @media (min-width: $desktop-width) {
+    display: none;
   }
 }

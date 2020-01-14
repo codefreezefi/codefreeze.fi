@@ -4,7 +4,7 @@ sass:
     sass_dir: styles/_snippets
 sections:
 - about
-- how-to-get-there
+- how-to-get-here
 collections:
 - headings
 - pages

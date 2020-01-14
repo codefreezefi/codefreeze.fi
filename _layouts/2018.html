@@ -1,64 +1,78 @@
 <!doctype html>
 <html lang="en">
+
 <head>
     <title>{{page.title}} &mdash; {{page.tagline}} ({{page.when}})</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="{{page.description}}"/>
+    <meta name="description" content="{{page.description}}" />
     <link href="https://fonts.googleapis.com/css?family=Assistant:300,800" rel="stylesheet">
     <link rel="stylesheet" href="{{ site.baseurl }}/styles/2018.css">
     <script defer src="https://use.fontawesome.com/releases/v5.0.4/js/brands.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.4/js/solid.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.4/js/fontawesome.js"></script>
 </head>
+
 <body>
-<header>
-    <section>
-        <span class="snowflake"></span>
-        <h1>
-            {{page.title}}<br>
-        </h1>
-        <p>
-            <time>{{page.when}}</time>
-            <span class="location">{{page.where}}</span>
-        </p>
-    </section>
-</header>
-<main>
-    {{content}}
-</main>
-<footer>
-    <section>
-        <h1>About this page</h1>
+    <header id=main-header>
+        <section>
+            <span class="snowflake"></span>
+            <h1>
+                {{page.title}}<br>
+            </h1>
+            <p>
+                <time>{{page.when}}</time>
+                <span class="location">{{page.where}}</span>
+            </p>
+        </section>
+    </header>
+    <nav id=main-nav>
+        <a href="#registration" onclick="toggleMenu()">Registration</a>
+        <a href="#participants" onclick="toggleMenu()">Participants</a>
+        <a href="#how-to-get-here" onclick="toggleMenu()">How to get here</a>
+        <a href="#what-to-bring-with-you" onclick="toggleMenu()">What to bring</a>
+        <a href="#attending-codefreeze-with-children" onclick="toggleMenu()">Children</a>
+        <a href="#code-of-conduct" onclick="toggleMenu()">Code of Conduct</a>
+    </nav>
+    <button id=toggle-nav onclick="toggleMenu()">≡</button>
+    <main>
+        {{content}}
+    </main>
+    <footer>
+        <section>
+            <h1>About this page</h1>
 
-        <p>
-            Images courtesy of <a href="https://twitter.com/EvAltenberga/" target="_blank" rel="noopener noreferrer">Andi Bräu</a> and <a href="http://www.kiilopaa.fi/en" target="_blank" rel="noopener noreferrer">Suomen Latu</a>.
-        </p>
+            <p>
+                Images courtesy of <a href="https://twitter.com/EvAltenberga/" target="_blank"
+                    rel="noopener noreferrer">Andi Bräu</a> and <a href="http://www.kiilopaa.fi/en" target="_blank"
+                    rel="noopener noreferrer">Suomen Latu</a>.
+            </p>
 
-        <p>
-            If you have any questions regarding to this event don't hesitate to drop a line for Mr. Aki Salmi <a href="mailto:aki.salmi@iki.fi">aki.salmi@iki.fi</a>.
-        </p>
-    </section>
-</footer>
+            <p>
+                If you have any questions regarding to this event don't hesitate to drop a line for Mr. Aki Salmi <a
+                    href="mailto:aki.salmi@iki.fi">aki.salmi@iki.fi</a>.
+            </p>
+        </section>
+    </footer>
 
 
-<script>window.twttr = (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0],
-        t = window.twttr || {};
-    if (d.getElementById(id)) return t;
-    js = d.createElement(s);
-    js.id = id;
-    js.src = "https://platform.twitter.com/widgets.js";
-    fjs.parentNode.insertBefore(js, fjs);
+    <script>window.twttr = (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0],
+                t = window.twttr || {};
+            if (d.getElementById(id)) return t;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "https://platform.twitter.com/widgets.js";
+            fjs.parentNode.insertBefore(js, fjs);
 
-    t._e = [];
-    t.ready = function(f) {
-        t._e.push(f);
-    };
+            t._e = [];
+            t.ready = function (f) {
+                t._e.push(f);
+            };
 
-    return t;
-}(document, "script", "twitter-wjs"));</script>
-<script type="text/javascript" src="{{ site.baseurl }}/scripts/2018.js" defer></script>
-
+            return t;
+        }(document, "script", "twitter-wjs"));</script>
+    <script type="text/javascript" src="{{ site.baseurl }}/scripts/2018.js" defer></script>
 </body>
+
 </html>

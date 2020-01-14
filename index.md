@@ -158,7 +158,7 @@ Kiilopää is owned by Suomen Latu, the Outdoor Association of Finland. Suomen L
 
 <div id="map"></div>
 
-## <a name="directions"></a>Directions: How to get there
+## <a name="directions"></a>How to get there
 
 ### By plane
 
