@@ -130,9 +130,10 @@ The log cabins are a bit bigger than the wilderness cabins (44 square meters eac
 
 ### About Food
 
- * folks have 2 good options: either 
-   * book full board that includes breakfast, lunch and dinner, or 
-   * prepare own meals at the cottages. Aki will be at the venue by car, so he can bring some food on the way, and folks can get to local supermarket daily.
+Folks have 2 good options: either 
+  
+ * book full board that includes breakfast, lunch and dinner, or 
+ * prepare own meals at the cottages. Aki will be at the venue by car, so he can bring some food on the way, and folks can get to local supermarket daily.
 
 Normally lunch and dinner is not vegetarian. If you prefer vegetarian food, or have food allergies, please contact the hotel and tell your preferences.
 
