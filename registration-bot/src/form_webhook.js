@@ -12,17 +12,18 @@ function onSubmit(e) {
     for (var i = 0; i < response.length; i++) {
         var question = response[i].getItem().getTitle();
         var answer = response[i].getResponse();
+        var parts;
         try {
-            var parts = answer.match(/[\s\S]{1,1024}/g) || [];
+            parts = answer.match(/[\s\S]{1,1024}/g) || [];
         } catch (e) {
-            var parts = answer;
+            parts = answer;
         }
 
-        if (answer == "") {
+        if (answer === "") {
             continue;
         }
         for (var j = 0; j < parts.length; j++) {
-            if (j == 0) {
+            if (j === 0) {
                 items.push({
                     "name": question,
                     "value": parts[j]
@@ -42,9 +43,9 @@ function onSubmit(e) {
             "Content-Type": "application/json",
         },
         "payload": JSON.stringify({
-                "registrations": items
+            "registrations": items
         })
     };
 
     UrlFetchApp.fetch(POST_URL, options);
-};
+}
