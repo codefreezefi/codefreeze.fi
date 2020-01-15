@@ -12,4 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
+    - name: Authenticate Git
+      run: |
+        echo "machine github.com login codefreeze-registrations password ${GITHUB_TOKEN}" > ~/.netrc
+        git status
+        git config user.email "actions@example.com"
+        git config user.name "GitHub Actions"
     - uses: codefreezefi/registration-action@saga
