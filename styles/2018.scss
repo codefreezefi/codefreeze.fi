@@ -14,6 +14,7 @@ $aurora-green:  #6accad;
 $moonlit-snow: #d4f1fc;
 $headlamp-white: #effafe;
 $fireplace-yellow: #f3f7b8;
+$nav-height: 70px;
 
 
 a {
@@ -35,10 +36,17 @@ h1, h2, strong {
 }
 
 h2 {
-    margin-top: 2em;
-    @media (min-width: $desktop-width) {
-      padding-top: 70px;
-    }
+  margin-top: 1.25em;
+  @media (min-width: $desktop-width) {
+    padding-top: $nav-height;
+    margin-top: calc(1.25em - #{$nav-height});
+  }
+}
+h1, h3, h4, h5, h6 {
+  @media (min-width: $desktop-width) {
+    padding-top: $nav-height;
+    margin-top: -$nav-height;
+  }
 }
 
 body > header {
@@ -76,12 +84,16 @@ body > header {
   }
 }
 
-body > main {
+#main-header {
+  h1 {
+    padding: 0;
+    margin: 0;
+  }
+}
+
+main {
   padding: 0;
   margin: 0;
-  > h1 {
-    display: none;
-  }
   hr {
     border: 0;
     border-bottom: 5px solid $blue;
@@ -183,7 +195,8 @@ section.tweets {
   margin: 2rem 0;
   padding: 2rem;
   @media (min-width: $desktop-width) {
-    padding: 4rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
   }
 
   a {
@@ -240,7 +253,7 @@ section.tweets {
         }
       }
 
-      h3 {
+      .participant-name {
         font-size: 18px;
         font-weight: $thin-weight;
         margin: 0 0 0 0.5rem;
@@ -253,7 +266,7 @@ section.tweets {
         display: none;
       }
 
-      nav a {
+      .participant-links a {
         text-decoration: none;
         font-size: 150%;
         &+a {
