@@ -253,7 +253,12 @@ For more information about the safaris, including prices, see the brochure here 
         <img src="{{ image_url }}" alt="{{ participant.name }}" />
     </div>
     {% if participant.link != null %}</a>{% endif %}
-    <h3>{{ participant.name }}</h3>
+    <h3>
+        {{ participant.name }}
+        {% if participant.pronouns != null %}
+        <small class="pronouns">({{ participant.pronouns }})</small>
+        {% endif %}
+    </h3>
     <nav>
     {% if participant.link != null %}<a href="{{ participant.link }}" rel="noopener noreferrer">
         <i class="fas fa-home"></i>

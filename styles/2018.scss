@@ -247,6 +247,9 @@ section.tweets {
         @media (min-width: $desktop-width) {
           margin: 0;
         }
+        .pronouns {
+          opacity: 0.8;
+        }
       }
 
       .description {
