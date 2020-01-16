@@ -8,8 +8,6 @@ where_link: https://www.kiilopaa.fi/en/
 description: Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a time and place for software craftspeople to meet.
 ---
 
-# {{page.title}}
-
 ## {{page.tagline}}
 
 Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a *time* and *place* for software craftspeople to meet. We would like to have likeminded people to gather in one place and have long conversations about our craft over a drink. And to practice our coding skills.
@@ -237,7 +235,7 @@ For more information about the safaris, including prices, see the brochure here 
             <img src="{{ site.baseurl }}/images/user-add.jpg" alt="{{ participant.name }}" />
         </div>
     </a>
-    <h3>You?</h3>
+    <div class="participant-name">You?</div>
   </li>
 
 <!-- {% assign image_host = site.url | append:site.baseurl %} -->
@@ -250,23 +248,23 @@ For more information about the safaris, including prices, see the brochure here 
   <li>
     {% if participant.link != null %}<a href="{{ participant.link }}" rel="noopener noreferrer">{% endif %}
     <div class="photo">
-        <img src="{{ image_url }}" alt="{{ participant.name }}" />
+        <img src="{{ image_url }}" alt="Picture of {{ participant.name }}" />
     </div>
     {% if participant.link != null %}</a>{% endif %}
-    <h3>{{ participant.name }}</h3>
-    <nav>
-    {% if participant.link != null %}<a href="{{ participant.link }}" rel="noopener noreferrer">
+    <div class="participant-name">{{ participant.name }}</div>
+    <div class="participant-links">
+    {% if participant.link != null %}<a href="{{ participant.link }}" rel="noopener noreferrer" aria-label="Homepage of {{ participant.name }}">
         <i class="fas fa-home"></i>
     </a>{% endif %}
     {% if participant.twitter != null %}
-      <a href="https://twitter.com/{{ participant.twitter }}" rel="noopener noreferrer">
+      <a href="https://twitter.com/{{ participant.twitter }}" rel="noopener noreferrer" aria-label="Twitter profile of {{ participant.name }}">
         <i class="fab fa-twitter"></i></a>
     {% endif %}
     {% if participant.linkedin != null %}
-      <a href="{{ participant.linkedin }}" rel="noopener noreferrer">
+      <a href="{{ participant.linkedin }}" rel="noopener noreferrer" aria-label="LinkedIn profile of {{ participant.name }}">
         <i class="fab fa-linkedin"></i></a>
     {% endif %}
-    </nav>
+    </div>
     {% if participant.content != null %}<div class="description">{{ participant.content }}</div>{% endif %}
   </li>
 {% endfor %}
