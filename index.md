@@ -259,7 +259,7 @@ For more information about the safaris, including prices, see the brochure here 
         <i class="fas fa-home"></i>
     </a>{% endif %}
     {% if participant.twitter != null %}
-      <a href="https://twitter.com/{{ participant.twitter }}" rel="noopener noreferrer">
+      <a href="https://twitter.com/{{ participant.twitter | replace: "https://twitter.com/", "" }}" rel="noopener noreferrer">
         <i class="fab fa-twitter"></i></a>
     {% endif %}
     {% if participant.linkedin != null %}
