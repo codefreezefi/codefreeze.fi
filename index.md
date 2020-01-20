@@ -65,12 +65,12 @@ The Trello board is also used for coordinating travel arrangements and planning 
  - 2017: [Markus](https://www.flickr.com/photos/tacker/albums/72157677944796900), [Andreas](https://www.dropbox.com/sh/bkxdfumi56fvy92/AAAUjLSXvlUkS-t-FuFK1kUSa?dl=0) *with Aurora!*
  - 2018: [Markus](https://www.flickr.com/photos/tacker/sets/72157662836528657), [Steffie](https://photos.google.com/share/AF1QipN6I2ZjNFiVjzyVggQV8lgdU_u7__pDq2RQ0DhWAaYqRI1iD_P6SnxRLAFBpyyHbg?key=MTNnd3gxZkNNOVphb2ZyS0luN3RJd3B3aUYzTEhn), [Franzi](https://photos.google.com/share/AF1QipMg-kfDKMsVwdrPbPsKj-lOMLnQEB42lqIArQv6LbDeY307Mv7iN2uyh0QD0jIp-w?key=M2V4Mk5VYUZWVWJ5WHR4UDdCbFNVRjhFNmVSQ0N3)
  - 2019: [Markus](https://www.flickr.com/photos/tacker/albums/72157675567232707), [Esko](https://photos.google.com/share/AF1QipP3pUnV_56LLrB2HTUb9SK5PoLACixJANaNwiXybiG6pPQYfEpjtQXcENJjqftlUA?key=R0hieG92Y1hHbmNBWVEydWhUNUp1UnZLWlRWTlVR)
+ - 2020: [Markus](https://www.flickr.com/photos/tacker/albums/72157712748638692)
  
 ### Blog Posts
 
  - 2016: [Lessons from Codefreeze 2016](http://slides.com/deniseyu/lessons-from-codefreeze-2016) by [Denise Yu](https://twitter.com/deniseyu21)
  - 2017: [codefreeze brings the magic of SoCraTes to Lapland](https://coderbyheart.com/codefreeze-brings-the-magic-of-socrates-to-lapland/) by [Markus Tacker](https://twitter.com/coderbyheart)
-
 
 <section class="tweets" id="tweets">
     <a href="https://twitter.com/EvAltenberga/status/953578300307312641"></a>
@@ -83,6 +83,27 @@ The Trello board is also used for coordinating travel arrangements and planning 
     <a href="https://twitter.com/coderbyheart/status/1082264438823157760"></a>
     <a href="https://twitter.com/Singsalad/status/1083797504678858757"></a>
     <a href="https://twitter.com/coderbyheart/status/1154522616620695552"></a>
+    <a href="https://twitter.com/coderbyheart/status/1218513148237570058"></a>
+    <a href="https://twitter.com/coderbyheart/status/1218248110784307201"></a>
+    <a href="https://twitter.com/coderbyheart/status/1218189869593264128"></a>
+    <a href="https://twitter.com/coderbyheart/status/1218149452281712640"></a>
+    <a href="https://twitter.com/coderbyheart/status/1218091368851165185"></a>
+    <a href="https://twitter.com/coderbyheart/status/1217821926002917376"></a>
+    <a href="https://twitter.com/Wolfcraft_IO/status/1217522078393434113"></a>
+    <a href="https://twitter.com/EvAltenberga/status/1217412137032863744"></a>
+    <a href="https://twitter.com/AnnNat/status/1217125726903771137"></a>
+    <a href="https://twitter.com/coderbyheart/status/1217111728896577536"></a>
+    <a href="https://twitter.com/coderbyheart/status/1217103371603267584"></a>
+    <a href="https://twitter.com/RidingWolf/status/1217093654185238533"></a>
+    <a href="https://twitter.com/coderbyheart/status/1217090846027370498"></a>
+    <a href="https://twitter.com/Wolfcraft_IO/status/1217067697315422209"></a>
+    <a href="https://twitter.com/AmelieCornelis/status/1216785218146918400"></a>
+    <a href="https://twitter.com/kunstp1xel/status/1216688467293409280"></a>
+    <a href="https://twitter.com/coderbyheart/status/1216674626014760960"></a>
+    <a href="https://twitter.com/coderbyheart/status/1216641312314855424"></a>
+    <a href="https://twitter.com/coderbyheart/status/1216629171071410176"></a>
+    <a href="https://twitter.com/coderbyheart/status/1216441553465507841"></a>
+    <a href="https://twitter.com/EvAltenberga/status/1216326480092958720"></a>
 </section>
 
 ## Why?
