@@ -104,6 +104,7 @@ The Trello board is also used for coordinating travel arrangements and planning 
     <a href="https://twitter.com/coderbyheart/status/1216629171071410176"></a>
     <a href="https://twitter.com/coderbyheart/status/1216441553465507841"></a>
     <a href="https://twitter.com/EvAltenberga/status/1216326480092958720"></a>
+    <a href="https://twitter.com/coderbyheart/status/1220630822316888066"></a>
 </section>
 
 ## Why?
