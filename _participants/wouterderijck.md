@@ -1,7 +1,10 @@
 ---
 name: Wouter De Rijck
-image: https://wolfcraft.io/avatars/codefreeze.jpg
-contact-via: codefreeze@wolfcraft.io
-room-type: cabin with Koen
+pronouns: he/him, they/them
+link: https://wolfcraft.io
+linkedin: https://www.linkedin.com/in/professional-idiot
 twitter: ridingwolf
+image: https://cv.wolfcraft.io/avatars/codefreeze.jpg
+contact-via: codefreeze@wolfcraft.io
+room-type: TBD
 ---
