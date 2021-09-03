@@ -41,7 +41,7 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
 - Read and accept the [Code of Conduct](#code-of-conduct).
 - Book a room or cabin by email (remember to mention *Codefreeze*; see [Accommodation](#accommodation)), or ask for a roommate from our [Slack channel](#slack).
 - Make travel arrangements to Kiilopää (see [Directions](#directions)).
-- You may add yourself as a [participant](#participants) to the Codefreeze website by creating a [pull request](https://github.com/rinkkasatiainen/codefreeze.fi#readme).
+- You may add yourself as a [participant](#participants) to the Codefreeze website by creating a [pull request](https://github.com/codefreezefi/codefreeze.fi#readme).
 - You may also add your arrival and reparture times to [Trello](#trello).
 
 
@@ -249,12 +249,12 @@ For more information about the safaris, including prices, see the brochure here 
 <h2><del>Speakers</del> Participants</h2>
 
 <p>
-    <a href="https://github.com/rinkkasatiainen/codefreeze.fi#readme" target="_blank" rel="noopener noreferrer"> Register yourself</a> with a pull request to be among the first people to receive details about this unique conference!
+    <a href="https://github.com/codefreezefi/codefreeze.fi#readme" target="_blank" rel="noopener noreferrer"> Register yourself</a> with a pull request to be among the first people to receive details about this unique conference!
 </p>
 
 <ul class="participants">
   <li>
-    <a href="https://github.com/rinkkasatiainen/codefreeze.fi#readme" target="_blank" rel="noopener noreferrer" class="add">
+    <a href="https://github.com/codefreezefi/codefreeze.fi#readme" target="_blank" rel="noopener noreferrer" class="add">
         <div class="photo">
             <img src="{{ site.baseurl }}/images/user-add.jpg" alt="{{ participant.name }}" />
         </div>
