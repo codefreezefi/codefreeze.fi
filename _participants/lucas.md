@@ -1,7 +1,7 @@
 ---
 name: Lucas Alves
 pronouns: he / him
-image: https://media-exp1.licdn.com/dms/image/C5603AQHCnvOMQi5jpQ/profile-displayphoto-shrink_200_200/0/1626467755550?e=1636588800&v=beta&t=KHGoXQf8ExjjBYqKyflB22_tZA2BOr_F2Y5jc1OsweE
+image: https://user-images.githubusercontent.com/188915/132251978-2fa9b10f-d69b-47db-9d60-fbc2a949c22a.jpeg
 contact-via: lucassalves65@gmail.com
 room-type: [log cabin (with Waldemar and Daniela)]
 twitter: Canelasevero
