@@ -246,7 +246,7 @@ For more information about the safaris, including prices, see the brochure here 
 
 <section id="participants">
 
-<h2><del>Speakers</del> Participants</h2>
+<h2>{{site.participants|size}} <del>Speakers</del> Participants</h2>
 
 <p>
     <a href="https://github.com/codefreezefi/codefreeze.fi#readme" target="_blank" rel="noopener noreferrer"> Register yourself</a> with a pull request to be among the first people to receive details about this unique conference!
