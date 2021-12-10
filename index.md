@@ -59,6 +59,7 @@ The Trello board is also used for coordinating travel arrangements and planning 
 - [2018](https://trello.com/b/WtOxnkMU/codefreeze-2018)
 - [2019](https://trello.com/b/RO5wOXI0/codefreeze-2019)
 - [2020](https://trello.com/b/SsjzVKGZ/codefreeze-2020)
+- [2022](https://trello.com/b/gIa0sgnT/codefreeze-2022)
 
 ### Photos
 
@@ -131,12 +132,12 @@ Book your stay in Kiilopää yourself by email to [kiilopaa@suomenlatu.fi](mailt
 
 ### And what does it cost?
 
-The prices include *stay*, *breakfast*, *lunch*, *dinner* and (most probably) *smoke sauna* on Monday or Tuesday:
+The prices include _stay_, _breakfast_, _lunch_, _dinner_ and (most probably) _smoke sauna_ on Monday or Tuesday:
 
-* For [single bed room](https://www.kiilopaa.fi/en/accommodation/hotel-niilanpaa.html): 92 € / person / night
-* For [double](https://www.kiilopaa.fi/en/accommodation/hotel-niilanpaa.html) 70 € / person / night
-* For a [wilderness cabin](https://www.kiilopaa.fi/en/accommodation/cabins.html) 105 € / cabin / night + 39€ / person / day for the meals
-* For a [log cabin](https://www.kiilopaa.fi/en/accommodation/cabins.html) (very suitable for families): 120 € / cabin / night + 39€ / person / day
+- For [single bed room](https://www.kiilopaa.fi/en/accomodation/hotel-niilanpaa/): 92 € / person / night
+- For [double](https://www.kiilopaa.fi/en/accomodation/hotel-niilanpaa/) 70 € / person / night
+- For a [wilderness cabin](https://www.kiilopaa.fi/en/accomodation/cabins/) 105 € / cabin / night + 39€ / person / day for the meals
+- For a [log cabin](https://www.kiilopaa.fi/en/accomodation/cabins/) (very suitable for families): 120 € / cabin / night + 39€ / person / day
 
 ### About the cabins
 
