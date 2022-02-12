@@ -252,7 +252,7 @@ For more information about the safaris, including prices, see the brochure here 
 <h2>{{site.participants|size}} <del>Speakers</del> Participants</h2>
 
 <p>
-    <a href="https://github.com/codefreezefi/codefreeze.fi#readme" target="_blank" rel="noopener noreferrer"> Register yourself</a> with a pull request to be among the first people to receive details about this unique conference! As an alternative use our [registration form](https://forms.gle/cT6CfzgWNMNrH5nm8) (be aware, your personal data will be sent to Google). 
+    <a href="https://github.com/codefreezefi/codefreeze.fi#readme" target="_blank" rel="noopener noreferrer"> Register yourself</a> with a pull request to be among the first people to receive details about this unique conference! As an alternative use our <a href="https://forms.gle/cT6CfzgWNMNrH5nm8" target="_blank" rel="noopener noreferrer">registration form</a> (be aware, your personal data will be sent to Google). 
 </p>
 
 <ul class="participants">
