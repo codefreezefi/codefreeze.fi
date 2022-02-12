@@ -247,8 +247,10 @@ section.tweets {
         @media (min-width: $desktop-width) {
           margin: 0;
         }
+        text-align: center;
         .pronouns {
           opacity: 0.8;
+          white-space: nowrap;
         }
       }
 
