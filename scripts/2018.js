@@ -51,7 +51,6 @@ window.onload = () => {
     const scrollHeight = document.getElementById('main-header').offsetHeight
     const mainNav = document.getElementById('main-nav')
     window.onscroll = () => {
-        console.log('scrolled', document.documentElement.scrollTop)
         if (document.documentElement.scrollTop > scrollHeight && !scrolling) {
             scrolling = true
             mainNav.className = mainNav.className + ' scrolling'
