@@ -41,7 +41,7 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
 - Read and accept the [Code of Conduct](#code-of-conduct).
 - Book a room or cabin by email (remember to mention _Codefreeze_; see [Accommodation](#accommodation)), or ask for a roommate from our [Slack channel](#slack).
 - Make travel arrangements to Kiilopää (see [Directions](#directions)).
-- You may add yourself as a [participant](#participants) to the Codefreeze website by creating a [pull request](https://github.com/codefreezefi/codefreeze.fi#readme).
+- You may add yourself as a [participant](#participants) to the Codefreeze website by creating a [pull request](https://github.com/codefreezefi/codefreeze.fi#readme) or using the [registration form](https://forms.gle/cT6CfzgWNMNrH5nm8). Be aware, the form sends your data to Google!
 - You may also add your arrival and reparture times to [Trello](#trello).
 
 ## Past Events
@@ -252,7 +252,7 @@ For more information about the safaris, including prices, see the brochure here 
 <h2>{{site.participants|size}} <del>Speakers</del> Participants</h2>
 
 <p>
-    <a href="https://github.com/codefreezefi/codefreeze.fi#readme" target="_blank" rel="noopener noreferrer"> Register yourself</a> with a pull request to be among the first people to receive details about this unique conference!
+    <a href="https://github.com/codefreezefi/codefreeze.fi#readme" target="_blank" rel="noopener noreferrer"> Register yourself</a> with a pull request to be among the first people to receive details about this unique conference! As an alternative use our [registration form](https://forms.gle/cT6CfzgWNMNrH5nm8) (be aware, your personal data will be sent to Google). 
 </p>
 
 <ul class="participants">
