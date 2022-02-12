@@ -40,3 +40,9 @@ Run the site locally using Jekyll:
 Occasionally it may be necessary to update the dependencies to match latest version of GitHub Pages. This command will update the `Gemfile.lock` file which should be committed to version control:
 
     bundle update
+
+### Using the DevContainer
+
+You can launch a DevContainer for example in VSCode. After launch, you can start the server using
+
+    bundle exec jekyll serve
