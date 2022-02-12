@@ -2,25 +2,13 @@
 layout: 2018
 title: Codefreeze
 tagline: Prepare for your last commit
-when: Codefreeze 2022 is CANCELLED
+when: Sat Jan 7th - Sat 14th 2023
 where: Kiilopää, Finland
 where_link: https://www.kiilopaa.fi/en/
 description: Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a time and place for software craftspeople to meet.
 ---
 
 # {{page.title}}
-
-## Codefreeze 2022 is CANCELLED
-
-We are deeply disappointed and sad to have to cancel Codefreeze 2022. We ask everyone not to travel to Lapland given the unpredictable development of the infections and hospitalization in the ongoing pandemic. Lapland is a very sparsely populated area in Finland and medical facilities are limited, in case of an infection outbreak you might risk not receiving proper medical attention. You might also face being stranded in Finland, because you cannot board a plane while being infected and/or showing symptoms. It breaks our heart to have to make this call, looking at one of the biggest Codefreeze ever, with many first time attendees who we could have shared our love and passion for people in software, the magic of Lapland and the beauty of the Finnish nature with. Please stay safe and healthy. We hope to be back in 2023.
-
-If you have any further question, please use the [#codefreeze_fi channel](https://softwarecrafters.slack.com/archives/C0DGG6EBZ) on the Software Crafters Slack.
-
-<section class="tweets">
-
-    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Codefreeze 2022 cancelled!<br><br>We are deeply disappointed and sad to have to cancel <a href="https://twitter.com/hashtag/codefreeze?src=hash&amp;ref_src=twsrc%5Etfw">#codefreeze</a> 2022. We ask everyone not to travel to Lapland given the unpredictable development of the infections and hospitalization in the ongoing pandemic. <a href="https://t.co/WbXrsOpTaq">pic.twitter.com/WbXrsOpTaq</a></p>&mdash; Codefreeze 2022 is CANCELLED (@codefreeze_fi) <a href="https://twitter.com/codefreeze_fi/status/1472236736906510342?ref_src=twsrc%5Etfw">December 18, 2021</a></blockquote>
-
-</section>
 
 ## {{page.tagline}}
 
@@ -47,6 +35,14 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
         <small>Image credit: <a href="https://www.kiilopaa.fi/en/" target="_blank" rel="noopener noreferrer">Suomen Latu Kiiloää</a></small>
     </div>
 </section>
+
+## Registration
+
+- Read and accept the [Code of Conduct](#code-of-conduct).
+- Book a room or cabin by email (remember to mention _Codefreeze_; see [Accommodation](#accommodation)), or ask for a roommate from our [Slack channel](#slack).
+- Make travel arrangements to Kiilopää (see [Directions](#directions)).
+- You may add yourself as a [participant](#participants) to the Codefreeze website by creating a [pull request](https://github.com/codefreezefi/codefreeze.fi#readme).
+- You may also add your arrival and reparture times to [Trello](#trello).
 
 ## Past Events
 
@@ -250,6 +246,66 @@ Reindeer caravan will take you in to the woods. Moon and stars will guide your w
 - Snowmobile Safari to Reindeer Farm
 
 For more information about the safaris, including prices, see the brochure here or visit [the official website](https://www.kiilopaa.fi/en).
+
+<section id="participants">
+
+<h2>{{site.participants|size}} <del>Speakers</del> Participants</h2>
+
+<p>
+    <a href="https://github.com/codefreezefi/codefreeze.fi#readme" target="_blank" rel="noopener noreferrer"> Register yourself</a> with a pull request to be among the first people to receive details about this unique conference!
+</p>
+
+<ul class="participants">
+  <li>
+    <a href="https://github.com/codefreezefi/codefreeze.fi#readme" target="_blank" rel="noopener noreferrer" class="add">
+        <div class="photo">
+            <img src="{{ site.baseurl }}/images/user-add.jpg" alt="{{ participant.name }}" />
+        </div>
+    </a>
+    <h3>You?</h3>
+  </li>
+
+<!-- {% assign image_host = site.url | append:site.baseurl %} -->
+
+{% for participant in site.participants %}
+{% assign image_url = "/images/avatar.jpg" | prepend:site.baseurl  %}
+{% if participant.image != null %}
+{% assign escaped_image = participant.image | uri_escape %}
+{% assign image_url = "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;rewriteMime=image/*&amp;refresh=31536000&amp;resize_w=156&amp;url=" | append:escaped_image %}
+{% endif %}
+
+  <li>
+    {% if participant.link != null %}<a href="{{ participant.link }}" rel="noopener noreferrer">{% endif %}
+    <div class="photo">
+        <img src="{{ image_url }}" alt="{{ participant.name }}" />
+    </div>
+    {% if participant.link != null %}</a>{% endif %}
+    <h3>
+        {{ participant.name }}
+        {% if participant.pronouns != null %}
+        <small class="pronouns">({{ participant.pronouns }})</small>
+        {% endif %}
+    </h3>
+    <nav>
+    {% if participant.link != null %}<a href="{{ participant.link }}" rel="noopener noreferrer">
+        <i class="fas fa-home"></i>
+    </a>{% endif %}
+    {% if participant.twitter != null %}
+      <a href="https://twitter.com/{{ participant.twitter | replace: "https://twitter.com/", "" }}" rel="noopener noreferrer">
+        <i class="fab fa-twitter"></i></a>
+    {% endif %}
+    {% if participant.linkedin != null %}
+      <a href="{{ participant.linkedin }}" rel="noopener noreferrer">
+        <i class="fab fa-linkedin"></i></a>
+    {% endif %}
+    </nav>
+    {% if participant.content != null %}<div class="description">{{ participant.content }}</div>{% endif %}
+  </li>
+{% endfor %}
+
+</ul>
+
+</section>
 
 {% include faq.md %}
 
