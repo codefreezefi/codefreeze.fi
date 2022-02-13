@@ -52,9 +52,55 @@ body > header {
   section {
     padding: 2rem 0 5rem 0;
   }
-  img.snowflake {
-    width: 350px;
+  .logo {
+    width: 250px;
+    height: 250px;
+    @media (min-width: $desktop-width) {
+      width: 400px;
+      height: 400px;
+    }
+    position: relative;
+    margin: 0 auto;
+    svg.snowflake {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      left: 0;
+      top: 0;
+      -webkit-animation: spin 60s linear infinite;
+      -moz-animation: spin 60s linear infinite;
+      animation: spin 60s linear infinite;
+      color: #eefaff
+    }
+    img.logoText {
+      position: absolute;
+      width: 170px;
+      top: 62px;
+      left: calc((250px - 170px)/2);
+      @media (min-width: $desktop-width) {
+        width: 272px;
+        top:100px;
+        left: 64px;
+      }
+    }
   }
+  @-moz-keyframes spin {
+    100% {
+      -moz-transform: rotate(360deg);
+    }
+  }
+  @-webkit-keyframes spin {
+    100% {
+      -webkit-transform: rotate(360deg);
+    }
+  }
+  @keyframes spin {
+    100% {
+      -webkit-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+
   font-family: 'Supermercado One', cursive;
   p {
     font-weight: $bold-weight;
