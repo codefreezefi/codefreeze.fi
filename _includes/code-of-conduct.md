@@ -66,8 +66,8 @@ To clarify, although this doesn't take away from the other rules, it is ok to be
 ### Need Help?
 
 If you need help, have any further questions or have any other concerns, please contact a volunteer immediately.
+
 - Find and talk to the volunteers at the conference
-- Contact [info@codefreeze.fi](mailto:info@codefreeze.fi)
 - Ask in the `#codefreeze_fi` channel on the [Software Crafters Slack](http://slack.softwarecrafters.org/)
 - Contact a volunteer on Slack
 
@@ -76,6 +76,7 @@ If you need help, have any further questions or have any other concerns, please 
 These values are inspired by SoCraTes Germany <https://socrates-conference.de/values>.
 
 ### Further Questions?
+
 Feel invited to contact us via our details listed below
 
 Signed,
