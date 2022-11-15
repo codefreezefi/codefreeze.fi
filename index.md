@@ -315,3 +315,19 @@ For more information about the safaris, including prices, see the brochure here 
 {% include faq.md %}
 
 {% include code-of-conduct.md %}
+
+### Credits
+
+These values are inspired by SoCraTes Germany <https://socrates-conference.de/values>.
+
+### Further Questions?
+
+Feel invited to contact us via our details listed below
+
+Signed,
+The volunteers
+
+- Aki Salmi ([@rinkkasatiainen](https://twitter.com/rinkkasatiainen), [aki@rinkkasatiainen.fi](mailto:aki@rinkkasatiainen.fi))
+- Markus Tacker ([@coderbyheart@chaos.social](https://chaos.social/@coderbyheart), [m@coderbyheart.com](mailto:m@coderbyheart.com))
+
+Follow <a rel="me" href="https://discuss.systems/@codefreeze">@codefreeze@discuss.systems</a> on Mastodon.
