@@ -294,6 +294,11 @@ For more information about the safaris, including prices, see the brochure here 
       <a href="https://twitter.com/{{ participant.twitter | replace: "https://twitter.com/", "" }}" rel="noopener noreferrer">
         <i class="fab fa-twitter"></i></a>
     {% endif %}
+    {% if participant.activityPub != null %}
+      <a href="{{ participant.activityPub }}" rel="noopener noreferrer">
+        <img src="{{ site.baseurl }}/logos/mastodon.svg" alt="ActivityPub" class="icon" />
+      </a>
+    {% endif %}
     {% if participant.linkedin != null %}
       <a href="{{ participant.linkedin }}" rel="noopener noreferrer">
         <i class="fab fa-linkedin"></i></a>

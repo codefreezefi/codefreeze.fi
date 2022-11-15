@@ -289,9 +289,9 @@ section.tweets {
       h3 {
         font-size: 18px;
         font-weight: $thin-weight;
-        margin: 0 0 0 0.5rem;
+        margin: 0.25rem 0 0 0.5rem;
         @media (min-width: $desktop-width) {
-          margin: 0;
+          margin: 0.25rem 0 0 0;
         }
         text-align: center;
         .pronouns {
@@ -304,14 +304,23 @@ section.tweets {
         display: none;
       }
 
-      nav a {
-        text-decoration: none;
-        font-size: 150%;
-        &+a {
-          padding-left: 0.25rem;
-        }
-        @media (min-width: $desktop-width) {
-          padding: 0 0.5rem;
+      nav {
+        margin-top: 0.5rem;
+        display: flex;
+        a {
+          text-decoration: none;
+          font-size: 150%;
+          &+a {
+            padding-left: 0.25rem;
+          }
+          @media (min-width: $desktop-width) {
+            padding: 0 0.5rem;
+          }
+          display: flex;
+          align-items: flex-start;
+          img.icon {
+            width: 24px;
+          }
         }
       }
     }

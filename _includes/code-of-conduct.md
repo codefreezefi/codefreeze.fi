@@ -83,4 +83,4 @@ Signed,
 The volunteers
 
 - Aki Salmi ([@rinkkasatiainen](https://twitter.com/rinkkasatiainen), [aki@rinkkasatiainen.fi](mailto:aki@rinkkasatiainen.fi))
-- Markus Tacker ([@coderbyheart](https://twitter.com/coderbyheart), [m@coderbyheart.com](mailto:m@coderbyheart.com))
+- Markus Tacker ([@coderbyheart@chaos.social](https://chaos.social/@coderbyheart), [m@coderbyheart.com](mailto:m@coderbyheart.com))
