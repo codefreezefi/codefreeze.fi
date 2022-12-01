@@ -190,7 +190,7 @@ Kiilopää is owned by Suomen Latu, the Outdoor Association of Finland. Suomen L
 
 The nearest airport is in Ivalo (IVL). Both Finnair and Norwegian flies from Helsinki to Ivalo, if not daily, then almost. There are also some direct flights to Frankfurt, London and other places. Find out about the flight schedule.
 
-For every single flight arriving at Ivalo, there is a [bus connection from the Ivalo airport to Kiilopää](https://www.kiilopaa.fi/en/contact-us/how-to-get-there/).
+For every single flight arriving at Ivalo, there is a [bus connection from the Ivalo airport to Kiilopää](https://liput.matkahuolto.fi/connectionlist?lang=en&departurePlaceId=p2120&arrivalPlaceId=s1963#breadcrumb).
 
 ### By train
 
