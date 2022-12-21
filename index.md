@@ -2,7 +2,7 @@
 layout: 2018
 title: Codefreeze
 tagline: Prepare for your last commit
-when: Sat Jan 8th - Sat 15th 2022
+when: Sat Jan 7th - Sat 14th 2023
 where: Kiilopää, Finland
 where_link: https://www.kiilopaa.fi/en/
 description: Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a time and place for software craftspeople to meet.
@@ -39,11 +39,10 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
 ## Registration
 
 - Read and accept the [Code of Conduct](#code-of-conduct).
-- Book a room or cabin by email (remember to mention *Codefreeze*; see [Accommodation](#accommodation)), or ask for a roommate from our [Slack channel](#slack).
+- Book a room or cabin by email (remember to mention _Codefreeze_; see [Accommodation](#accommodation)), or ask for a roommate from our [Slack channel](#slack).
 - Make travel arrangements to Kiilopää (see [Directions](#directions)).
-- You may add yourself as a [participant](#participants) to the Codefreeze website by creating a [pull request](https://github.com/codefreezefi/codefreeze.fi#readme).
+- You may add yourself as a [participant](#participants) to the Codefreeze website by creating a [pull request](https://github.com/codefreezefi/codefreeze.fi#readme) or using the [registration form](https://forms.gle/cT6CfzgWNMNrH5nm8). Be aware, the form sends your data to Google!
 - You may also add your arrival and reparture times to [Trello](#trello).
-
 
 ## Past Events
 
@@ -66,6 +65,10 @@ The Trello board is also used for coordinating travel arrangements and planning 
  - 2018: [Markus](https://www.flickr.com/photos/tacker/sets/72157662836528657), [Steffie](https://photos.google.com/share/AF1QipN6I2ZjNFiVjzyVggQV8lgdU_u7__pDq2RQ0DhWAaYqRI1iD_P6SnxRLAFBpyyHbg?key=MTNnd3gxZkNNOVphb2ZyS0luN3RJd3B3aUYzTEhn), [Franzi](https://photos.google.com/share/AF1QipMg-kfDKMsVwdrPbPsKj-lOMLnQEB42lqIArQv6LbDeY307Mv7iN2uyh0QD0jIp-w?key=M2V4Mk5VYUZWVWJ5WHR4UDdCbFNVRjhFNmVSQ0N3)
  - 2019: [Markus](https://www.flickr.com/photos/tacker/albums/72157675567232707), [Esko](https://photos.google.com/share/AF1QipP3pUnV_56LLrB2HTUb9SK5PoLACixJANaNwiXybiG6pPQYfEpjtQXcENJjqftlUA?key=R0hieG92Y1hHbmNBWVEydWhUNUp1UnZLWlRWTlVR)
  - 2020: [Markus](https://www.flickr.com/photos/tacker/albums/72157712748638692), [Esko](https://photos.app.goo.gl/iLND4eEWWstSFYMfA)
+
+### Videos
+
+ - 2017: [Markus](https://www.youtube.com/playlist?list=PLrIHkXEd9uqwf46oGZ2yTshhgb7Uv_RwV)
  
 ### Blog Posts
 
@@ -131,12 +134,12 @@ Book your stay in Kiilopää yourself by email to [kiilopaa@suomenlatu.fi](mailt
 
 ### And what does it cost?
 
-The prices include *stay*, *breakfast*, *lunch*, *dinner* and (most probably) *smoke sauna* on Monday or Tuesday:
+The prices include _stay_, _breakfast_, _lunch_, _dinner_ and (most probably) _smoke sauna_ on Monday or Tuesday:
 
-* For [single bed room](https://www.kiilopaa.fi/en/accommodation/hotel-niilanpaa.html): 92 € / person / night
-* For [double](https://www.kiilopaa.fi/en/accommodation/hotel-niilanpaa.html) 70 € / person / night
-* For a [wilderness cabin](https://www.kiilopaa.fi/en/accommodation/cabins.html) 105 € / cabin / night + 39€ / person / day for the meals
-* For a [log cabin](https://www.kiilopaa.fi/en/accommodation/cabins.html) (very suitable for families): 120 € / cabin / night + 39€ / person / day
+- For [single bed room](https://www.kiilopaa.fi/en/accomodation/hotel-niilanpaa/): 92 € / person / night
+- For [double](https://www.kiilopaa.fi/en/accomodation/hotel-niilanpaa/) 70 € / person / night
+- For a [wilderness cabin](https://www.kiilopaa.fi/en/accomodation/cabins/) 105 € / cabin / night + 39€ / person / day for the meals
+- For a [log cabin](https://www.kiilopaa.fi/en/accomodation/cabins/) (very suitable for families): 120 € / cabin / night + 39€ / person / day
 
 ### About the cabins
 
@@ -187,7 +190,7 @@ Kiilopää is owned by Suomen Latu, the Outdoor Association of Finland. Suomen L
 
 The nearest airport is in Ivalo (IVL). Both Finnair and Norwegian flies from Helsinki to Ivalo, if not daily, then almost. There are also some direct flights to Frankfurt, London and other places. Find out about the flight schedule.
 
-For every single flight arriving at Ivalo, there is a [bus connection from the Ivalo airport to Kiilopää](https://saariselka.com/en/travelling/by-car/airport-bus/).
+For every single flight arriving at Ivalo, there is a [bus connection from the Ivalo airport to Kiilopää](https://liput.matkahuolto.fi/connectionlist?lang=en&departurePlaceId=p2120&arrivalPlaceId=s1963#breadcrumb).
 
 ### By train
 
@@ -249,7 +252,7 @@ For more information about the safaris, including prices, see the brochure here 
 <h2>{{site.participants|size}} <del>Speakers</del> Participants</h2>
 
 <p>
-    <a href="https://github.com/codefreezefi/codefreeze.fi#readme" target="_blank" rel="noopener noreferrer"> Register yourself</a> with a pull request to be among the first people to receive details about this unique conference!
+    <a href="https://github.com/codefreezefi/codefreeze.fi#readme" target="_blank" rel="noopener noreferrer"> Register yourself</a> with a pull request to be among the first people to receive details about this unique conference! As an alternative use our <a href="https://forms.gle/cT6CfzgWNMNrH5nm8" target="_blank" rel="noopener noreferrer">registration form</a> (be aware, your personal data will be sent to Google). 
 </p>
 
 <ul class="participants">
@@ -263,12 +266,14 @@ For more information about the safaris, including prices, see the brochure here 
   </li>
 
 <!-- {% assign image_host = site.url | append:site.baseurl %} -->
+
 {% for participant in site.participants %}
-  {% assign image_url = "/images/avatar.jpg" | prepend:site.baseurl  %}
-  {% if participant.image != null %}
-  {% assign escaped_image = participant.image | uri_escape %}
-  {% assign image_url = "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;rewriteMime=image/*&amp;refresh=31536000&amp;resize_w=156&amp;url=" | append:escaped_image %}
-  {% endif %}
+{% assign image_url = "/images/avatar.jpg" | prepend:site.baseurl  %}
+{% if participant.image != null %}
+{% assign escaped_image = participant.image | uri_escape %}
+{% assign image_url = "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;rewriteMime=image/*&amp;refresh=31536000&amp;resize_w=156&amp;url=" | append:escaped_image %}
+{% endif %}
+
   <li>
     {% if participant.link != null %}<a href="{{ participant.link }}" rel="noopener noreferrer">{% endif %}
     <div class="photo">
@@ -289,6 +294,11 @@ For more information about the safaris, including prices, see the brochure here 
       <a href="https://twitter.com/{{ participant.twitter | replace: "https://twitter.com/", "" }}" rel="noopener noreferrer">
         <i class="fab fa-twitter"></i></a>
     {% endif %}
+    {% if participant.activityPub != null %}
+      <a href="{{ participant.activityPub }}" rel="noopener noreferrer">
+        <img src="{{ site.baseurl }}/logos/mastodon.svg" alt="ActivityPub" class="icon" />
+      </a>
+    {% endif %}
     {% if participant.linkedin != null %}
       <a href="{{ participant.linkedin }}" rel="noopener noreferrer">
         <i class="fab fa-linkedin"></i></a>
@@ -305,3 +315,19 @@ For more information about the safaris, including prices, see the brochure here 
 {% include faq.md %}
 
 {% include code-of-conduct.md %}
+
+### Credits
+
+These values are inspired by SoCraTes Germany <https://socrates-conference.de/values>.
+
+### Further Questions?
+
+Feel invited to contact us via our details listed below
+
+Signed,
+The volunteers
+
+- Aki Salmi ([@rinkkasatiainen](https://twitter.com/rinkkasatiainen), [aki@rinkkasatiainen.fi](mailto:aki@rinkkasatiainen.fi))
+- Markus Tacker ([@coderbyheart@chaos.social](https://chaos.social/@coderbyheart), [m@coderbyheart.com](mailto:m@coderbyheart.com))
+
+Follow <a rel="me" href="https://discuss.systems/@codefreeze">@codefreeze@discuss.systems</a> on Mastodon.

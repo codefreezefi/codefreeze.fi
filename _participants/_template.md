@@ -5,6 +5,7 @@ contact-via: [email or phone number]
 room-type: [single | double (with XYZ) | cabin (with X, Y & Z) ]
 link: 
 twitter: 
+activityPub:
 linkedin: 
 ---
 
