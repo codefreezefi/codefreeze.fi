@@ -1,7 +1,7 @@
 ---
 name: Kjeld
 pronouns: he/him
-image: https://media.licdn.com/dms/image/C5603AQG8Qn1NT0GG1w/profile-displayphoto-shrink_800_800/0/1621409592011?e=1677110400&v=beta&t=tUDsYv1vSoVwnZCteeJJ2UntDm8YoUlA7Bh_6DETA70
+image: https://user-images.githubusercontent.com/188915/208905044-a6f520a6-6dfd-4f5b-af95-7b757a8eb986.png
 linkedin: https://www.linkedin.com/in/kjeld-schmidt/
 link: kjeld-schmidt.com
 ---
