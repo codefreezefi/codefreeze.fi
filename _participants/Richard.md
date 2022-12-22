@@ -1,5 +1,5 @@
 ---
 name: Richard
 pronouns: he/him
-linkedin: linkedin.com/in/richardbor
+linkedin: https://www.linkedin.com/in/richardbor/
 ---
