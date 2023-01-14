@@ -25,7 +25,7 @@
         class="logoText"
       />
     </div>
-    {% if page.when != '' %}
+    {% if page.when %}
     <p>
       <time>{{page.when}}</time>
       <span class="location">{{page.where}}</span>
@@ -38,6 +38,7 @@
     <a href="{{ site.url }}#registration" onclick="toggleMenu()"
       >Registration</a
     >
+    <a href="{{ site.url }}/chat" onclick="toggleMenu()">Chat</a>
     <a href="{{ site.url }}#participants" onclick="toggleMenu()"
       >Participants</a
     >
