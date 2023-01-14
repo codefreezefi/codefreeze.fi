@@ -6,7 +6,7 @@ Codefreeze isn't an officially organised event.
 For enforcement of this Code of Conduct, we only have official authority of the private accommodation we are using for sessions and the activities we organise.
 With everything else, we will try to work on enforcement with the Suomen Latu staff and local authorities.
 This is still a public space used by non-participants as well, please don't assume that everyone has read or will follow this Code of Conduct.
-This Code of Conduct applies to the event itself, and to all digital spaces that are related to the event, such as GitHub, Slack and Trello.
+This Code of Conduct applies to the event itself, and to all digital spaces that are related to the event, such as GitHub, Slack, Matrix and Trello.
 
 ### Inclusiveness
 
@@ -68,5 +68,5 @@ To clarify, although this doesn't take away from the other rules, it is ok to be
 If you need help, have any further questions or have any other concerns, please contact a volunteer immediately.
 
 - Find and talk to the volunteers at the conference
-- Ask in the `#codefreeze_fi` channel on the [Software Crafters Slack](http://slack.softwarecrafters.org/)
-- Contact a volunteer on Slack
+- Ask in the [`#info`](https://matrix.to/#/#info:matrix.codefreeze.fi) channel on [Matrix](/chat)
+- Contact a volunteer on Matrix

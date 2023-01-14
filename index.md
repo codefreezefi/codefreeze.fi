@@ -8,17 +8,15 @@ where_link: https://www.kiilopaa.fi/en/
 description: Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a time and place for software craftspeople to meet.
 ---
 
-# {{page.title}}
-
 ## {{page.tagline}}
 
-Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a *time* and *place* for software craftspeople to meet. We would like to have likeminded people to gather in one place and have long conversations about our craft over a drink. And to practice our coding skills.
+Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a _time_ and _place_ for software craftspeople to meet. We would like to have likeminded people to gather in one place and have long conversations about our craft over a drink. And to practice our coding skills.
 
 While most sessions happen from Monday to Friday, participants typically spend a full week in Kiilopää to enjoy the amazing winter nature and activities.
 
-This year, we’ll experience new moon - time when the moon does not *enlighten us*, but hopefully gives more room for Aurora Borealis to do that.
+This year, we’ll experience new moon - time when the moon does not _enlighten us_, but hopefully gives more room for Aurora Borealis to do that.
 
-Did we mention that this place is above the arctic circle? Which is pretty cool. Or *freezingly cold actually*.
+Did we mention that this place is above the arctic circle? Which is pretty cool. Or _freezingly cold actually_.
 
 <section class="infoBox">
     <div class="photo">
@@ -39,7 +37,7 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
 ## Registration
 
 - Read and accept the [Code of Conduct](#code-of-conduct).
-- Book a room or cabin by email (remember to mention _Codefreeze_; see [Accommodation](#accommodation)), or ask for a roommate from our [Slack channel](#slack).
+- Book a room or cabin by email (remember to mention _Codefreeze_; see [Accommodation](#accommodation)), or ask for a roommate in the [Matrix channel for the event](/chat).
 - Make travel arrangements to Kiilopää (see [Directions](#directions)).
 - You may add yourself as a [participant](#participants) to the Codefreeze website by creating a [pull request](https://github.com/codefreezefi/codefreeze.fi#readme) or using the [registration form](https://forms.gle/cT6CfzgWNMNrH5nm8). Be aware, the form sends your data to Google!
 - You may also add your arrival and reparture times to [Trello](#trello).
@@ -50,7 +48,7 @@ Since 2015, Codefreeze has happened every year around January. In 2019 we had ab
 
 ### <a name="trello"></a>Sessions
 
-To get an idea of what happens at Codefreeze, you can find the conference schedules on Trello. Most *Codefreeze* topics (green) have additional information in links in the cards.
+To get an idea of what happens at Codefreeze, you can find the conference schedules on Trello. Most _Codefreeze_ topics (green) have additional information in links in the cards.
 
 The Trello board is also used for coordinating travel arrangements and planning the next Codefreeze, so it's good to check it out in advance.
 
@@ -61,19 +59,19 @@ The Trello board is also used for coordinating travel arrangements and planning 
 
 ### Photos
 
- - 2017: [Markus](https://www.flickr.com/photos/tacker/albums/72157677944796900), [Andreas](https://www.dropbox.com/sh/bkxdfumi56fvy92/AAAUjLSXvlUkS-t-FuFK1kUSa?dl=0) *with Aurora!*
- - 2018: [Markus](https://www.flickr.com/photos/tacker/sets/72157662836528657), [Steffie](https://photos.google.com/share/AF1QipN6I2ZjNFiVjzyVggQV8lgdU_u7__pDq2RQ0DhWAaYqRI1iD_P6SnxRLAFBpyyHbg?key=MTNnd3gxZkNNOVphb2ZyS0luN3RJd3B3aUYzTEhn), [Franzi](https://photos.google.com/share/AF1QipMg-kfDKMsVwdrPbPsKj-lOMLnQEB42lqIArQv6LbDeY307Mv7iN2uyh0QD0jIp-w?key=M2V4Mk5VYUZWVWJ5WHR4UDdCbFNVRjhFNmVSQ0N3)
- - 2019: [Markus](https://www.flickr.com/photos/tacker/albums/72157675567232707), [Esko](https://photos.google.com/share/AF1QipP3pUnV_56LLrB2HTUb9SK5PoLACixJANaNwiXybiG6pPQYfEpjtQXcENJjqftlUA?key=R0hieG92Y1hHbmNBWVEydWhUNUp1UnZLWlRWTlVR)
- - 2020: [Markus](https://www.flickr.com/photos/tacker/albums/72157712748638692), [Esko](https://photos.app.goo.gl/iLND4eEWWstSFYMfA)
+- 2017: [Markus](https://www.flickr.com/photos/tacker/albums/72157677944796900), [Andreas](https://www.dropbox.com/sh/bkxdfumi56fvy92/AAAUjLSXvlUkS-t-FuFK1kUSa?dl=0) _with Aurora!_
+- 2018: [Markus](https://www.flickr.com/photos/tacker/sets/72157662836528657), [Steffie](https://photos.google.com/share/AF1QipN6I2ZjNFiVjzyVggQV8lgdU_u7__pDq2RQ0DhWAaYqRI1iD_P6SnxRLAFBpyyHbg?key=MTNnd3gxZkNNOVphb2ZyS0luN3RJd3B3aUYzTEhn), [Franzi](https://photos.google.com/share/AF1QipMg-kfDKMsVwdrPbPsKj-lOMLnQEB42lqIArQv6LbDeY307Mv7iN2uyh0QD0jIp-w?key=M2V4Mk5VYUZWVWJ5WHR4UDdCbFNVRjhFNmVSQ0N3)
+- 2019: [Markus](https://www.flickr.com/photos/tacker/albums/72157675567232707), [Esko](https://photos.google.com/share/AF1QipP3pUnV_56LLrB2HTUb9SK5PoLACixJANaNwiXybiG6pPQYfEpjtQXcENJjqftlUA?key=R0hieG92Y1hHbmNBWVEydWhUNUp1UnZLWlRWTlVR)
+- 2020: [Markus](https://www.flickr.com/photos/tacker/albums/72157712748638692), [Esko](https://photos.app.goo.gl/iLND4eEWWstSFYMfA)
 
 ### Videos
 
- - 2017: [Markus](https://www.youtube.com/playlist?list=PLrIHkXEd9uqwf46oGZ2yTshhgb7Uv_RwV)
- 
+- 2017: [Markus](https://www.youtube.com/playlist?list=PLrIHkXEd9uqwf46oGZ2yTshhgb7Uv_RwV)
+
 ### Blog Posts
 
- - 2016: [Lessons from Codefreeze 2016](http://slides.com/deniseyu/lessons-from-codefreeze-2016) by [Denise Yu](https://twitter.com/deniseyu21)
- - 2017: [codefreeze brings the magic of SoCraTes to Lapland](https://coderbyheart.com/codefreeze-brings-the-magic-of-socrates-to-lapland/) by [Markus Tacker](https://twitter.com/coderbyheart)
+- 2016: [Lessons from Codefreeze 2016](http://slides.com/deniseyu/lessons-from-codefreeze-2016) by [Denise Yu](https://twitter.com/deniseyu21)
+- 2017: [codefreeze brings the magic of SoCraTes to Lapland](https://coderbyheart.com/codefreeze-brings-the-magic-of-socrates-to-lapland/) by [Markus Tacker](https://twitter.com/coderbyheart)
 
 <section class="tweets" id="tweets">
     <a href="https://twitter.com/EvAltenberga/status/953578300307312641"></a>
@@ -155,24 +153,23 @@ The log cabins are a bit bigger than the wilderness cabins (44 square meters eac
 
 ### About Food
 
-Folks have 2 good options: either 
-  
- * book full board that includes breakfast, lunch and dinner, or 
- * prepare own meals at the cottages. Aki will be at the venue by car, so he can bring some food on the way, and folks can get to local supermarket daily.
+Folks have 2 good options: either
+
+- book full board that includes breakfast, lunch and dinner, or
+- prepare own meals at the cottages. Aki will be at the venue by car, so he can bring some food on the way, and folks can get to local supermarket daily.
 
 Normally lunch and dinner is not vegetarian. If you prefer vegetarian food, or have food allergies, please contact the hotel and tell your preferences.
 
 ## What to bring with you:
 
- * swimming suit / trunk (for the smoke sauna). And if you prefer the german/swiss way to be in Sauna, own towel might be handy 
- * a nice and handy backpack, 20-40l (this is very handy for day treks organised by Kiilopää)
- * a bottle of 1l - a thermos would be nice if you have one. Again, for the day treks. For the warm juice to drink.
- * warm clothes, spare gloves, etc.
- * a camera might be good, if we have a chance to see the auroras (Tripod, extra batteries, etc.)
- * cash: not so much - you can use credit card basically for everything in Finland.
- 
-For more detailed information on clothes see the [FAQ](#faq).
+- swimming suit / trunk (for the smoke sauna). And if you prefer the german/swiss way to be in Sauna, own towel might be handy
+- a nice and handy backpack, 20-40l (this is very handy for day treks organised by Kiilopää)
+- a bottle of 1l - a thermos would be nice if you have one. Again, for the day treks. For the warm juice to drink.
+- warm clothes, spare gloves, etc.
+- a camera might be good, if we have a chance to see the auroras (Tripod, extra batteries, etc.)
+- cash: not so much - you can use credit card basically for everything in Finland.
 
+For more detailed information on clothes see the [FAQ](#faq).
 
 ## <a name="kiilopaa"></a>Kiilopää: a magical place in Lapland
 
@@ -180,7 +177,7 @@ For more detailed information on clothes see the [FAQ](#faq).
 
 Kiilopää is owned by Suomen Latu, the Outdoor Association of Finland. Suomen Latu is a promoter of outdoor activities, an expert in hiking and an organisation which is open to all. The main objective of Suomen Latu has always been to increase Finnish people’s interest in exercise as well as developing possibilities for outdoor, conditioning and recreational exercise. Nowadays guarding everyman’s right has become more and more important.
 
-*For more information see the [official Kiilopää web site](https://www.kiilopaa.fi/en).*
+_For more information see the [official Kiilopää web site](https://www.kiilopaa.fi/en)._
 
 <div id="map"></div>
 
@@ -211,7 +208,7 @@ Take the earlier night train from southern Finland to Rovaniemi. From Rovaniemi 
 
 ## Activities
 
-### Have you done *The Dip*?
+### Have you done _The Dip_?
 
 The Sauna World of Kiilopää is called Kuurakaltio. There are two electric saunas with dressing rooms and showers, as well as a traditional Finnish smoke sauna. There are separate sauna facilities for men and women.
 
@@ -219,7 +216,7 @@ Have you ever been winter swimming? It is an experience when the air temperature
 
 During Codefreeze, the smoke sauna is heated on Tuesday on Wednesday, and on Tuesday we have a private sauna from 3pm-6pm.
 
-*More information about [the smoke sauna in Kiilopää](https://www.kiilopaa.fi/en/outdoor-activities/smoke-sauna.html).*
+_More information about [the smoke sauna in Kiilopää](https://www.kiilopaa.fi/en/outdoor-activities/smoke-sauna.html)._
 
 ### Spending some time at Kiilopää?
 
@@ -228,7 +225,7 @@ As folks found out on Codefreeze 2015, the scenery is beautiful and there are a 
 #### Searching for Northern Lights
 
 a guided trip with snow shoes to nearby fells in the late evening to see the fantastic Aurora Borealis.
-    
+
 #### On a Reindeer Trek
 
 A reindeer caravan has been harnessed for you in the reindeer yard ready for your journey into the silent wilderness. Guided by an original Sámi reindeer herder, you will drive your own reindeer along the journey. The reindeer will take you across the enchanting snowy white scenery. The frost glistens like diamonds on the shoulders of the pine trees. You sit warmly and comfortably on reindeer skins in a sleigh. Reindeer bells gently ring as their hooves crunch through the snow. When the reindeer caravan returns to the yard, the experience of a warm “kota” awaits you. Enjoy some hot drink while a reindeer herder gladly tells you stories of his life in the wilds of Lapland. Transfer to and from reindeer farm.

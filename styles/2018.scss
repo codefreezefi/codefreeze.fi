@@ -6,43 +6,49 @@ $desktop-width: 720px;
 $bold-weight: 800;
 $thin-weight: 300;
 $blue: #1d5791;
-$dark-blue: #092F5F;
+$dark-blue: #092f5f;
 $aurora-purple: #591c6c;
 // Sticker colors
 $night-green: #2b404d;
-$aurora-green:  #6accad;
+$aurora-green: #6accad;
 $moonlit-snow: #d4f1fc;
 $headlamp-white: #effafe;
 $fireplace-yellow: #f3f7b8;
-
 
 a {
   color: $aurora-purple;
 }
 
 html {
-  font-family: 'Assistant', sans-serif;
+  font-family: "Assistant", sans-serif;
   font-weight: $thin-weight;
 }
 
-html, body, section, main, aside {
+html,
+body,
+section,
+main,
+aside {
   margin: 0;
   padding: 0;
 }
 
-h1, h2, strong {
+h1,
+h2,
+strong {
   font-weight: $bold-weight;
 }
 
 h2 {
-    margin-top: 2em;
-    @media (min-width: $desktop-width) {
-      padding-top: 70px;
-    }
+  margin-top: 2em;
+  @media (min-width: $desktop-width) {
+    padding-top: 70px;
+  }
 }
 
 body > header {
-  background: $night-green url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Faurinko_kiilopaalla.jpg");
+  background: $night-green
+    url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Faurinko_kiilopaalla.jpg");
   @media (min-width: $desktop-width) {
     background-image: url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1000&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Faurinko_kiilopaalla.jpg");
   }
@@ -70,16 +76,16 @@ body > header {
       -webkit-animation: spin 60s linear infinite;
       -moz-animation: spin 60s linear infinite;
       animation: spin 60s linear infinite;
-      color: #eefaff
+      color: #eefaff;
     }
     img.logoText {
       position: absolute;
       width: 170px;
       top: 62px;
-      left: calc((250px - 170px)/2);
+      left: calc((250px - 170px) / 2);
       @media (min-width: $desktop-width) {
         width: 272px;
-        top:100px;
+        top: 100px;
         left: 64px;
       }
     }
@@ -101,12 +107,13 @@ body > header {
     }
   }
 
-  font-family: 'Supermercado One', cursive;
+  font-family: "Supermercado One", cursive;
   p {
     font-weight: $bold-weight;
     color: $aurora-green;
     margin: 0;
-    text-shadow: 2px 2px 3px #2b404d66, -2px 2px 3px #2b404d66, -2px -2px 3px #2b404d66, 2px -2px 3px #2b404d66;
+    text-shadow: 2px 2px 3px #2b404d66, -2px 2px 3px #2b404d66,
+      -2px -2px 3px #2b404d66, 2px -2px 3px #2b404d66;
     > * {
       &:after {
         content: "·";
@@ -125,14 +132,20 @@ body > header {
 body > main {
   padding: 0;
   margin: 0;
-  > h1 {
-    display: none;
-  }
   hr {
     border: 0;
     border-bottom: 5px solid $blue;
   }
-  h1, h2, h3, h4, h5, h5, p, ul, ol {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h5,
+  p,
+  ul,
+  ol,
+  blockquote {
     margin-left: 2rem;
     margin-right: 2rem;
     @media (min-width: $desktop-width) {
@@ -141,8 +154,20 @@ body > main {
       margin-right: auto;
     }
   }
+  h1 {
+    margin-top: 4rem;
+  }
+  blockquote {
+    p {
+      border-left: 5px solid #ccc;
+      padding-left: 1rem;
+      font-style: italic;
+      margin-left: 0;
+    }
+  }
   .infoBox {
-    background: $dark-blue url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
+    background: $dark-blue
+      url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
     @media (min-width: $desktop-width) {
       background-image: url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1000&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
     }
@@ -164,7 +189,8 @@ body > main {
         display: flex;
         flex-direction: column;
         justify-content: center;
-        h3, p {
+        h3,
+        p {
           color: rgba(255, 255, 255, 0.85);
         }
       }
@@ -204,7 +230,8 @@ body > main {
 
 section.tweets {
   overflow: hidden;
-  background: $dark-blue url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
+  background: $dark-blue
+    url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
   @media (min-width: $desktop-width) {
     background-image: url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1000&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
   }
@@ -214,13 +241,15 @@ section.tweets {
   display: flex;
   justify-content: center;
   padding: 2rem 0;
-  iframe + iframe, twitterwidget + twitterwidget {
+  iframe + iframe,
+  twitterwidget + twitterwidget {
     margin-left: 1rem;
   }
 }
 
 #participants {
-  background: #000 url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
+  background: #000
+    url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
   @media (min-width: $desktop-width) {
     background-image: url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1000&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
   }
@@ -310,7 +339,7 @@ section.tweets {
         a {
           text-decoration: none;
           font-size: 150%;
-          &+a {
+          & + a {
             padding-left: 0.25rem;
           }
           @media (min-width: $desktop-width) {
@@ -328,7 +357,8 @@ section.tweets {
 }
 
 #sponsors {
-  background: #000 url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
+  background: #000
+    url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
   @media (min-width: $desktop-width) {
     background-image: url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1000&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
   }
@@ -343,7 +373,8 @@ section.tweets {
   display: flex;
   flex-direction: column;
 
-  header, div {
+  header,
+  div {
     margin: auto;
     max-width: 720px;
     width: 100%;
@@ -363,7 +394,8 @@ section.tweets {
 }
 
 body > footer {
-  background: $dark-blue url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Faurinko_kiilopaalla.jpg");
+  background: $dark-blue
+    url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Faurinko_kiilopaalla.jpg");
   @media (min-width: $desktop-width) {
     background-image: url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1000&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Faurinko_kiilopaalla.jpg");
   }
