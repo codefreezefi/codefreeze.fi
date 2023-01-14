@@ -34,58 +34,6 @@
   <body>
     {% include header.html %}
     <main>{{content}}</main>
-    <footer>
-      <section>
-        <h1>About this page</h1>
-
-        <p>
-          Images courtesy of
-          <a
-            href="https://twitter.com/EvAltenberga/"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Andi Bräu</a
-          >
-          and
-          <a
-            href="http://www.kiilopaa.fi/en"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Suomen Latu</a
-          >.
-        </p>
-
-        <p>
-          If you have any questions regarding to this event don't hesitate to
-          drop a line for Mr. Aki Salmi
-          <a href="mailto:aki.salmi@iki.fi">aki.salmi@iki.fi</a>.
-        </p>
-      </section>
-    </footer>
-
-    <script>
-      window.twttr = (function (d, s, id) {
-        var js,
-          fjs = d.getElementsByTagName(s)[0],
-          t = window.twttr || {};
-        if (d.getElementById(id)) return t;
-        js = d.createElement(s);
-        js.id = id;
-        js.src = "https://platform.twitter.com/widgets.js";
-        fjs.parentNode.insertBefore(js, fjs);
-
-        t._e = [];
-        t.ready = function (f) {
-          t._e.push(f);
-        };
-
-        return t;
-      })(document, "script", "twitter-wjs");
-    </script>
-    <script
-      type="text/javascript"
-      src="{{ site.baseurl }}/scripts/2018.js"
-      defer
-    ></script>
+    {% include footer.html %}
   </body>
 </html>
