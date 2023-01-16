@@ -12,6 +12,8 @@ All chat channels are hosted in our own homeserver: `matrix.codefreeze.fi`.
 
 Joining the communication on Matrix is **highly recommended** in order to keep up to date before and during the event, because it is the only real-time communication medium we use.
 
+All communication in all channels on `matrix.codefreeze.fi` is subject to [our Code of Conduct](/#code-of-conduct).
+
 ## 1. Create a Matrix account
 
 > If you already have an account, you can skip this step.
@@ -20,27 +22,13 @@ First, you need a Matrix account. You get an account by signing up on one of the
 
 In order to keep the costs down we do not allow to register new accounts on the Codefreeze homeserver `matrix.codefreeze.fi`, because if these accounts are used to join channels on other Matrix homeservers, incoming federation traffic will be significantly increased.
 
-## 2. Join the Codefreeze info channel
+## 2. Join the Codefreeze space
 
-Join the general channel for information about Codefreeze (called `#info`) using [this link](https://matrix.to/#/#info:matrix.codefreeze.fi).
+Join the Codefreeze space using [this link](https://matrix.to/#/#space:matrix.codefreeze.fi) to find all the relevant channels.
 
-## 3. Join the channel for the year
-
-Every year has its own channel. You should join the channel for the year that you plan to attend:
-
-- [`#2023`](https://matrix.to/#/#2023:matrix.codefreeze.fi)
-- [`#2024`](https://matrix.to/#/#2024:matrix.codefreeze.fi)
-
-## 4. Optional: Install mobile applications
+## 3. Optional: Install mobile applications
 
 You can use a browser-based client from your mobile phone (like for example [FluffyChat](https://fluffychat.im/web/#/home)) or install a native app, for example [Element](https://app.element.io/mobile_guide/) which has apps for Android and iOS and a [web-based client](https://app.element.io/).
-
-## Other relevant channels
-
-You might want to join other channels that are relevant for Codefreeze:
-
-- [`#attending-with-children`](https://matrix.to/#/#kids:matrix.codefreeze.fi) for people joining Codefreeze with children
-- [`#meta`](https://matrix.to/#/#meta:matrix.codefreeze.fi) for Meta discussion about the use of Matrix
 
 ## Requesting additional channels
 
