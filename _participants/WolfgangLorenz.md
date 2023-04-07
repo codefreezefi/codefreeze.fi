@@ -1,3 +1,0 @@
----
-name: Wolfgang Lorenz
----

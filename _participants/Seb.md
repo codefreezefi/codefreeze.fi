@@ -1,4 +1,0 @@
----
-name: Seb
-pronouns: He
----
