@@ -5,6 +5,6 @@ contact-via: u1okfubu@duck.com
 room-type: single
 link: https://www.nopants.dev/
 twitter: https://twitter.com/hansamann
-activityPub: @hansamann@mastodon.social
+activityPub: https://mastodon.social/@hansamann
 linkedin: https://www.linkedin.com/in/hansamann/
 ---
