@@ -72,40 +72,21 @@ The Trello board is also used for coordinating travel arrangements and planning 
 - 2016: [Lessons from Codefreeze 2016](http://slides.com/deniseyu/lessons-from-codefreeze-2016) by [Denise Yu](http://deniseyu.io/)
 - 2017: [codefreeze brings the magic of SoCraTes to Lapland](https://coderbyheart.com/codefreeze-brings-the-magic-of-socrates-to-lapland/) by [Markus Tacker](https://coderbyheart.com/)
 
-<section class="tweets" id="tweets">
-    <a href="https://twitter.com/EvAltenberga/status/953578300307312641"></a>
-    <a href="https://twitter.com/Singsalad/status/953948262486237184"></a>
-    <a href="https://twitter.com/coderbyheart/status/952801902785384448"></a>
-    <a href="https://twitter.com/coderbyheart/status/953674372576956416"></a>
-    <a href="https://twitter.com/AnnNat/status/822083697511907328"></a>
-    <a href="https://twitter.com/coderbyheart/status/1084446608253730817"></a>
-    <a href="https://twitter.com/AnnNat/status/1084015310469021696"></a>
-    <a href="https://twitter.com/coderbyheart/status/1082264438823157760"></a>
-    <a href="https://twitter.com/Singsalad/status/1083797504678858757"></a>
-    <a href="https://twitter.com/coderbyheart/status/1154522616620695552"></a>
-    <a href="https://twitter.com/coderbyheart/status/1218513148237570058"></a>
-    <a href="https://twitter.com/coderbyheart/status/1218248110784307201"></a>
-    <a href="https://twitter.com/coderbyheart/status/1218189869593264128"></a>
-    <a href="https://twitter.com/coderbyheart/status/1218149452281712640"></a>
-    <a href="https://twitter.com/coderbyheart/status/1218091368851165185"></a>
-    <a href="https://twitter.com/coderbyheart/status/1217821926002917376"></a>
-    <a href="https://twitter.com/Wolfcraft_IO/status/1217522078393434113"></a>
-    <a href="https://twitter.com/EvAltenberga/status/1217412137032863744"></a>
-    <a href="https://twitter.com/AnnNat/status/1217125726903771137"></a>
-    <a href="https://twitter.com/coderbyheart/status/1217111728896577536"></a>
-    <a href="https://twitter.com/coderbyheart/status/1217103371603267584"></a>
-    <a href="https://twitter.com/RidingWolf/status/1217093654185238533"></a>
-    <a href="https://twitter.com/coderbyheart/status/1217090846027370498"></a>
-    <a href="https://twitter.com/Wolfcraft_IO/status/1217067697315422209"></a>
-    <a href="https://twitter.com/AmelieCornelis/status/1216785218146918400"></a>
-    <a href="https://twitter.com/kunstp1xel/status/1216688467293409280"></a>
-    <a href="https://twitter.com/coderbyheart/status/1216674626014760960"></a>
-    <a href="https://twitter.com/coderbyheart/status/1216641312314855424"></a>
-    <a href="https://twitter.com/coderbyheart/status/1216629171071410176"></a>
-    <a href="https://twitter.com/coderbyheart/status/1216441553465507841"></a>
-    <a href="https://twitter.com/EvAltenberga/status/1216326480092958720"></a>
-    <a href="https://twitter.com/coderbyheart/status/1220630822316888066"></a>
+<script type="text/javascript">
+const status = []
+{% for status in site.status %}
+status.push({
+    "author": {{ status.author | jsonify }},
+    "date": {{ status.date | jsonify }},
+    "media": {{ status.media | jsonify }},
+    "content": {{ status.content | jsonify }},
+})
+{% endfor %}
+</script>
+
+<section id="status" class='status'>
 </section>
+
 
 ## Why?
 

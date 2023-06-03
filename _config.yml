@@ -4,3 +4,4 @@ sass:
     sass_dir: styles/_snippets
 collections:
 - participants
+- status
