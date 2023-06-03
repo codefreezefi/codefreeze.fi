@@ -1,6 +1,6 @@
 Hi all!
 
-It’s only less bit more than a month until CodeFreeze 2022! What a wonderful time to meet you all, again. To see (some) of the participants,  https://codefreeze.fi/#participants. Why some - because I know people that are coming and have not "registered" via the web page. Which is totally fine. One reason for the PR based registration is to get this email. Please read the next 3 chapter, at least. They are the most important ones.
+It’s only less bit more than a month until CodeFreeze 2022! What a wonderful time to meet you all, again. To see (some) of the participants, https://codefreeze.fi/#participants. Why some - because I know people that are coming and have not "registered" via the web page. Which is totally fine. One reason for the PR based registration is to get this email. Please read the next 3 chapter, at least. They are the most important ones.
 
 ## Accommodation
 
@@ -37,12 +37,10 @@ If you have anything on your mind, please do not hesitate to ask!
 Aki Salmi
 [email]
 [phone]
-@rinkkasatiainen (twitter, slack, etc)
 
 Markus Tacker
 m@coderbyheart.com
 +4746442649
-@coderbyheart (twitter, slack, etc)
 
 ## Food
 
@@ -50,7 +48,7 @@ The next most important thing FOOD:
 
 There are 2 good options:
 
-1. preorder a full board for your stay - you'll get breakfast, lunch and dinner at the venue - please remember to mention any special dietary constraints to  the hotel, kiilopaa@suomenlatu.fi
+1. preorder a full board for your stay - you'll get breakfast, lunch and dinner at the venue - please remember to mention any special dietary constraints to the hotel, kiilopaa@suomenlatu.fi
 
 2. cook your own food. Contact Markus if you want to join the vegan cooking group. I am with my car, so getting to supermarket is doable, at least every second day.
 
@@ -58,39 +56,39 @@ There are 2 good options:
 
 How to arrive to the venue? - a bus is driving from Ivalo airport to Suomen Latu Kiilopää (on all flights waits for everyone to arrive)
 
- - add your time & date to Trello - know who to meet at the bus, or at the venue
- -
- - there will be familiar faces on most planes to Kiilopää - so probably already on the bus to Kiilopää, there will be codefreeze participants.
+- add your time & date to Trello - know who to meet at the bus, or at the venue
+-
+- there will be familiar faces on most planes to Kiilopää - so probably already on the bus to Kiilopää, there will be codefreeze participants.
 
 ## What to expect?
 
- - CodeFreeze is an unconference which is nearly entirely run by you, the participants. Typically there are 3-4 days of conference mixed with a lot of outdoor activities.
+- CodeFreeze is an unconference which is nearly entirely run by you, the participants. Typically there are 3-4 days of conference mixed with a lot of outdoor activities.
 
- - We will start with a marketplace where everyone can introduce themselves and share the topics or questions they brought. Please add them to the Trello so everyone can participiate and mark their interest by joining a card.
+- We will start with a marketplace where everyone can introduce themselves and share the topics or questions they brought. Please add them to the Trello so everyone can participiate and mark their interest by joining a card.
 
- - Because of the short daylight we focus on the outdoor activities in the morning (~1000-1500),  the conference sessions happen when most are back. Please remember: you decide when the time  is right for a session, an activity, a nap, or ... Smoke Sauna!
+- Because of the short daylight we focus on the outdoor activities in the morning (~1000-1500), the conference sessions happen when most are back. Please remember: you decide when the time is right for a session, an activity, a nap, or ... Smoke Sauna!
 
- - This is what you don't want to miss! On Monday, we have a private sauna only for us. And there is a hot tub right next to the sauna - or how would you call water that might be up to 20*C hotter than the air?
+- This is what you don't want to miss! On Monday, we have a private sauna only for us. And there is a hot tub right next to the sauna - or how would you call water that might be up to 20\*C hotter than the air?
 
 ## What to bring
 
- * There is a packing list, made up by codefreeze regulars, in the Trello: https://trello.com/c/PLllUJuf
+- There is a packing list, made up by codefreeze regulars, in the Trello: https://trello.com/c/PLllUJuf
 
- * Also read ‘What to Bring’ from the site: https://codefreeze.fi/#what-to-bring-with-you
+- Also read ‘What to Bring’ from the site: https://codefreeze.fi/#what-to-bring-with-you
 
-   * COVID self tests
+  - COVID self tests
 
-   * swimming suit
+  - swimming suit
 
-   * backpack (that you can carry while skiing in -20C)
+  - backpack (that you can carry while skiing in -20C)
 
-   * thermos (having warm juice when outdoors is so nice to have)
+  - thermos (having warm juice when outdoors is so nice to have)
 
 ## WiFi
 
- * There is wifi at the main hall. It might work at the hotel rooms, but not in the cabins.
+- There is wifi at the main hall. It might work at the hotel rooms, but not in the cabins.
 
- * Since we’re in Finland, a land with proper cellular coverage, there is a good 4G coverage.
+- Since we’re in Finland, a land with proper cellular coverage, there is a good 4G coverage.
 
 ---
 

@@ -69,8 +69,8 @@ The Trello board is also used for coordinating travel arrangements and planning 
 
 ### Blog Posts
 
-- 2016: [Lessons from Codefreeze 2016](http://slides.com/deniseyu/lessons-from-codefreeze-2016) by [Denise Yu](https://twitter.com/deniseyu21)
-- 2017: [codefreeze brings the magic of SoCraTes to Lapland](https://coderbyheart.com/codefreeze-brings-the-magic-of-socrates-to-lapland/) by [Markus Tacker](https://twitter.com/coderbyheart)
+- 2016: [Lessons from Codefreeze 2016](http://slides.com/deniseyu/lessons-from-codefreeze-2016) by [Denise Yu](http://deniseyu.io/)
+- 2017: [codefreeze brings the magic of SoCraTes to Lapland](https://coderbyheart.com/codefreeze-brings-the-magic-of-socrates-to-lapland/) by [Markus Tacker](https://coderbyheart.com/)
 
 <section class="tweets" id="tweets">
     <a href="https://twitter.com/EvAltenberga/status/953578300307312641"></a>
@@ -286,13 +286,9 @@ For more information about the safaris, including prices, see the brochure here 
     {% if participant.link != null %}<a href="{{ participant.link }}" rel="noopener noreferrer">
         <i class="fas fa-home"></i>
     </a>{% endif %}
-    {% if participant.twitter != null %}
-      <a href="https://twitter.com/{{ participant.twitter | replace: "https://twitter.com/", "" }}" rel="noopener noreferrer">
-        <i class="fab fa-twitter"></i></a>
-    {% endif %}
-    {% if participant.activityPub != null %}
-      <a href="{{ participant.activityPub }}" rel="noopener noreferrer">
-        <img src="{{ site.baseurl }}/logos/mastodon.svg" alt="ActivityPub" class="icon" />
+    {% if participant.mastodon != null %}
+      <a href="{{ participant.mastodon }}" rel="noopener noreferrer">
+        <img src="{{ site.baseurl }}/logos/mastodon.svg" alt="mastodon" class="icon" />
       </a>
     {% endif %}
     {% if participant.linkedin != null %}
@@ -323,7 +319,7 @@ Feel invited to contact us via our details listed below
 Signed,
 The volunteers
 
-- Aki Salmi ([@rinkkasatiainen](https://twitter.com/rinkkasatiainen), [aki@rinkkasatiainen.fi](mailto:aki@rinkkasatiainen.fi))
-- Markus Tacker ([@coderbyheart@chaos.social](https://chaos.social/@coderbyheart), [m@coderbyheart.com](mailto:m@coderbyheart.com))
+- [Aki Salmi](https://about.me/rinkkasatiainen), [aki@rinkkasatiainen.fi](mailto:aki@rinkkasatiainen.fi))
+- [Markus Tacker](https://coderbyheart.com/) ([@coderbyheart@chaos.social](https://chaos.social/@coderbyheart), [m@coderbyheart.com](mailto:m@coderbyheart.com))
 
 Follow <a rel="me" href="https://discuss.systems/@codefreeze">@codefreeze@discuss.systems</a> on Mastodon.
