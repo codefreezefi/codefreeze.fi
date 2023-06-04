@@ -1,0 +1,13 @@
+---
+# Renders the status from the _status folder as a JSON document
+# so they can be used by the JavaScript that renders the Gallery
+---
+[
+{% for status in site.status %}{
+    "author": {{ status.author | jsonify }},
+    "date": {{ status.date | jsonify }},
+    "media": {{ status.media | jsonify }},
+    "content": {{ status.content | jsonify }}
+}{%- unless forloop.last %},{% endunless -%}
+{% endfor %}
+]

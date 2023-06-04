@@ -72,21 +72,8 @@ The Trello board is also used for coordinating travel arrangements and planning 
 - 2016: [Lessons from Codefreeze 2016](http://slides.com/deniseyu/lessons-from-codefreeze-2016) by [Denise Yu](http://deniseyu.io/)
 - 2017: [codefreeze brings the magic of SoCraTes to Lapland](https://coderbyheart.com/codefreeze-brings-the-magic-of-socrates-to-lapland/) by [Markus Tacker](https://coderbyheart.com/)
 
-<script type="text/javascript">
-const status = []
-{% for status in site.status %}
-status.push({
-    "author": {{ status.author | jsonify }},
-    "date": {{ status.date | jsonify }},
-    "media": {{ status.media | jsonify }},
-    "content": {{ status.content | jsonify }},
-})
-{% endfor %}
-</script>
-
 <section id="status" class='status'>
 </section>
-
 
 ## Why?
 
