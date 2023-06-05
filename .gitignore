@@ -4,3 +4,4 @@ _site
 .DS_Store
 styles/autoprefixer/node_modules
 .idea/
+node_modules/

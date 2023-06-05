@@ -228,25 +228,6 @@ body > main {
   }
 }
 
-section.tweets {
-  overflow: hidden;
-  background: $dark-blue
-    url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
-  @media (min-width: $desktop-width) {
-    background-image: url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1000&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");
-  }
-  background-size: cover;
-  background-position: bottom;
-
-  display: flex;
-  justify-content: center;
-  padding: 2rem 0;
-  iframe + iframe,
-  twitterwidget + twitterwidget {
-    margin-left: 1rem;
-  }
-}
-
 #participants {
   background: #000
     url("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=300&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinkkasatiainen%2Fcodefreeze.fi%2Fgh-pages%2Fimages%2Fhero-unit.jpg");

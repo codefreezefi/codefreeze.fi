@@ -46,3 +46,10 @@ Occasionally it may be necessary to update the dependencies to match latest vers
 You can launch a DevContainer for example in VSCode. After launch, you can start the server using
 
     bundle exec jekyll serve
+
+## Building the JavaScript for the gallery
+
+```bash
+npm ci
+npx vite build
+```
