@@ -41,11 +41,25 @@ section.status .gallery div {
 }
 
 section.status .gallery div div.content {
-  margin: 0 0.5rem 0 0.5rem;
-  text-shadow: 1px 1px 2px #000, -1px 1px 2px #000, 1px -1px 2px #000, -1px -1px 2px #000;
+  margin: 0 0.5rem 0.5rem 0.5rem;
+  text-shadow: 1px 1px 4px #000, -1px 1px 4px #000, 1px -1px 4px #000, -1px -1px 4px #000;
   color: #fff;
   line-height: 100%;
+  font-size: 90%;
 }
+
+@media (min-width: 500px) {
+  section.status .gallery div div.content {
+    font-size: 100%;
+    padding: 0.25rem;
+  }
+}
+
+section.status .gallery div div.content p {
+  margin: 0.5rem 0 0 0;
+}
+
+
 
 section.status .gallery div div.content a {
   color: #fff;
