@@ -1,6 +1,6 @@
 ---
 name: Charlotte Oetken
 pronouns: She/ her
-image: https://drive.google.com/file/d/1CjOVNbGR2FFHY3-kItfh5AB6Bw_a95_x/view?usp=drive_link
+image: https://user-images.githubusercontent.com/188915/202032523-61d132e6-8d50-44ab-a4ff-d00377599c53.jpg
 linkedin: https://www.linkedin.com/in/charlotte-oetken-775a23181/
 ---
