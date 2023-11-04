@@ -101,10 +101,10 @@ Book your stay in Kiilopää yourself by email to [kiilopaa@suomenlatu.fi](mailt
 
 The prices include _stay_, _breakfast_, _lunch_, _dinner_ and (most probably) _smoke sauna_ on Monday or Tuesday:
 
-- For [single bed room](https://www.kiilopaa.fi/en/accomodation/hotel-niilanpaa/): 92 € / person / night
-- For [double](https://www.kiilopaa.fi/en/accomodation/hotel-niilanpaa/) 70 € / person / night
-- For a [wilderness cabin](https://www.kiilopaa.fi/en/accomodation/cabins/) 105 € / cabin / night + 39€ / person / day for the meals
-- For a [log cabin](https://www.kiilopaa.fi/en/accomodation/cabins/) (very suitable for families): 120 € / cabin / night + 39€ / person / day
+- For [single bed room](https://www.kiilopaa.fi/en/accomodation/hotel-niilanpaa/): 600 € / a week
+- For [double](https://www.kiilopaa.fi/en/accomodation/hotel-niilanpaa/) 75 € / person / night
+- For a [wilderness cabin](https://www.kiilopaa.fi/en/accomodation/cabins/) 105 € / cabin / night + 40€ / person / day for the meals
+- For a [log cabin](https://www.kiilopaa.fi/en/accomodation/cabins/) (very suitable for families): 120 € / cabin / night + 40€ / person / day
 
 ### About the cabins
 
