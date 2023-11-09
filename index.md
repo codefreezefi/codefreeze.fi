@@ -263,6 +263,11 @@ For more information about the safaris, including prices, see the brochure here 
       <a href="{{ participant.linkedin }}" rel="noopener noreferrer">
         <i class="fab fa-linkedin"></i></a>
     {% endif %}
+    {% if participant.matrix != null %}
+      <a href="https://matrix.to/#/{{ participant.matrix }}" rel="noopener noreferrer">
+        <img src="{{ site.baseurl }}/logos/matrix.svg" alt="matrix" class="icon" />
+      </a>
+    {% endif %}
     </nav>
     {% if participant.content != null %}<div class="description">{{ participant.content }}</div>{% endif %}
   </li>
