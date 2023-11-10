@@ -7,5 +7,5 @@ image: https://images.contentful.com/bncv3c2gt878/6CWMgqeZdCmkk6KkIUksgQ/5092209
 contact-via: m@coderbyheart.com
 room-type: big cabin with Aki
 linkedin: https://www.linkedin.com/in/markustacker
-matrix: @coderbyheart:matrix.im
+matrix: "@coderbyheart:matrix.im"
 ---

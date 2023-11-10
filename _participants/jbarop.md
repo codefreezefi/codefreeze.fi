@@ -5,5 +5,5 @@ pronouns: he/him
 room-type: [quadruple (with TBD)]
 mastodon: https://chaos.social/@jbarop
 linkedin: https://www.linkedin.com/in/jbarop
-matrix: @jbarop:matrix.im
+matrix: "@jbarop:matrix.im"
 ---
