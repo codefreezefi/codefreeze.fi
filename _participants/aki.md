@@ -6,5 +6,6 @@ image: https://pbs.twimg.com/profile_images/1877737374/20110907at09-16-47_400x40
 email: aki.salmi@iki.fi
 matrix: "@rinkkasatiainen:pikaviestin.fi"
 mastodon: https://mastodon.social/@rinkkasatiainen
+linkedin: https://www.linkedin.com/in/rinkkasatiainen/
 ---
 
