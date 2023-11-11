@@ -79,13 +79,13 @@ The Trello board is also used for coordinating travel arrangements and planning 
 
 ### Winter? Really?
 
-Have you ever been coding under the northern lights? Or in a Lapp daylight? Early-mid February is one of the best times to see northern lights in action. And it also happens, that there's a full moon during the stay. We've done what we can - provide best possible time for some extraordinary experiences.
+Have you ever been coding under the northern lights? Or in a Lapp daylight? Early-mid February is one of the best times to see northern lights in action. It turn out that during our stay in 2024, we have a new moon - which means that if we get lucky with the auroras, there is less other light sources (moon) and the auroras can be seen as more intensive. That also means that the evenings will be way darker than during full moon (like 2023)
 
 We know it might be rather cold. Temperatures down to -25°C are normal at the time of the year. For some clothing tips, see the [FAQ](#faq).
 
 ### Smoke sauna?
 
-Being in Lapland in the winter, and one of the most important things is to have a decent sauna. And we do. There's a big enough smoke sauna to have probably up to 30 programmers. And possibility for winter swimming on a relaxing little stream.
+Being in Lapland in the winter, and one of the most important things is to have a decent sauna. And we do. There's a big enough smoke sauna to have probably up to 25 programmers. And possibility for winter swimming on a relaxing little stream.
 
 ### Want to relax a bit while coding?
 
@@ -181,7 +181,7 @@ The Sauna World of Kiilopää is called Kuurakaltio. There are two electric saun
 
 Have you ever been winter swimming? It is an experience when the air temperature is around -20 ºC while the water is -1 ºC. You might want to dip into the refreshing waters of Kiilopuro fell brook. And if feeling really crazy, why not to take a fresh start in the morning?
 
-During Codefreeze, the smoke sauna is heated on Tuesday on Wednesday, and on Tuesday we have a private sauna from 3pm-6pm.
+During Codefreeze, the smoke sauna is heated on some weekdays (check from Kiilopää), and on Monday we have a private sauna for the evening.
 
 _More information about [the smoke sauna in Kiilopää](https://www.kiilopaa.fi/en/outdoor-activities/smoke-sauna.html)._
 
