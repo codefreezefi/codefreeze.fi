@@ -5,4 +5,6 @@ image: https://ja.ishalt.so/andibraeu.jpg
 mastodon: https://social.bau-ha.us/@andibraeu
 linkedin: https://linkedin.com/in/andreasbraeu
 link: https://blog.andi95.de
+contact-via: ab+codefreeze@andi95.de
+matrix: "@andibraeu:bau-ha.us"
 ---
