@@ -6,7 +6,7 @@ contact-via: nelis@boucke.be
 room-type: cabin (with Matteo and Grazia)
 link: https://nelis.boucke.be/
 mastodon: https://hachyderm.io/@nelis
-matrix: @nelis:envs.net
+matrix: "@nelis:envs.net"
 linkedin: https://www.linkedin.com/in/nelis/
 ---
 
