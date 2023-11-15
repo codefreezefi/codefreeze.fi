@@ -1,0 +1,14 @@
+---
+name: Validate yaml files
+
+on:
+  - push
+  - pull_request
+
+jobs:
+  validate-yaml:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: validate participants yaml files
+        run: yamllint -c yamllint-config.yaml _participants/*
