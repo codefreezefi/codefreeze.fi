@@ -4,7 +4,10 @@ name: Validate yaml files
 on:
   - push
   - pull_request
-  - workflow_dispatch
+
+permissions:
+  contents: read
+  pull-requests: write # enable write permissions for pull request comments
 
 jobs:
   validate-yaml:
@@ -22,7 +25,7 @@ jobs:
         id: json-yaml-validate
         uses: GrantBirki/json-yaml-validate@v2.4.0
         with:
-          comment: "true"
+          comment: true
           json_schema: ./participants-schema.json
           json_exclude_regex: ".*template\\.md\\.yaml$"
           base_dir: "./_participants"
