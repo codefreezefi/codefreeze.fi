@@ -1,0 +1,29 @@
+---
+name: Validate yaml files
+
+on:
+  - push
+  - pull_request
+  - workflow_dispatch
+
+jobs:
+  validate-yaml:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: get go-yq
+        run: |
+          wget https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O yq
+          chmod +x yq
+      - name: extract front matter
+        run: |
+          find ./_participants -name  "*.md" -exec bash -c "./yq --front-matter=extract {} > {}.yaml " \;
+      - name: json-yaml-validate
+        id: json-yaml-validate
+        uses: GrantBirki/json-yaml-validate@v2.4.0
+        with:
+          comment: "true"
+          json_schema: ./participants-schema.json
+          json_exclude_regex: ".*template\\.md\\.yaml$"
+          base_dir: "./_participants"
+          yaml_as_json: true
