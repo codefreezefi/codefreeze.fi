@@ -5,15 +5,17 @@
   "definitions": {
     "url": {
       "type": "string",
-      "pattern": "^(http|https)://[A-Za-z0-9ÄÖÜäöüß\\-_\\./]+"
+      "pattern": "^https?://\\S+$"
     }
   },
   "properties": {
     "name": {
-      "type": "string"
+      "type": "string",
+      "minLength": 2
     },
     "pronouns": {
-      "type": "string"
+      "type": "string",
+      "minLength": 2
     },
     "link": {
       "$ref": "#/definitions/url"
@@ -30,7 +32,8 @@
       "pattern": "^(^[A-z0-9äöüÄÖUß_\\-\\.\\+]+@[A-z0-9äöüÄÖUß_\\-\\.]+\\.[A-Za-z]{2,}$|[\\+]?[(]?[0-9]{3}[)]?[-\\s\\.]?[0-9]{3}[-\\s\\.]?[0-9]{4,6})$"
     },
     "room-type": {
-      "type": "string"
+      "type": "string",
+      "minLength": 2
     },
     "linkedin": {
       "type": "string",
