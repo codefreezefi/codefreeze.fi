@@ -22,14 +22,14 @@
     },
     "mastodon": {
       "type": "string",
-      "pattern": "^(http|https)://[A-z0-9.\\-/]+/@[A-z0-9._%+\\-]+$"
+      "pattern": "^https?://\\S+/@\\S+$"
     },
     "image": {
       "$ref": "#/definitions/url"
     },
     "contact-via": {
       "type": "string",
-      "pattern": "^(^[A-z0-9äöüÄÖUß_\\-\\.\\+]+@[A-z0-9äöüÄÖUß_\\-\\.]+\\.[A-Za-z]{2,}$|[\\+]?[(]?[0-9]{3}[)]?[-\\s\\.]?[0-9]{3}[-\\s\\.]?[0-9]{4,6})$"
+      "minLength": 2
     },
     "room-type": {
       "type": "string",
@@ -41,7 +41,7 @@
     },
     "matrix": {
       "type": "string",
-      "pattern": "@[A-z0-9._=-]+:[A-z0-9.-]+\\.[A-z]{2,}"
+      "pattern": "@\\S+:\\S+"
     }
   },
   "required": [
