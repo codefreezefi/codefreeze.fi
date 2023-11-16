@@ -26,7 +26,7 @@ jobs:
         uses: GrantBirki/json-yaml-validate@v2.4.0
         with:
           comment: true
-          json_schema: ./participants-schema.json
+          json_schema: ./_participants/schema.json
           json_exclude_regex: ".*template\\.md\\.yaml$"
           base_dir: "./_participants"
           yaml_as_json: true

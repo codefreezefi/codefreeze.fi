@@ -41,10 +41,8 @@
     },
     "matrix": {
       "type": "string",
-      "pattern": "@\\S+:\\S+"
+      "pattern": "^\"@\\S+:\\S+\"$"
     }
   },
-  "required": [
-    "name"
-  ]
+  "required": ["name"]
 }
