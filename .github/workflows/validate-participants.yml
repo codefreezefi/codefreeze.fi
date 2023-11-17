@@ -27,6 +27,6 @@ jobs:
         with:
           comment: true
           json_schema: ./_participants/schema.json
-          json_exclude_regex: "^(_template\\.md\\.yaml|schema\\.json)$"
+          json_exclude_regex: ".*(_template\\.md\\.yaml|schema\\.json)$"
           base_dir: "./_participants"
           yaml_as_json: true
