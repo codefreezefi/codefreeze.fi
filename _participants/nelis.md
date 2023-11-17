@@ -1,6 +1,6 @@
 ---
 name: Nelis
-image: 
+image: https://user-images.githubusercontent.com/188915/203732399-bd0de2dd-8153-427e-b75d-07a21484b481.png
 pronouns: he/him
 contact-via: nelis@boucke.be
 room-type: cabin (with Matteo and Grazia)

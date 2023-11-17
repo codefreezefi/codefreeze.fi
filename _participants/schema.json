@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Participants Schema",
+  "type": "object",
+  "definitions": {
+    "url": {
+      "type": "string",
+      "pattern": "^https?://\\S+$"
+    }
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 2
+    },
+    "pronouns": {
+      "type": "string",
+      "minLength": 2
+    },
+    "link": {
+      "$ref": "#/definitions/url"
+    },
+    "mastodon": {
+      "type": "string",
+      "pattern": "^https?://\\S+/@\\S+$"
+    },
+    "image": {
+      "$ref": "#/definitions/url"
+    },
+    "contact-via": {
+      "type": "string",
+      "minLength": 2
+    },
+    "room-type": {
+      "type": "string",
+      "minLength": 2
+    },
+    "linkedin": {
+      "type": "string",
+      "pattern": "^(http|https)://([a-z]{2,3}\\.|)linkedin\\.com/in/[A-z0-9\\-]+"
+    },
+    "matrix": {
+      "type": "string",
+      "pattern": "^@\\S+:\\S+$"
+    }
+  },
+  "required": ["name"]
+}
