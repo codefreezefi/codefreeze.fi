@@ -68,6 +68,8 @@ That's what I wear. Mostly merino wool. Except of some inner layer mesh clothes 
 For Codefreeze, for you - what to bring. No need to buy everything. If you want something - think about buying something made from 100% merino wool - that I think would provide the most value and that could be used later.
 Buff. again - my favorite garment of all: merino wool Buff. It made of awesomeness, in it's pure form. It has to be.
 
+> Note: You need only maximum two pieces of each Merino item; they are after all quite expensive. Merino wool does not start to smell quickly like cotton. And you can put it outside over night which will kill bacteria.
+
 Anyway, I'll bring most of my gear. I'll be around from Sunday evening until Thursday (early) morning. I will be helping with the outer layer - so that no-one actually needs to freeze.
 
 And, if you'be read this far - please bring swimming suit. I know, we are in Finland and in Finland we go to sauna naked. That's true, except in (most) public saunas, where there can be anyone. And, swimming suit is nice when dipping into the rather refreshing water nearby the sauna.
