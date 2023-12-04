@@ -1,11 +1,8 @@
 ---
 name: Adriana (aka quilaztli.a)
-image: https://avatars.githubusercontent.com/u/17046510?s=40&v=4
+image: https://github.com/quilaztlia/codefreeze.fi/assets/188915/dfa9bc46-dd22-4779-b0c2-3d909cbd93e8
 pronouns: she/her
 contact-via: adriananavag@gmail.com
-room-type: cabin with 
-link: (?)
 mastodon: https://mastodon.social/@quilaztli
-matrix:
 linkedin: https://www.linkedin.com/in/adriana-nava-aguilar/
 ---
