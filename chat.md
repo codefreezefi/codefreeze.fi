@@ -18,7 +18,9 @@ All communication in all channels on `matrix.codefreeze.fi` is subject to [our C
 
 > If you already have an account, you can skip this step.
 
-First, you need a Matrix account. You get an account by signing up on one of the many [public homeservers](https://joinmatrix.org/servers/), for example [matrix.im](https://matrix.im). Visit the homeserver and register a new account.
+First, you need a Matrix account.
+- You can create an account on the default public server hosted by [matrix.org](https://matrix.org) following [these instructions](https://matrix.org/docs/chat_basics/matrix-for-im/#creating-a-matrix-account).
+- Or by joining one of the many [public homeservers](https://joinmatrix.org/servers/).
 
 In order to keep the costs down we do not allow to register new accounts on the Codefreeze homeserver `matrix.codefreeze.fi`, because if these accounts are used to join channels on other Matrix homeservers, incoming federation traffic will be significantly increased.
 
