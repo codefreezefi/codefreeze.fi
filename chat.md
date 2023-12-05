@@ -22,6 +22,8 @@ First, you need a Matrix account. You get an account by signing up on one of the
 
 In order to keep the costs down we do not allow to register new accounts on the Codefreeze homeserver `matrix.codefreeze.fi`, because if these accounts are used to join channels on other Matrix homeservers, incoming federation traffic will be significantly increased.
 
+The Matrix.org Foundation is a public provider everybody can register an account on for free. For your first steps, the simplest is to register an account there. [Read more on matrix.org docs](https://matrix.org/docs/chat_basics/matrix-for-im/#creating-a-matrix-account)
+
 ## 2. Join the Codefreeze space
 
 Join the Codefreeze space using [this link](https://matrix.to/#/#space:matrix.codefreeze.fi) to find all the relevant channels.
