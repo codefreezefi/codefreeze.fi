@@ -19,6 +19,7 @@ All communication in all channels on `matrix.codefreeze.fi` is subject to [our C
 > If you already have an account, you can skip this step.
 
 First, you need a Matrix account.
+
 - You can create an account on the default public server hosted by [matrix.org](https://matrix.org) following [these instructions](https://matrix.org/docs/chat_basics/matrix-for-im/#creating-a-matrix-account).
 - Or by joining one of the many [public homeservers](https://joinmatrix.org/servers/).
 
@@ -41,4 +42,4 @@ You may at any time request additional public or private channels, just reach ou
 
 ## Infrastructure
 
-`matrix.codefreeze.fi` runs on an _small_ [AWS Lightsail](https://aws.amazon.com/lightsail/) instance (2 GB RAM, 2 vCPUs, 60 GB SSD) which costs USD$ 10 / month and is hosted in the `eu-north` (Stockholm) region.
+`matrix.codefreeze.fi` runs on an _small_ [AWS Lightsail](https://aws.amazon.com/lightsail/) instance (2 GB RAM, 2 vCPUs, 60 GB SSD) which costs around USD$ 12.50 / month and is hosted in the `eu-north` (Stockholm) region.
