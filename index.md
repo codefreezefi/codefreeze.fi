@@ -55,6 +55,8 @@ The Trello board is also used for coordinating travel arrangements and planning 
 - [2018](https://trello.com/b/WtOxnkMU/codefreeze-2018)
 - [2019](https://trello.com/b/RO5wOXI0/codefreeze-2019)
 - [2020](https://trello.com/b/SsjzVKGZ/codefreeze-2020)
+- [2023](https://trello.com/b/nJtEY0ns/codefreeze-2023)
+- [2024](https://trello.com/b/OqRDk9dz/codefreeze-2024)
 
 ### Photos
 
@@ -62,10 +64,12 @@ The Trello board is also used for coordinating travel arrangements and planning 
 - 2018: [Markus](https://www.flickr.com/photos/tacker/sets/72157662836528657), [Steffie](https://photos.google.com/share/AF1QipN6I2ZjNFiVjzyVggQV8lgdU_u7__pDq2RQ0DhWAaYqRI1iD_P6SnxRLAFBpyyHbg?key=MTNnd3gxZkNNOVphb2ZyS0luN3RJd3B3aUYzTEhn), [Franzi](https://photos.google.com/share/AF1QipMg-kfDKMsVwdrPbPsKj-lOMLnQEB42lqIArQv6LbDeY307Mv7iN2uyh0QD0jIp-w?key=M2V4Mk5VYUZWVWJ5WHR4UDdCbFNVRjhFNmVSQ0N3)
 - 2019: [Markus](https://www.flickr.com/photos/tacker/albums/72157675567232707), [Esko](https://photos.google.com/share/AF1QipP3pUnV_56LLrB2HTUb9SK5PoLACixJANaNwiXybiG6pPQYfEpjtQXcENJjqftlUA?key=R0hieG92Y1hHbmNBWVEydWhUNUp1UnZLWlRWTlVR)
 - 2020: [Markus](https://www.flickr.com/photos/tacker/albums/72157712748638692), [Esko](https://photos.app.goo.gl/iLND4eEWWstSFYMfA)
+- 2023: [Markus](https://photos.coderbyheart.com/album/codefreeze-2023)
 
 ### Videos
 
 - 2017: [Markus](https://www.youtube.com/playlist?list=PLrIHkXEd9uqwf46oGZ2yTshhgb7Uv_RwV)
+- 2024: [Recap (various participants)](https://www.youtube.com/watch?v=oEV6H9W5zSA), [Markus](https://youtube.com/playlist?list=PLrIHkXEd9uqxt6tlsvTxhv_6b7wCeDIE2&si=GY4P7Z5Ln38Kk8Ai)
 
 ### Blog Posts
 
