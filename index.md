@@ -2,8 +2,8 @@
 layout: 2018
 title: Codefreeze
 tagline: Prepare for your last commit
-when: Sat Jan 6th - Sat 13th 2024
-where: Kiilopää, Finland
+when: Sat Jan 11th - Sat 18th 2025
+where: (somewhere in), Finland
 description: Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a time and place for software craftspeople to meet.
 ---
 
@@ -12,8 +12,6 @@ description: Codefreeze is an unconference with very little structure. Actually,
 Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a _time_ and _place_ for software craftspeople to meet. We would like to have likeminded people to gather in one place and have long conversations about our craft over a drink. And to practice our coding skills.
 
 While most sessions happen from Monday to Friday, participants typically spend a full week in Kiilopää to enjoy the amazing winter nature and activities.
-
-This year, we’ll experience new moon - time when the moon does not _enlighten us_, but hopefully gives more room for Aurora Borealis to do that.
 
 Did we mention that this place is above the arctic circle? Which is pretty cool. Or _freezingly cold actually_.
 
@@ -24,7 +22,7 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
     </div>
     <div class="text">
         <p><strong>When</strong><br>{{page.when}}</p>
-        <p><strong>Where</strong><br>In the beautiful scenes of Kiilopää, Inari, Finland.</p>
+        <p><strong>Where</strong><br>TBD, Finland.</p>
         <p><strong>What</strong><br>A family-friendly 7-day unconference that feels like a vacation.</p>
     </div>
     <div class="photo">
@@ -43,7 +41,7 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
 
 ## Past Events
 
-Since 2015, Codefreeze has happened every year around January. In 2019 we had about 35 participants plus their family and friends.
+Since 2015, Codefreeze has happened every year around January. In 2019 we had about 35 participants plus their family and friends, 40 in 2020, 50 participants in 2023 and around 80 in 2024.
 
 ### <a name="trello"></a>Sessions
 
@@ -104,12 +102,16 @@ Book your stay in Kiilopää yourself by email to [kiilopaa@suomenlatu.fi](mailt
 
 ### And what does it cost?
 
-The prices include _stay_, _breakfast_, _lunch_, _dinner_ and (most probably) _smoke sauna_ on Monday or Tuesday:
+The prices include _stay_
 
-- For [single bed room](https://www.kiilopaa.fi/en/accomodation/hotel-niilanpaa/): 600 € / a week
-- For [double](https://www.kiilopaa.fi/en/accomodation/hotel-niilanpaa/) 75 € / person / night
-- For a [wilderness cabin](https://www.kiilopaa.fi/en/accomodation/cabins/) 105 € / cabin / night + 40€ / person / day for the meals
-- For a [log cabin](https://www.kiilopaa.fi/en/accomodation/cabins/) (very suitable for families): 120 € / cabin / night + 40€ / person / day
+- For [single bed room](https://www.kiilopaa.fi/en/accomodation/hotel-niilanpaa/): 635 € / room / week
+- For [double](https://www.kiilopaa.fi/en/accomodation/hotel-niilanpaa/) 720 € / room / week
+- For a [wilderness cabin](https://www.kiilopaa.fi/en/accomodation/cabins/) 930 € / cabin / week
+- For a [log cabin](https://www.kiilopaa.fi/en/accomodation/cabins/) (very suitable for families): 1075 € / cabin / week
+
+And meals
+
+- Full board package (breakfast, lunch, dinner) for 365 € / person / week
 
 ### About the cabins
 
@@ -121,16 +123,16 @@ Our small but cosy (30 square meters) log cabins are well suited for 2-4 persons
 
 #### Log cabin
 
-The log cabins are a bit bigger than the wilderness cabins (44 square meters each). A log cabin accommodates max. 2+2 persons. Each cabin has a bedroom (2 x 80 cm beds), living room (with a sofa bed for two, fireplace, tv-set) and an open kitchen area (with coffee maker, electric stove, microwave oven, fridge), electric sauna/shower and a bathroom. The dining table seats four. There is also a drying cabinet for clothes and small outdoor storage in the cabin.
+The log cabins are a bit bigger than the wilderness cabins (44 square meters each). A log cabin accommodates max. 2+2 persons. Each cabin has a bedroom (2 x 80 cm beds), living room (with a sofa bed for two - comfortable maybe for 1, fireplace, tv-set) and an open kitchen area (with coffee maker, electric stove, microwave oven, fridge), electric sauna/shower and a bathroom. The dining table seats four. There is also a drying cabinet for clothes and small outdoor storage in the cabin.
 
 ### About Food
 
 Folks have 2 good options: either
 
 - book full board that includes breakfast, lunch and dinner, or
-- prepare own meals at the cottages. Aki will be at the venue by car, so he can bring some food on the way, and folks can get to local supermarket daily.
+- prepare own meals at the cottages.
 
-Normally lunch and dinner is not vegetarian. If you prefer vegetarian food, or have food allergies, please contact the hotel and tell your preferences.
+Please contact the hotel and tell your preferences about vegan / vegetarian / allergies.
 
 ## What to bring with you:
 
