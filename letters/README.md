@@ -1,0 +1,2 @@
+- `participation-letter.svg`: This is a certificate of participation that can be provided to participants.
+- `invitation-letter.svg`: This is an invitation letter that can be provided to participants who need this kind of document for example for their VISA application.
