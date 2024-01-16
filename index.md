@@ -74,6 +74,7 @@ The Trello board is also used for coordinating travel arrangements and planning 
 
 - 2016: [Lessons from Codefreeze 2016](http://slides.com/deniseyu/lessons-from-codefreeze-2016) by [Denise Yu](http://deniseyu.io/)
 - 2017: [codefreeze brings the magic of SoCraTes to Lapland](https://coderbyheart.com/codefreeze-brings-the-magic-of-socrates-to-lapland/) by [Markus Tacker](https://coderbyheart.com/)
+- 2024: [Sofia](https://www.linkedin.com/posts/sofia-katsaouni-96111113b_codefreeze2024-socrates-activity-7152938836975644672-5R2d), [Georg](https://www.linkedin.com/posts/georg-becker-507b33233_codefreeze2024-activity-7152985564969852929-dDxs)
 
 <section id="status" class='status'>
 </section>
