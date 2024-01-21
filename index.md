@@ -63,7 +63,7 @@ The Trello board is also used for coordinating travel arrangements and planning 
 - 2019: [Markus](https://www.flickr.com/photos/tacker/albums/72157675567232707), [Esko](https://photos.google.com/share/AF1QipP3pUnV_56LLrB2HTUb9SK5PoLACixJANaNwiXybiG6pPQYfEpjtQXcENJjqftlUA?key=R0hieG92Y1hHbmNBWVEydWhUNUp1UnZLWlRWTlVR)
 - 2020: [Markus](https://www.flickr.com/photos/tacker/albums/72157712748638692), [Esko](https://photos.app.goo.gl/iLND4eEWWstSFYMfA)
 - 2023: [Markus](https://photos.coderbyheart.com/album/codefreeze-2023)
-- 2024: [Markus](http://photos.coderbyheart.com/album/codefreeze-2024), [Manfred](https://dreese.de/blog/codefreeze-2024)
+- 2024: [Markus](http://photos.coderbyheart.com/album/codefreeze-2024), [Manfred](https://dreese.de/blog/codefreeze-2024), [Esko](https://www.dropbox.com/scl/fo/qe5bk6haygw0a7s7om63o/h?rlkey=ks1hkyarralm2mt1ot99i9sxf&dl=0)
 
 ### Videos
 
