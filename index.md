@@ -3,7 +3,7 @@ layout: 2018
 title: Codefreeze
 tagline: Prepare for your last commit
 when: Sat Jan 11th - Sat 18th 2025
-where: (somewhere in), Finland
+where: Kiilopää, Finland
 description: Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a time and place for software craftspeople to meet.
 ---
 
@@ -22,7 +22,7 @@ Did we mention that this place is above the arctic circle? Which is pretty cool.
     </div>
     <div class="text">
         <p><strong>When</strong><br>{{page.when}}</p>
-        <p><strong>Where</strong><br>TBD, Finland.</p>
+        <p><strong>Where</strong><br>In the beautiful scenes of Kiilopää, Inari,, Finland.</p>
         <p><strong>What</strong><br>A family-friendly 7-day unconference that feels like a vacation.</p>
     </div>
     <div class="photo">
