@@ -53,7 +53,7 @@ Since 2015, Codefreeze has happened every year around January. In 2019 we had ab
 
 ### <a name="sessions"></a>Sessions
 
-To get an idea of what happens at Codefreeze, you can find the conference schedules on Wekan (2025 and later) and Trello (until 2024). Most _Codefreeze_ topics (green) have additional information in links in the cards.
+To get an idea of what happens at Codefreeze, you can find the conference schedules on Trello (2017&ndash;2024, and 2026) and Wekan (2025). Most _Codefreeze_ topics (green) have additional information in links in the cards.
 
 The Trello board is also used for coordinating travel arrangements and planning the next Codefreeze, so it's good to check it out in advance.
 
@@ -64,7 +64,7 @@ The Trello board is also used for coordinating travel arrangements and planning 
 - [2023](https://trello.com/b/nJtEY0ns/codefreeze-2023)
 - [2024](https://trello.com/b/OqRDk9dz/codefreeze-2024)
 - [2025](https://board.codefreeze.fi/b/sPxoRwncMK4cbKMPs/codefreeze-2025)
-- [2026](https://board.codefreeze.fi/b/FTo7tQiNRGAMmsSAL/codefreeze-2026)
+- [2026](https://trello.com/b/cK7tmw0O/codefreeze-2026)
 
 ### Photos
 
