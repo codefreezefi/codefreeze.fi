@@ -48,5 +48,5 @@ into `public/status.json` for the photo gallery component.
 ### Deployment
 
 The site deploys to GitHub Pages via GitHub Actions when changes are pushed to
-`main`. Ensure the repository's GitHub Pages source is set to **GitHub
+`saga`. Ensure the repository's GitHub Pages source is set to **GitHub
 Actions**.
