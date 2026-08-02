@@ -11,9 +11,6 @@
   "type": "module",
   "devDependencies": {
     "@preact/preset-vite": "2.10.6",
-    "chalk": "6.0.0",
-    "glob": "13.0.6",
-    "gm": "1.25.1",
     "preact": "10.29.8",
     "vite": "8.2.0"
   },
