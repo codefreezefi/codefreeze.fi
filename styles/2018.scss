@@ -178,6 +178,11 @@ body > main {
     justify-content: center;
     margin-top: 2rem;
     margin-bottom: 2rem;
+    p {
+      margin-left: 0;
+      margin-right: 0;
+      max-width: none;
+    }
     div {
       @media (min-width: $desktop-width) {
         width: math.div($desktop-width, 3);
