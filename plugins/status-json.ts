@@ -27,9 +27,7 @@ const generateStatusJson = (root: string): void => {
 	const statusDir = path.join(root, '_status')
 	const publicDir = path.join(root, 'public')
 
-	const files = fs
-		.readdirSync(statusDir)
-		.filter((file) => file.endsWith('.md'))
+	const files = fs.readdirSync(statusDir).filter((file) => file.endsWith('.md'))
 	const status: StatusEntry[] = files.map((file) => {
 		const filePath = path.join(statusDir, file)
 		const { data, content } = matter(fs.readFileSync(filePath, 'utf8'))

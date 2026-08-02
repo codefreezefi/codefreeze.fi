@@ -16,13 +16,13 @@
     "@bifravst/eslint-config-typescript": "7.0.32",
     "@bifravst/prettier-config": "1.1.17",
     "@preact/preset-vite": "2.10.6",
+    "@typescript/native": "npm:typescript@7.0.2",
     "@types/node": "26.1.2",
-    "eslint": "10.8.0",
     "husky": "9.1.7",
     "lint-staged": "17.3.0",
     "preact": "10.29.8",
     "prettier": "3.9.6",
-    "typescript": "7.0.2",
+    "typescript": "npm:@typescript/typescript6@6.0.2",
     "vite": "8.2.0"
   },
   "engines": {
@@ -40,7 +40,7 @@
   },
   "prettier": "@bifravst/prettier-config",
   "lint-staged": {
-    "*.{ts,tsx}": [
+    "*.{ts,tsx,mdx}": [
       "prettier --write",
       "eslint"
     ],

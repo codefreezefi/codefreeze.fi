@@ -24,9 +24,7 @@ export const Participants = (): preact.JSX.Element => {
 			try {
 				const res = await fetch(PARTICIPANTS_URL)
 				const participants = (await res.json()) as Profile[]
-				setProfiles(
-					participants.sort((a, b) => a.name.localeCompare(b.name)),
-				)
+				setProfiles(participants.sort((a, b) => a.name.localeCompare(b.name)))
 			} catch (error: unknown) {
 				console.error(error)
 			}
@@ -42,11 +40,7 @@ export const Participants = (): preact.JSX.Element => {
 	)
 }
 
-const Participant = ({
-	profile,
-}: {
-	profile: Profile
-}): preact.JSX.Element => (
+const Participant = ({ profile }: { profile: Profile }): preact.JSX.Element => (
 	<div class="participant">
 		<img
 			class="avatar"

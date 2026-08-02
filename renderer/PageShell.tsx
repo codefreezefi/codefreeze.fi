@@ -26,11 +26,7 @@ export const Header = ({ when, where }: HeaderProps): preact.JSX.Element => (
 							style="fill: currentColor; fill-opacity: 1"
 						/>
 					</svg>
-					<img
-						src="/logos/codefreeze.svg"
-						alt="Codefreeze"
-						class="logoText"
-					/>
+					<img src="/logos/codefreeze.svg" alt="Codefreeze" class="logoText" />
 				</div>
 				{when !== undefined && when !== '' && (
 					<p>
