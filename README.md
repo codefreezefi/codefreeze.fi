@@ -5,39 +5,48 @@ Welcome to CodeFreeze - a different kind of conference.
 
 ## Updating the site
 
-I highly encourage to test the site with Jekyll on your computer, if doing any (major) changes. GitHub has good instructions for [using Jekyll with GitHub Pages](https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages).
+The site is built with [Vike](https://vike.dev/) and
+[Preact](https://preactjs.com/).
 
-If you already have [Docker](https://www.docker.com/) on your computer, you may use this shell script for running Jekyll in Docker:
+### Prerequisites
 
-    ./serve.sh
+- Node.js 24 (see `engines` in `package.json`)
 
-Alternatively, you may install Jekyll directly on your computer:
+### Local development
 
-Install Bundler:
-
-    gem install bundler
-
-Install the gems from the Gemfile:
-
-    bundle install
-
-Run the site locally using Jekyll:
-
-    bundle exec jekyll serve
-
-Occasionally it may be necessary to update the dependencies to match latest version of GitHub Pages. This command will update the `Gemfile.lock` file which should be committed to version control:
-
-    bundle update
-
-### Using the DevContainer
-
-You can launch a DevContainer for example in VSCode. After launch, you can start the server using
-
-    bundle exec jekyll serve
-
-## Building the JavaScript for the gallery
+Install dependencies:
 
 ```bash
 npm ci
-npx vite build
 ```
+
+Run the development server:
+
+```bash
+npm start
+```
+
+### Production build
+
+```bash
+npm run build
+```
+
+Preview the production build locally:
+
+```bash
+npm run preview
+```
+
+The static site is output to `dist/client/`.
+
+### Status gallery data
+
+Twitter status entries live in `_status/*.md`. At build time, these are compiled
+into `public/status.json` for the photo gallery component.
+
+### Deployment
+
+The site deploys to GitHub Pages via GitHub Actions when changes are pushed to
+`main`. Ensure the repository's GitHub Pages source is set to **GitHub
+Actions**.

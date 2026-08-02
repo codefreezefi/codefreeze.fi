@@ -1,0 +1,66 @@
+section.participants {
+  display: grid;
+  grid-auto-rows: auto;
+  grid-gap: 0.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  margin: 0.5rem;
+}
+
+@media (min-width: 500px) {
+  section.participants {
+    margin: 1rem;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 150px));
+  }
+}
+
+@media (min-width: 1000px) {
+  section.participants {
+    grid-gap: 2rem;
+    margin: 4rem;
+    justify-content: center;
+  }
+}
+
+section.participants .participant {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+section.participants .participant h3 {
+  margin: 1rem 0 0 0;
+  font-size: 16px;
+}
+
+section.participants .participant h3 small {
+  font-weight: normal;
+}
+
+section.participants .participant img.avatar {
+  border-radius: 100%;
+  width: 100%;
+  max-width: 150px;
+  box-shadow: 0px 0px 7px 0px #0000002e;
+}
+
+section.participants img.icon,
+section.participants .svg-inline--fa {
+  width: 24px;
+  height: 24px;
+  color: #8eabc8;
+}
+
+section.participants nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0.5rem;
+  flex-wrap: wrap;
+}
+
+section.participants nav a + a {
+  margin-left: 0.5rem;
+}

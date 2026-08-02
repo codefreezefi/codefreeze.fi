@@ -1,28 +1,31 @@
 {
-  "compilerOptions": {
-    "target": "esnext",
-    "skipLibCheck": true,
-    "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true,
-    "strict": true,
-    "forceConsistentCasingInFileNames": true,
-    "module": "ESNext",
-    "moduleResolution": "node",
-    "resolveJsonModule": true,
-    "noEmit": true,
-    "noFallthroughCasesInSwitch": true,
-    "verbatimModuleSyntax": true,
-    "allowUnreachableCode": false,
-    "allowUnusedLabels": false,
-    "noImplicitOverride": true,
-    "noImplicitReturns": true,
-    "noUncheckedIndexedAccess": true,
-    "noUnusedLocals": true,
-    "jsx": "react-jsx",
-    "jsxImportSource": "preact",
-    "paths": {
-      "react": ["../node_modules/preact/compat/"],
-      "react-dom": ["../node_modules/preact/compat/"]
-    }
-  }
+	"compilerOptions": {
+		"target": "esnext",
+		"skipLibCheck": true,
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"strict": true,
+		"forceConsistentCasingInFileNames": true,
+		"module": "NodeNext",
+		"moduleResolution": "nodenext",
+		"resolveJsonModule": true,
+		"noEmit": true,
+		"noFallthroughCasesInSwitch": true,
+		"verbatimModuleSyntax": true,
+		"allowUnreachableCode": false,
+		"allowUnusedLabels": false,
+    "allowImportingTsExtensions": true,
+		"noImplicitOverride": true,
+		"noImplicitReturns": true,
+		"noUncheckedIndexedAccess": true,
+		"noUnusedLocals": true,
+		"jsx": "react-jsx",
+		"jsxImportSource": "preact",
+		"types": ["node"],
+		"paths": {
+			"react": ["../node_modules/preact/compat/"],
+			"react-dom": ["../node_modules/preact/compat/"]
+		}
+	},
+	"include": ["**/*.ts", "**/*.tsx", "vite-env.d.ts"]
 }

@@ -1,6 +1,0 @@
-permalink: none
-sass:
-    style: :compressed
-    sass_dir: styles/_snippets
-collections:
-- status

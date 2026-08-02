@@ -1,7 +1,3 @@
-_site
-.emails
-.sass-cache
-.DS_Store
-styles/autoprefixer/node_modules
-.idea/
+# Dependencies
 node_modules/
+dist/
