@@ -2,7 +2,7 @@
 layout: 2018
 title: Codefreeze
 tagline: Prepare for your last commit
-when: Sat Jan 10th - Sat 17th 2026
+when: Sat Jan 10th - Sat 17th 2027
 where: Kiilopää, Finland
 description: Codefreeze is an unconference with very little structure. Actually, it’s not a conference at all. Codefreeze is a time and place for software craftspeople to meet.
 ---

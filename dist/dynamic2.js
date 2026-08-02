@@ -1,33 +1,63 @@
-import { B as i, u as n, p as m, _ as r, k as h } from "./hooks.module-D3T0iSRI.js";
-const l = () => {
-  const [a, s] = m([]);
-  return r(() => {
-    fetch(
-      "https://ruj56hpsooydu4jmctx5u7gdra0mbszw.lambda-url.eu-north-1.on.aws/?codefreeze=2026"
-    ).then((t) => t.json()).then((t) => {
-      s(t.sort(
-        (o, c) => o.name.localeCompare(c.name)
-      ));
-    }).catch(console.error);
-  }, []), /* @__PURE__ */ n(h, { children: a.map((t) => /* @__PURE__ */ n(d, { profile: t })) });
-}, d = ({ profile: a }) => /* @__PURE__ */ n("div", { class: "participant", children: [
-  /* @__PURE__ */ n("img", { class: "avatar", src: a.photoThumbnail ?? "/images/avatar.jpg", alt: a.name }),
-  /* @__PURE__ */ n("h3", { children: [
-    a.name,
-    a.pronouns && /* @__PURE__ */ n("small", { children: [
-      /* @__PURE__ */ n("br", {}),
-      a.pronouns
-    ] })
-  ] }),
-  /* @__PURE__ */ n("nav", { children: [
-    a.homepage && /* @__PURE__ */ n(e, { icon: /* @__PURE__ */ n("i", { class: "fas fa-home" }), href: a.homepage, title: `Homepage of ${a.name}` }),
-    a.linkedin && /* @__PURE__ */ n(e, { icon: /* @__PURE__ */ n("i", { class: "fab fa-linkedin" }), href: a.linkedin, title: `${a.name}'s LinkedIn profile` }),
-    a.mastodon && /* @__PURE__ */ n(e, { icon: /* @__PURE__ */ n("img", { src: "/logos/mastodon.svg", alt: "mastodon", class: "icon" }), href: a.mastodon, title: `${a.name} on Mastodon` }),
-    a.matrix && /* @__PURE__ */ n(e, { icon: /* @__PURE__ */ n("img", { src: "/logos/matrix.svg", alt: "matrix", class: "icon" }), href: a.matrix, title: `${a.name} on Matrix` }),
-    a.github && /* @__PURE__ */ n(e, { icon: /* @__PURE__ */ n("i", { class: "fab fa-github" }), href: a.github, title: `${a.name} on GitHub` })
-  ] })
-] }), e = ({ href: a, title: s, icon: t }) => /* @__PURE__ */ n("a", { href: a, target: "_blank", rel: "noopener noreferrer", title: s, children: t });
-i(
-  /* @__PURE__ */ n(l, {}),
-  document.getElementById("participants-container")
-);
+import { a as e, i as t, n, r, t as i } from "./jsxRuntime.module-C4ESoj_a.js";
+//#region scripts/participants.tsx
+var a = () => {
+	let [t, a] = n([]);
+	return r(() => {
+		fetch("https://ruj56hpsooydu4jmctx5u7gdra0mbszw.lambda-url.eu-north-1.on.aws/?codefreeze=2027").then((e) => e.json()).then((e) => {
+			a(e.sort((e, t) => e.name.localeCompare(t.name)));
+		}).catch(console.error);
+	}, []), /* @__PURE__ */ i(e, { children: t.map((e) => /* @__PURE__ */ i(o, { profile: e })) });
+}, o = ({ profile: e }) => /* @__PURE__ */ i("div", {
+	class: "participant",
+	children: [
+		/* @__PURE__ */ i("img", {
+			class: "avatar",
+			src: e.photoThumbnail ?? "/images/avatar.jpg",
+			alt: e.name
+		}),
+		/* @__PURE__ */ i("h3", { children: [e.name, e.pronouns && /* @__PURE__ */ i("small", { children: [/* @__PURE__ */ i("br", {}), e.pronouns] })] }),
+		/* @__PURE__ */ i("nav", { children: [
+			e.homepage && /* @__PURE__ */ i(s, {
+				icon: /* @__PURE__ */ i("i", { class: "fas fa-home" }),
+				href: e.homepage,
+				title: `Homepage of ${e.name}`
+			}),
+			e.linkedin && /* @__PURE__ */ i(s, {
+				icon: /* @__PURE__ */ i("i", { class: "fab fa-linkedin" }),
+				href: e.linkedin,
+				title: `${e.name}'s LinkedIn profile`
+			}),
+			e.mastodon && /* @__PURE__ */ i(s, {
+				icon: /* @__PURE__ */ i("img", {
+					src: "/logos/mastodon.svg",
+					alt: "mastodon",
+					class: "icon"
+				}),
+				href: e.mastodon,
+				title: `${e.name} on Mastodon`
+			}),
+			e.matrix && /* @__PURE__ */ i(s, {
+				icon: /* @__PURE__ */ i("img", {
+					src: "/logos/matrix.svg",
+					alt: "matrix",
+					class: "icon"
+				}),
+				href: e.matrix,
+				title: `${e.name} on Matrix`
+			}),
+			e.github && /* @__PURE__ */ i(s, {
+				icon: /* @__PURE__ */ i("i", { class: "fab fa-github" }),
+				href: e.github,
+				title: `${e.name} on GitHub`
+			})
+		] })
+	]
+}), s = ({ href: e, title: t, icon: n }) => /* @__PURE__ */ i("a", {
+	href: e,
+	target: "_blank",
+	rel: "noopener noreferrer",
+	title: t,
+	children: n
+});
+t(/* @__PURE__ */ i(a, {}), document.getElementById("participants-container"));
+//#endregion
